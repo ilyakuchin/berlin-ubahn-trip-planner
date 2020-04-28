@@ -3822,31 +3822,6 @@ export default function Map() {
         x2='1495.891'
         y2='786.231'
       />
-      <g>
-        <rect
-          x='48.556'
-          y='80.655'
-          fill='#FFFFFF'
-          stroke='#040000'
-          stroke-miterlimit='10'
-          width='410.978'
-          height='161.175'
-        />
-        <text
-          transform='matrix(1 0 0 1 84.5522 142.0002)'
-          font-family="'TrebuchetMS'"
-          font-size='40'
-        >
-          U-bahn Netz Berlin
-        </text>
-        <text
-          transform='matrix(1 0 0 1 201.4805 199.5999)'
-          font-family="'TrebuchetMS'"
-          font-size='24'
-        >
-          (bis 2016)
-        </text>
-      </g>
       <rect
         x='2419.881'
         y='65.655'
