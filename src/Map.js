@@ -3,6 +3,7 @@ import StationLabel from './StationLabel';
 import Legend from './Legend';
 import UnderConstructionNote from './UnderConstructionNote';
 import U2Lines from './U2Lines';
+import U3Lines from './U3Lines';
 const stationLabelArr = require('./labels.json');
 
 export default function Map() {
@@ -31,116 +32,7 @@ export default function Map() {
       />
       {stationLabelsComponent}
       <U2Lines />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='388.666'
-        y1='1735.188'
-        x2='367.453'
-        y2='1713.976'
-      />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='413.415'
-        y1='1689.227'
-        x2='402.808'
-        y2='1678.617'
-      />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='448.77'
-        y1='1653.868'
-        x2='438.164'
-        y2='1643.265'
-      />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='484.125'
-        y1='1618.516'
-        x2='473.52'
-        y2='1607.906'
-      />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='519.48'
-        y1='1583.157'
-        x2='508.875'
-        y2='1572.554'
-      />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='554.836'
-        y1='1547.805'
-        x2='544.23'
-        y2='1537.198'
-      />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='590.192'
-        y1='1512.448'
-        x2='579.585'
-        y2='1501.843'
-      />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='625.547'
-        y1='1477.094'
-        x2='614.941'
-        y2='1466.487'
-      />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='667.974'
-        y1='1434.666'
-        x2='657.367'
-        y2='1424.061'
-      />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='813.914'
-        y1='1290.297'
-        x2='803.307'
-        y2='1279.69'
-      />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='910.105'
-        y1='1194.105'
-        x2='920.712'
-        y2='1204.712'
-      />
+      <U3Lines />
       <line
         fill='none'
         stroke='#040000'
@@ -623,14 +515,7 @@ export default function Map() {
         stroke-miterlimit='10'
         d='M1237.548,1380.688'
       />
-      <polyline
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        points='1097.695,1156.516 947.695,1156.516 
-	378.844,1725.365 '
-      />
+
       <polyline
         fill='none'
         stroke='#53A947'
