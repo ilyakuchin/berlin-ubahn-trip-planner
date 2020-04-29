@@ -1,7 +1,11 @@
 import React from 'react';
 import StationLabel from './StationLabel';
+const stationLabelArr = require('./labels.json');
 
 export default function Map() {
+  const stationLabelsComponent = stationLabelArr.map((label) => (
+    <StationLabel transform={label.transform} label={label.label} />
+  ));
   return (
     <svg
       version='1.1'
@@ -22,74 +26,7 @@ export default function Map() {
         points='2745.74,689.551 2422.316,1012.974 
 	2392.316,1012.974 2338.911,959.567 2000.246,959.567 1858.824,818.146 1728.824,818.146 '
       />
-      <StationLabel
-        transform='matrix(1 0 0 1 998.8394 1469.0002)'
-        label=' Innsbrucker Platz'
-      />
-
-      <text
-        transform='matrix(1 0 0 1 967.2363 1405.9983)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Rathaus Schöneberg
-      </text>
-      <text
-        transform='matrix(1 0 0 1 956.6177 1360.0002)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Bayerischer Platz
-      </text>
-      <text
-        transform='matrix(1 0 0 1 531.4951 1440.9417)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Heidelberger Platz
-      </text>
-      <text
-        transform='matrix(1 0 0 1 793.9229 1373.0002)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Blisse-straße
-      </text>
-      <text
-        transform='matrix(1 0 0 1 638.7266 1342.0002)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Fehrbelliner Platz
-      </text>
-      <text
-        transform='matrix(1 0 0 1 869.6948 1254.0159)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Spichernstraße
-      </text>
-      <text
-        transform='matrix(1 0 0 1 863.1948 1332.0159)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Berliner Straße
-      </text>
-      <text
-        transform='matrix(1 0 0 1 877 1294.0002)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Güntzelstraße
-      </text>
-      <text
-        transform='matrix(1 0 0 1 933.123 1204.7112)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Augsburger Straße
-      </text>
+      {stationLabelsComponent}
       <text
         transform='matrix(1 0 0 1 1198.9316 1036.5002)'
         font-family="'TrebuchetMS'"
