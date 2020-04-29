@@ -3,6 +3,14 @@ import React from 'react';
 export default function U8Lines() {
   return (
     <>
+      <polyline
+        fill='none'
+        stroke='#035D96'
+        stroke-width='8'
+        stroke-miterlimit='10'
+        points='1775.119,1447.043 1775.119,842.323 
+	1083.896,151.103 1083.896,81.103 1183.896,81.103 '
+      />
       <line
         fill='none'
         stroke='#035D96'
@@ -82,14 +90,6 @@ export default function U8Lines() {
         y1='611.668'
         x2='1556.71'
         y2='601.062'
-      />
-      <polyline
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        points='1775.119,1447.043 1775.119,842.323 
-	1083.896,151.103 1083.896,81.103 1183.896,81.103 '
       />
       <line
         fill='none'

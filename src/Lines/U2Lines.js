@@ -12,6 +12,7 @@ export default function U2Lines() {
 	1668.721,1018.5 1308.72,1018.805 1308.72,1098.805 1238.01,1169.516 987.695,1169.516 783.5,965.239 431,965.239 324.934,859.173 
 	'
       />
+
       <line
         fill='none'
         stroke='#E02021'
@@ -21,13 +22,6 @@ export default function U2Lines() {
         y1='1033.5'
         x2='1293.72'
         y2='1033.5'
-      />
-      <path
-        fill='none'
-        stroke='#E02021'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        d='M1238.01,1169.516'
       />
       <line
         fill='none'

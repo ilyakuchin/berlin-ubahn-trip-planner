@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function OstkreuzPoint() {
+export default function KottbusserTorPoint() {
   return (
     <>
       <circle

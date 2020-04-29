@@ -3,6 +3,14 @@ import React from 'react';
 export default function U6Lines() {
   return (
     <>
+      <polyline
+        fill='none'
+        stroke='#7C6CA4'
+        stroke-width='8'
+        stroke-miterlimit='10'
+        points='1536.498,1697.031 1536.498,806.33 
+	824.224,94.059 '
+      />
       <line
         fill='none'
         stroke='#7C6CA4'
@@ -72,14 +80,6 @@ export default function U6Lines() {
         y1='1497.031'
         x2='1552.104'
         y2='1497.031'
-      />
-      <polyline
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        points='1536.498,1697.031 1536.498,806.33 
-	824.224,94.059 '
       />
       <line
         fill='none'

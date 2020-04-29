@@ -1,8 +1,16 @@
 import React from 'react';
 
-export default function U9Line() {
+export default function U9Lines() {
   return (
     <>
+      <polyline
+        fill='none'
+        stroke='#EC651A'
+        stroke-width='8'
+        stroke-miterlimit='10'
+        points='854.695,1733.486 854.695,1078.516 
+1004.953,928.258 1004.953,546.819 1239.175,312.597 '
+      />
       <line
         fill='none'
         stroke='#EC651A'
@@ -72,14 +80,6 @@ export default function U9Line() {
         y1='1290.516'
         x2='869.695'
         y2='1290.516'
-      />
-      <polyline
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        points='854.695,1733.486 854.695,1078.516 
-1004.953,928.258 1004.953,546.819 1239.175,312.597 '
       />
       <line
         fill='none'

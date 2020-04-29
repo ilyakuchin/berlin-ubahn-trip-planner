@@ -5,7 +5,7 @@ import UnderConstructionNote from './UnderConstructionNote';
 import U2Lines from './Lines/U2Lines';
 import U3Lines from './Lines/U3Lines';
 import U7Lines from './Lines/U7Lines';
-import U9Line from './Lines/U9Lines';
+import U9Lines from './Lines/U9Lines';
 import U5Lines from './Lines/U5Lines';
 import U6Lines from './Lines/U6Lines';
 import U8Lines from './Lines/U8Lines';
@@ -17,7 +17,7 @@ import StadtmittePoint from './Stations/StadtmittePoint';
 import GneisenaustrassePoint from './Stations/GneisenaustrassePoint';
 import GleisdreieckPoint from './Stations/GleisdreieckPoint';
 import HermannplatzPoint from './Stations/HermannplatzPoint';
-import OstkreuzPoint from './Stations/OstkreuzPoint';
+import KottbusserTorPoint from './Stations/KottbusserTorPoint';
 import BismarkstrassePoint from './Stations/BismarkstrassePoint';
 import BayerischerplatzPoint from './Stations/BayerischerplatzPoint';
 import KurfurstendammPoint from './Stations/KurfurstendammPoint';
@@ -60,7 +60,7 @@ export default function Map() {
       <U6Lines />
       <U7Lines />
       <U8Lines />
-      <U9Line />
+      <U9Lines />
       <Legend />
       <UnderConstructionNote />
       <UnterDenLindenPoint />
@@ -69,7 +69,7 @@ export default function Map() {
       <GneisenaustrassePoint />
       <GleisdreieckPoint />
       <HermannplatzPoint />
-      <OstkreuzPoint />
+      <KottbusserTorPoint />
       <BismarkstrassePoint />
       <BayerischerplatzPoint />
       <KurfurstendammPoint />
