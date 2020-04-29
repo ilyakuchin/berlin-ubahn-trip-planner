@@ -10,6 +10,7 @@ import U5Lines from './U5Lines';
 import U6Lines from './U6Lines';
 import U8Lines from './U8Lines';
 import U1Lines from './U1Lines';
+import U4Lines from './U4Lines';
 const stationLabelArr = require('./labels.json');
 
 export default function Map() {
@@ -37,6 +38,7 @@ export default function Map() {
       <U6Lines />
       <U8Lines />
       <U1Lines />
+      <U4Lines />
       <line
         fill='none'
         stroke='#040000'
@@ -174,14 +176,7 @@ export default function Map() {
         cy='965.239'
         r='8.5'
       />
-      <polyline
-        fill='none'
-        stroke='#F5D021'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        points='1097.695,1182.516 1037.695,1182.516 
-	1037.695,1447.031 '
-      />
+
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -256,26 +251,6 @@ export default function Map() {
         r='8.5'
       />
 
-      <line
-        fill='none'
-        stroke='#F5D021'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1037.695'
-        y1='1263.332'
-        x2='1052.695'
-        y2='1263.332'
-      />
-      <line
-        fill='none'
-        stroke='#F5D021'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1022.695'
-        y1='1401.998'
-        x2='1037.695'
-        y2='1401.998'
-      />
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -322,16 +297,7 @@ export default function Map() {
         stroke-miterlimit='10'
         d='M1963.209,1447.031'
       />
-      <line
-        fill='none'
-        stroke='#F5D021'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1022.695'
-        y1='1447.043'
-        x2='1052.695'
-        y2='1447.043'
-      />
+
       <Legend />
       <UnderConstructionNote />
     </svg>
