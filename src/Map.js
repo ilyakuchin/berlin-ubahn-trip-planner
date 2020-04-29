@@ -1,4 +1,5 @@
 import React from 'react';
+import StationLabel from './StationLabel';
 
 export default function Map() {
   return (
@@ -21,47 +22,24 @@ export default function Map() {
         points='2745.74,689.551 2422.316,1012.974 
 	2392.316,1012.974 2338.911,959.567 2000.246,959.567 1858.824,818.146 1728.824,818.146 '
       />
-      <text
+      <StationLabel
         transform='matrix(1 0 0 1 998.8394 1469.0002)'
-        font-family="'TrebuchetMS-Bold'"
-        font-size='14'
-      >
-        Innsbrucker
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1021.3193 1485.8)'
-        font-family="'TrebuchetMS-Bold'"
-        font-size='14'
-      >
-        Platz
-      </text>
+        label=' Innsbrucker Platz'
+      />
+
       <text
         transform='matrix(1 0 0 1 967.2363 1405.9983)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Rathaus
-      </text>
-      <text
-        transform='matrix(1 0 0 1 944.5952 1422.7991)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Schöneberg
+        Rathaus Schöneberg
       </text>
       <text
         transform='matrix(1 0 0 1 956.6177 1360.0002)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Bayerischer
-      </text>
-      <text
-        transform='matrix(1 0 0 1 997.7085 1376.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Platz
+        Bayerischer Platz
       </text>
       <text
         transform='matrix(1 0 0 1 531.4951 1440.9417)'
@@ -75,14 +53,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Blisse-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 794.3496 1389.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        straße
+        Blisse-straße
       </text>
       <text
         transform='matrix(1 0 0 1 638.7266 1342.0002)'
@@ -117,28 +88,14 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Augsburger
-      </text>
-      <text
-        transform='matrix(1 0 0 1 933.123 1221.512)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Straße
+        Augsburger Straße
       </text>
       <text
         transform='matrix(1 0 0 1 1198.9316 1036.5002)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Mendelssohn-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1190.1885 1053.3)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Bartholdz-Park
+        Mendelssohn-Bartholdz-Park
       </text>
       <line
         fill='none'
@@ -156,29 +113,14 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Unter den{' '}
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1486.1826 911.3987)'
-        fill='#AAAAAA'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Linden
+        Unter den Linden
       </text>
       <text
         transform='matrix(1 0 0 1 1408.876 835.9417)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Brandenburger
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1444.5601 852.7424)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Tor
+        Brandenburger Tor
       </text>
       <text
         transform='matrix(1 0 0 1 1247.2422 848.4417)'
@@ -192,28 +134,14 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Konstanzer
-      </text>
-      <text
-        transform='matrix(1 0 0 1 651.1074 1307.0969)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Straße
+        Konstanzer Straße
       </text>
       <text
         transform='matrix(1 0 0 1 603.4082 1178.0159)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Adenauer-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 636.4941 1194.8157)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        platz
+        Adenauer-platz
       </text>
       <text
         transform='matrix(0.7071 -0.7071 0.7071 0.7071 573.4365 559.0022)'
@@ -677,21 +605,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Heinrich-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1795.5 998.218)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Heine-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1795.5 1015.0178)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Straße
+        Heinrich-Heine-Straße
       </text>
       <line
         fill='none'
@@ -1055,70 +969,35 @@ export default function Map() {
         font-family="'TrebuchetMS-Bold'"
         font-size='14'
       >
-        Uhland-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 748.4795 1122.8157)'
-        font-family="'TrebuchetMS-Bold'"
-        font-size='14'
-      >
-        straße
+        Uhland-straße
       </text>
       <text
         transform='matrix(1 0 0 1 863.1948 1160.0002)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Kurfürsten-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 863.1948 1176.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        damm
+        Kurfürstendamm
       </text>
       <text
         transform='matrix(1 0 0 1 975.0186 1106.0159)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Wittenberg-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 996.9556 1122.8157)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        platz
+        Wittenbergplatz
       </text>
       <text
         transform='matrix(1 0 0 1 1074.2065 1206.6663)'
         font-family="'TrebuchetMS-Bold'"
         font-size='14'
       >
-        Nollen-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1067.7466 1223.467)'
-        font-family="'TrebuchetMS-Bold'"
-        font-size='14'
-      >
-        dorfplatz
+        Nollendorfplatz
       </text>
       <text
         transform='matrix(1 0 0 1 1154.4702 1106.0159)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Kurfürsten-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1170.3501 1122.8157)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        straße
+        Kurfürstenstraße
       </text>
       <line
         fill='none'
@@ -1135,42 +1014,21 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Gleis-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1269 1179.8157)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        dreieck
+        Gleisdreieck
       </text>
       <text
         transform='matrix(1 0 0 1 1273.8301 994.5002)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Potsdamer
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1308.7344 1011.3)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Platz
+        Potsdamer Platz
       </text>
       <text
         transform='matrix(1 0 0 1 1547.5 1160.0002)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Hallesches
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1547.5 1176.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Tor
+        Hallesches Tor
       </text>
       <text
         transform='matrix(1 0 0 1 1605.2412 1122.0002)'
@@ -1222,14 +1080,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Görlitzer
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1799.6475 1192.1331)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Bahnhof
+        Görlitzer Bahnhof
       </text>
       <text
         transform='matrix(1 0 0 1 1913.624 1175.3323)'
@@ -1262,28 +1113,14 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Mohren-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1424.9473 998.218)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        straße
+        Mohrenstraße
       </text>
       <text
         transform='matrix(1 0 0 1 1396.042 1180.6663)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Möckern-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1403.4351 1197.467)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        brücke
+        Möckernbrücke
       </text>
       <text
         transform='matrix(1 0 0 1 1460.6572 1036.5002)'
@@ -1317,28 +1154,14 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Hausvogtei-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1569.0918 1063.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        platz
+        Hausvogteiplatz
       </text>
       <text
         transform='matrix(1 0 0 1 1640.7344 1047.0002)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Spittel-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1645.4844 1063.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        markt
+        Spittelmarkt
       </text>
       <line
         fill='none'
@@ -1443,14 +1266,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Französische
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1474.6299 960.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Straße
+        Französische Straße
       </text>
       <line
         fill='none'
@@ -1663,14 +1479,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Deutsche{' '}
-      </text>
-      <text
-        transform='matrix(1 0 0 1 735.7622 936.0774)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Oper
+        Deutsche Oper
       </text>
       <line
         fill='none'
@@ -1756,14 +1565,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Märkisches
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1613.8447 1007.2307)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Museum
+        Märkisches Museum
       </text>
       <text
         transform='matrix(1 0 0 1 1619.7041 959.5667)'
@@ -1777,14 +1579,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Alexander-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1743.8242 796.0315)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        platz
+        Alexanderplatz
       </text>
       <text
         transform='matrix(1 0 0 1 1752 726.0002)'
@@ -1863,14 +1658,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Olympia-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 304.1558 936.0774)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        stadion
+        Olympiastadion
       </text>
       <text
         transform='matrix(1 0 0 1 343.5 853.5002)'
@@ -1891,14 +1679,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Theodor-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 409.7148 1011.3)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Heuss-Platz
+        Theodor-Heuss-Platz
       </text>
       <text
         transform='matrix(1 0 0 1 494.9844 944.0002)'
@@ -1912,49 +1693,21 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Sophie-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 584.9355 931.3)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Charlotte-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 601.3623 948.0999)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Platz
+        Sophie-Charlotte-Platz
       </text>
       <text
         transform='matrix(1 0 0 1 826 979.8245)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Ernst-Reuter-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 826 996.6243)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Platz
+        Ernst-Reuter-Platz
       </text>
       <text
         transform='matrix(1 0 0 1 900.5 1055.5002)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Zoologischer
-      </text>
-      <text
-        transform='matrix(1 0 0 1 900.5 1072.3)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Garten
+        Zoologischer Garten
       </text>
       <line
         fill='none'
@@ -2008,35 +1761,14 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Wilmer-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 628.9678 1063.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        dorfer
-      </text>
-      <text
-        transform='matrix(1 0 0 1 627.6069 1080.5999)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Straße
+        Wilmerdorfer Straße
       </text>
       <text
         transform='matrix(1 0 0 1 702.5 985.1272)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Bismarck-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 702.5 1001.927)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        straße
+        Bismarckstraße
       </text>
       <text
         transform='matrix(1 0 0 1 713.0186 869.7795)'
@@ -2314,42 +2046,21 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Oskar-Helene-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 396.5908 1656.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Heim
+        Oskar-Helene-Heim
       </text>
       <text
         transform='matrix(1 0 0 1 311.3921 1678.6194)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Onkel Toms{' '}
-      </text>
-      <text
-        transform='matrix(1 0 0 1 353.1191 1695.4202)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Hütte
+        Onkel Toms Hütte
       </text>
       <text
         transform='matrix(1 0 0 1 299.9839 1719.0002)'
         font-family="'TrebuchetMS-Bold'"
         font-size='14'
       >
-        Krumme
-      </text>
-      <text
-        transform='matrix(1 0 0 1 315.8086 1735.8)'
-        font-family="'TrebuchetMS-Bold'"
-        font-size='14'
-      >
-        Lanke
+        Krumme Lanke
       </text>
       <text
         transform='matrix(1 0 0 1 680.915 1522.2893)'
@@ -2557,56 +2268,28 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Samariter-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1996.7266 944.5481)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        straße
+        Samariterstraße
       </text>
       <text
         transform='matrix(1 0 0 1 2010.2383 979.8245)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Frankfurter
-      </text>
-      <text
-        transform='matrix(1 0 0 1 2050.2012 996.6243)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Allee
+        Frankfurter Allee
       </text>
       <text
         transform='matrix(1 0 0 1 2120.833 919.2766)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Magdalenen-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 2140.8379 936.0774)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        straße
+        Magdalenenstraße
       </text>
       <text
         transform='matrix(1 0 0 1 2255 977.9309)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Lichten-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 2255 994.7307)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        berg
+        Lichtenberg
       </text>
       <text
         transform='matrix(1 0 0 1 2277.9297 938.8538)'
@@ -2676,14 +2359,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Louis-Lewin-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 2735.1338 747.2903)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Straße
+        Louis-Lewin-Straße
       </text>
       <text
         transform='matrix(1 0 0 1 2762 693.0002)'
@@ -2711,56 +2387,28 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Rosenthaler
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1575.1807 718.2893)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Platz
+        Rosenthaler Platz
       </text>
       <text
         transform='matrix(1 0 0 1 1564.4102 748.6663)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Weinmeister-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1609.001 765.4661)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        straße
+        Weinmeisterstraße
       </text>
       <text
         transform='matrix(1 0 0 1 1428.623 786.2317)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Friedrich-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1450.6963 803.0315)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        straße
+        Friedrichstraße
       </text>
       <text
         transform='matrix(1 0 0 1 1385.0234 741.0969)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Oranien-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1373.0264 757.8967)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        burger Tor
+        Oranienburger Tor
       </text>
       <text
         transform='matrix(1 0 0 1 1266.0957 701.4895)'
@@ -2809,14 +2457,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Eisenacher
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1086.0112 1389.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Straße
+        Eisenacher Straße
       </text>
       <text
         transform='matrix(1 0 0 1 1160.6538 1314.7737)'
@@ -2931,14 +2572,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Platz de{' '}
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1562 1332.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Luftbrücke
+        Platz de Luftbrücke
       </text>
       <text
         transform='matrix(1 0 0 1 1563.334 1380.6663)'
@@ -3008,14 +2642,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Boddin-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1712.7012 1331.5735)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        straße
+        Boddinstraße
       </text>
       <text
         transform='matrix(1 0 0 1 1678.6982 1380.6877)'
@@ -3036,14 +2663,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Warschauer
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1989.6387 1068.7004)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Straße
+        Warschauer Straße
       </text>
       <text
         transform='matrix(1 0 0 1 1786.667 1242.6663)'
@@ -3071,14 +2691,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Karl-Marx-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1936 1366.8)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Straße
+        Karl-Marx-Straße
       </text>
       <text
         transform='matrix(1 0 0 1 1938.5693 1454.5159)'
@@ -3092,28 +2705,14 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Rathaus
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1029.375 59.9338)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Reinickendorf
+        Rathaus Reinickendorf
       </text>
       <text
         transform='matrix(1 0 0 1 949.4297 124.4397)'
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Karl-Bonhoeffer-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 983.6167 141.2405)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Nerveklinik
+        Karl-Bonhoeffer-Nerveklinik
       </text>
       <text
         transform='matrix(1 0 0 1 993.2798 186.0002)'
@@ -3148,14 +2747,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Nauener
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1143.9102 356.5686)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Platz
+        Nauener Platz
       </text>
       <text
         transform='matrix(1 0 0 1 1384 425.2991)'
@@ -3218,14 +2810,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Zwickauer{' '}
-      </text>
-      <text
-        transform='matrix(1 0 0 1 2027.5117 1824.8528)'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Damm
+        Zwickauer Damm
       </text>
       <text
         transform='matrix(1 0 0 1 758.5581 1455.5315)'
@@ -3478,15 +3063,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Museum-
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1591.0137 922.8997)'
-        fill='#AAAAAA'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        insel
+        Museuminsel
       </text>
       <text
         transform='matrix(1 0 0 1 1634.6992 821.6809)'
@@ -3494,15 +3071,7 @@ export default function Map() {
         font-family="'TrebuchetMS'"
         font-size='14'
       >
-        Berliner
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1634.9355 838.4817)'
-        fill='#AAAAAA'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        Rathaus
+        Berliner Rathaus
       </text>
       <line
         fill='none'
