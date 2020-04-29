@@ -2,7 +2,6 @@ import React from 'react';
 import StationLabel from './StationLabel';
 import Legend from './Legend';
 import UnderConstructionNote from './UnderConstructionNote';
-import StationLabelsList from './StationLabelsList';
 const stationLabelArr = require('./labels.json');
 
 export default function Map() {
@@ -30,7 +29,6 @@ export default function Map() {
 	2392.316,1012.974 2338.911,959.567 2000.246,959.567 1858.824,818.146 1728.824,818.146 '
       />
       {stationLabelsComponent}
-      <StationLabelsList />
       <line
         fill='none'
         stroke='#E02021'
