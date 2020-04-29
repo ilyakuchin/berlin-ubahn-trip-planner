@@ -8,6 +8,7 @@ import U7Lines from './U7Lines';
 import U9Line from './U9Lines';
 import U5Lines from './U5Lines';
 import U6Lines from './U6Lines';
+import U8Lines from './U8Lines';
 const stationLabelArr = require('./labels.json');
 
 export default function Map() {
@@ -33,6 +34,7 @@ export default function Map() {
       <U9Line />
       <U5Lines />
       <U6Lines />
+      <U8Lines />
       <line
         fill='none'
         stroke='#040000'
@@ -42,87 +44,6 @@ export default function Map() {
         y1='640.948'
         x2='208.387'
         y2='640.948'
-      />
-
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1775.119'
-        y1='1378'
-        x2='1760.119'
-        y2='1378'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1775.119'
-        y1='1313'
-        x2='1760.119'
-        y2='1313'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1775.119'
-        y1='1198'
-        x2='1760.119'
-        y2='1198'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1363.396'
-        y1='430.602'
-        x2='1374.002'
-        y2='419.993'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1654.318'
-        y1='741.097'
-        x2='1664.926'
-        y2='730.49'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1614.712'
-        y1='701.49'
-        x2='1625.318'
-        y2='690.883'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1585.711'
-        y1='651.276'
-        x2='1596.316'
-        y2='640.669'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1546.104'
-        y1='611.668'
-        x2='1556.71'
-        y2='601.062'
       />
 
       <path
@@ -203,14 +124,7 @@ export default function Map() {
         stroke-miterlimit='10'
         d='M1106.195,1182.516'
       />
-      <polyline
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        points='1775.119,1447.043 1775.119,842.323 
-	1083.896,151.103 1083.896,81.103 1183.896,81.103 '
-      />
+
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -295,36 +209,7 @@ export default function Map() {
         cy='1018.5'
         r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1775.104'
-        y1='1073.516'
-        x2='1760.104'
-        y2='1073.516'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1790.104'
-        y1='1003.516'
-        x2='1775.104'
-        y2='1003.516'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1760.104'
-        y1='868.516'
-        x2='1760.104'
-        y2='868.516'
-      />
+
       <path
         fill='#FFFFFF'
         stroke='#000000'
@@ -473,47 +358,6 @@ export default function Map() {
         r='8.5'
       />
 
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1100.617'
-        y1='167.942'
-        x2='1090.01'
-        y2='178.549'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1135.973'
-        y1='203.297'
-        x2='1125.365'
-        y2='213.904'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1171.327'
-        y1='238.653'
-        x2='1160.721'
-        y2='249.259'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1206.684'
-        y1='274.008'
-        x2='1196.076'
-        y2='284.615'
-      />
-
       <path
         fill='#FFFFFF'
         stroke='#000000'
@@ -526,16 +370,6 @@ export default function Map() {
 	c-0.929,0.933-2.021,1.601-3.182,2.01L211.345,657.127z'
       />
 
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1095.313'
-        y1='81.103'
-        x2='1095.313'
-        y2='66.103'
-      />
       <path
         fill='none'
         stroke='#040000'
@@ -557,17 +391,6 @@ export default function Map() {
 
       <line
         fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1790.74'
-        y1='1447.043'
-        x2='1760.74'
-        y2='1447.043'
-      />
-
-      <line
-        fill='none'
         stroke='#53A947'
         stroke-width='8'
         stroke-miterlimit='10'
@@ -575,48 +398,6 @@ export default function Map() {
         y1='1091.406'
         x2='1980.9'
         y2='1070.193'
-      />
-
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1082.896'
-        y1='124.44'
-        x2='1067.896'
-        y2='124.44'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1183.896'
-        y1='95.655'
-        x2='1183.896'
-        y2='65.655'
-      />
-
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1495.891'
-        y1='582.666'
-        x2='1506.496'
-        y2='572.061'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1790.104'
-        y1='882'
-        x2='1775.104'
-        y2='882'
       />
 
       <Legend />
