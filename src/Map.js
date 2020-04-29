@@ -1,6 +1,7 @@
 import React from 'react';
 import StationLabel from './StationLabel';
 import Legend from './Legend';
+import UnderConstructionNote from './UnderConstructionNote';
 const stationLabelArr = require('./labels.json');
 
 export default function Map() {
@@ -3079,6 +3080,7 @@ export default function Map() {
         y2='1002.5'
       />
       <Legend />
+      <UnderConstructionNote />
     </svg>
   );
 }

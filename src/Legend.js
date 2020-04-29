@@ -173,28 +173,6 @@ export default function Legend() {
       >
         U9
       </text>
-      <text
-        transform='matrix(1 0 0 1 2544.5 391.0002)'
-        font-family="'TrebuchetMS'"
-        font-size='18'
-      >
-        Austausch mit
-      </text>
-      <text
-        transform='matrix(1 0 0 1 2544.5 412.5999)'
-        font-family="'TrebuchetMS'"
-        font-size='18'
-      >
-        die S-bahn
-      </text>
-      <text
-        transform='matrix(1 0 0 1 1485.5 866.0002)'
-        fill='#AAAAAA'
-        font-family="'TrebuchetMS'"
-        font-size='14'
-      >
-        (Dieser Abschnitt ist im Bau)
-      </text>
     </>
   );
 }
