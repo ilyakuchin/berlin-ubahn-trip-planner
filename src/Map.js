@@ -9,6 +9,7 @@ import U9Line from './U9Lines';
 import U5Lines from './U5Lines';
 import U6Lines from './U6Lines';
 import U8Lines from './U8Lines';
+import U1Lines from './U1Lines';
 const stationLabelArr = require('./labels.json');
 
 export default function Map() {
@@ -35,6 +36,7 @@ export default function Map() {
       <U5Lines />
       <U6Lines />
       <U8Lines />
+      <U1Lines />
       <line
         fill='none'
         stroke='#040000'
@@ -54,14 +56,6 @@ export default function Map() {
         d='M1647.398,542.598'
       />
 
-      <polyline
-        fill='none'
-        stroke='#53A947'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        points='786.015,1143.516 1931.229,1143.516 
-	1992.727,1082.02 '
-      />
       <circle
         opacity='0.5'
         fill='#FFFFFF'
@@ -74,26 +68,6 @@ export default function Map() {
         r='8.5'
       />
 
-      <line
-        fill='none'
-        stroke='#53A947'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='784.695'
-        y1='1158.516'
-        x2='784.695'
-        y2='1128.516'
-      />
-      <line
-        fill='none'
-        stroke='#53A947'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1189.695'
-        y1='1143.864'
-        x2='1189.695'
-        y2='1128.864'
-      />
       <path
         fill='#FFFFFF'
         stroke='#000000'
@@ -143,16 +117,7 @@ export default function Map() {
 	c0-4.694-3.808-8.5-8.5-8.5c-4.695,0-8.5,3.806-8.5,8.5v13c0,4.693,3.805,8.5,8.5,8.5
 	C1429.39,1165.016,1433.195,1161.209,1433.195,1156.516'
       />
-      <line
-        fill='none'
-        stroke='#53A947'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1648.301'
-        y1='1143.864'
-        x2='1648.301'
-        y2='1128.864'
-      />
+
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -180,26 +145,7 @@ export default function Map() {
         cy='1143.516'
         r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#53A947'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1825.104'
-        y1='1158.864'
-        x2='1825.104'
-        y2='1143.864'
-      />
-      <line
-        fill='none'
-        stroke='#53A947'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1918.928'
-        y1='1158.864'
-        x2='1918.928'
-        y2='1143.864'
-      />
+
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -369,7 +315,6 @@ export default function Map() {
 	c-3.319-3.316-3.319-8.698,0-12.021c3.32-3.319,8.701-3.32,12.021,0c3.319,3.317,3.319,8.701,0,12.021
 	c-0.929,0.933-2.021,1.601-3.182,2.01L211.345,657.127z'
       />
-
       <path
         fill='none'
         stroke='#040000'
@@ -377,7 +322,6 @@ export default function Map() {
         stroke-miterlimit='10'
         d='M1963.209,1447.031'
       />
-
       <line
         fill='none'
         stroke='#F5D021'
@@ -388,18 +332,6 @@ export default function Map() {
         x2='1052.695'
         y2='1447.043'
       />
-
-      <line
-        fill='none'
-        stroke='#53A947'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='2002.113'
-        y1='1091.406'
-        x2='1980.9'
-        y2='1070.193'
-      />
-
       <Legend />
       <UnderConstructionNote />
     </svg>
