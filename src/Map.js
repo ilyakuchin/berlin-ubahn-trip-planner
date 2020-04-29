@@ -5,6 +5,7 @@ import UnderConstructionNote from './UnderConstructionNote';
 import U2Lines from './U2Lines';
 import U3Lines from './U3Lines';
 import U7Lines from './U7Lines';
+import U9Line from './U9Lines';
 const stationLabelArr = require('./labels.json');
 
 export default function Map() {
@@ -35,6 +36,7 @@ export default function Map() {
       <U2Lines />
       <U3Lines />
       <U7Lines />
+      <U9Line />
       <line
         fill='none'
         stroke='#040000'
@@ -46,46 +48,6 @@ export default function Map() {
         y2='640.948'
       />
 
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='854.695'
-        y1='1657.031'
-        x2='839.695'
-        y2='1657.031'
-      />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='854.695'
-        y1='1587.031'
-        x2='839.695'
-        y2='1587.031'
-      />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='854.695'
-        y1='1517.031'
-        x2='839.695'
-        y2='1517.031'
-      />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='854.695'
-        y1='1447.031'
-        x2='839.695'
-        y2='1447.031'
-      />
       <line
         fill='none'
         stroke='#89592D'
@@ -197,26 +159,7 @@ export default function Map() {
         x2='1556.71'
         y2='601.062'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1193.386'
-        y1='358.386'
-        x2='1182.779'
-        y2='347.779'
-      />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1064.612'
-        y1='487.156'
-        x2='1054.006'
-        y2='476.553'
-      />
+
       <line
         fill='none'
         stroke='#7C6CA4'
@@ -555,16 +498,7 @@ export default function Map() {
         cy='1222'
         r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='854.695'
-        y1='1290.516'
-        x2='869.695'
-        y2='1290.516'
-      />
+
       <line
         fill='none'
         stroke='#89592D'
@@ -615,14 +549,7 @@ export default function Map() {
         x2='1989.639'
         y2='927.745'
       />
-      <polyline
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        points='854.695,1733.486 854.695,1078.516 
-	1004.953,928.258 1004.953,546.819 1239.175,312.597 '
-      />
+
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -717,37 +644,7 @@ export default function Map() {
         cy='1733.486'
         r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='984.25'
-        y1='948.961'
-        x2='994.855'
-        y2='959.567'
-      />
 
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1004.953'
-        y1='767.554'
-        x2='989.953'
-        y2='767.554'
-      />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1004.953'
-        y1='667.554'
-        x2='989.953'
-        y2='667.554'
-      />
       <line
         fill='none'
         stroke='#7C6CA4'
@@ -1149,16 +1046,7 @@ export default function Map() {
         x2='1183.896'
         y2='65.655'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1004.453'
-        y1='572.061'
-        x2='989.453'
-        y2='572.061'
-      />
+
       <line
         fill='none'
         stroke='#89592D'
