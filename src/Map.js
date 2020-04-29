@@ -7,6 +7,7 @@ import U3Lines from './U3Lines';
 import U7Lines from './U7Lines';
 import U9Line from './U9Lines';
 import U5Lines from './U5Lines';
+import U6Lines from './U6Lines';
 const stationLabelArr = require('./labels.json');
 
 export default function Map() {
@@ -31,6 +32,7 @@ export default function Map() {
       <U7Lines />
       <U9Line />
       <U5Lines />
+      <U6Lines />
       <line
         fill='none'
         stroke='#040000'
@@ -42,26 +44,6 @@ export default function Map() {
         y2='640.948'
       />
 
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1552.104'
-        y1='1378'
-        x2='1537.104'
-        y2='1378'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1552.104'
-        y1='1313'
-        x2='1537.104'
-        y2='1313'
-      />
       <line
         fill='none'
         stroke='#035D96'
@@ -143,57 +125,6 @@ export default function Map() {
         y2='601.062'
       />
 
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1522.104'
-        y1='1697.031'
-        x2='1552.104'
-        y2='1697.031'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1537.104'
-        y1='1647.031'
-        x2='1552.104'
-        y2='1647.031'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1537.104'
-        y1='1597.031'
-        x2='1552.104'
-        y2='1597.031'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1537.104'
-        y1='1547.031'
-        x2='1552.104'
-        y2='1547.031'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1537.104'
-        y1='1497.031'
-        x2='1552.104'
-        y2='1497.031'
-      />
-
       <path
         fill='none'
         stroke='#040000'
@@ -220,14 +151,6 @@ export default function Map() {
         cx='1536.498'
         cy='875.743'
         r='8.5'
-      />
-      <polyline
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        points='1536.498,1697.031 1536.498,806.33 
-	824.224,94.059 '
       />
 
       <line
@@ -410,16 +333,7 @@ export default function Map() {
         d='M1737.324,794.731c0-4.694-3.805-8.5-8.5-8.5
 	s-8.5,3.806-8.5,8.5v34.107c0,4.691,3.805,8.5,8.5,8.5s8.5-3.809,8.5-8.5V794.731z'
       />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1536.498'
-        y1='943.354'
-        x2='1521.498'
-        y2='943.354'
-      />
+
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -561,16 +475,6 @@ export default function Map() {
 
       <line
         fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='858.079'
-        y1='127.637'
-        x2='847.473'
-        y2='138.244'
-      />
-      <line
-        fill='none'
         stroke='#035D96'
         stroke-width='8'
         stroke-miterlimit='10'
@@ -609,116 +513,7 @@ export default function Map() {
         x2='1196.076'
         y2='284.615'
       />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='999.5'
-        y1='269.059'
-        x2='988.895'
-        y2='279.665'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='893.434'
-        y1='162.99'
-        x2='882.828'
-        y2='173.599'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='928.79'
-        y1='198.348'
-        x2='918.183'
-        y2='208.954'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='964.145'
-        y1='233.703'
-        x2='953.539'
-        y2='244.31'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1034.855'
-        y1='304.411'
-        x2='1024.249'
-        y2='315.02'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1070.211'
-        y1='339.769'
-        x2='1059.604'
-        y2='350.375'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1105.566'
-        y1='375.125'
-        x2='1094.96'
-        y2='385.731'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1449.928'
-        y1='719.486'
-        x2='1439.321'
-        y2='730.092'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1343.861'
-        y1='613.419'
-        x2='1333.255'
-        y2='624.026'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1379.217'
-        y1='648.775'
-        x2='1368.609'
-        y2='659.381'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1414.572'
-        y1='684.13'
-        x2='1403.966'
-        y2='694.737'
-      />
+
       <path
         fill='#FFFFFF'
         stroke='#000000'
@@ -759,16 +554,7 @@ export default function Map() {
         x2='1052.695'
         y2='1447.043'
       />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1538.102'
-        y1='1447.031'
-        x2='1553.102'
-        y2='1447.031'
-      />
+
       <line
         fill='none'
         stroke='#035D96'
@@ -793,16 +579,6 @@ export default function Map() {
 
       <line
         fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='832.48'
-        y1='85.801'
-        x2='814.838'
-        y2='103.444'
-      />
-      <line
-        fill='none'
         stroke='#035D96'
         stroke-width='8'
         stroke-miterlimit='10'
@@ -822,26 +598,6 @@ export default function Map() {
         y2='65.655'
       />
 
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1506.496'
-        y1='775.625'
-        x2='1495.891'
-        y2='786.231'
-      />
-      <line
-        fill='none'
-        stroke='#7C6CA4'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1303'
-        y1='570.554'
-        x2='1292.395'
-        y2='581.159'
-      />
       <line
         fill='none'
         stroke='#035D96'
