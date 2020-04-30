@@ -11,215 +11,205 @@ export default function U8Lines() {
         points='1775.119,1447.043 1775.119,842.323 
 	1083.896,151.103 1083.896,81.103 1183.896,81.103 '
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Leinestraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1775.119'
-        y1='1378'
-        x2='1760.119'
-        y2='1378'
+        cx='1775.119'
+        cy='1378'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Boddinstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1775.119'
-        y1='1313'
-        x2='1760.119'
-        y2='1313'
+        cx='1775.119'
+        cy='1313'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Schönleinstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1775.119'
-        y1='1198'
-        x2='1760.119'
-        y2='1198'
+        cx='1775.119'
+        cy='1198'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Pankstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1363.396'
-        y1='430.602'
-        x2='1374.002'
-        y2='419.993'
+        cx='1363.396'
+        cy='430.602'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Weinmeisterstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1654.318'
-        y1='741.097'
-        x2='1664.926'
-        y2='730.49'
+        cx='1664.926'
+        cy='730.49'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Rosenthaler Platz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1614.712'
-        y1='701.49'
-        x2='1625.318'
-        y2='690.883'
+        cx='1625.318'
+        cy='690.883'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Bernauer Straße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1585.711'
-        y1='651.276'
-        x2='1596.316'
-        y2='640.669'
+        cx='1585.711'
+        cy='651.276'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Voltastraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1546.104'
-        y1='611.668'
-        x2='1556.71'
-        y2='601.062'
+        cx='1546.104'
+        cy='611.668'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Moritzplatz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1775.104'
-        y1='1073.516'
-        x2='1760.104'
-        y2='1073.516'
+        cx='1775.104'
+        cy='1073.516'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Heinrich-Heine-Straße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1790.104'
-        y1='1003.516'
-        x2='1775.104'
-        y2='1003.516'
+        cx='1775.104'
+        cy='1003.516'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Lindauer Allee */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1760.104'
-        y1='868.516'
-        x2='1760.104'
-        y2='868.516'
+        cx='1100.617'
+        cy='167.942'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Paracelsus-Bad */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1100.617'
-        y1='167.942'
-        x2='1090.01'
-        y2='178.549'
+        cx='1135.973'
+        cy='203.297'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Residenzstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1135.973'
-        y1='203.297'
-        x2='1125.365'
-        y2='213.904'
+        cx='1171.327'
+        cy='238.653'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Frany-Neuman-Platz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1171.327'
-        y1='238.653'
-        x2='1160.721'
-        y2='249.259'
+        cx='1206.684'
+        cy='274.008'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Rathaus Reinickendorf */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1206.684'
-        y1='274.008'
-        x2='1196.076'
-        y2='284.615'
+        cx='1095.313'
+        cy='81.103'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Hermannstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1095.313'
-        y1='81.103'
-        x2='1095.313'
-        y2='66.103'
+        cx='1775.74'
+        cy='1447.043'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Karl-Bonhoeffer-Nerveklinik */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1790.74'
-        y1='1447.043'
-        x2='1760.74'
-        y2='1447.043'
+        cx='1082.896'
+        cy='124.44'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Wittenau */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1082.896'
-        y1='124.44'
-        x2='1067.896'
-        y2='124.44'
+        cx='1183.896'
+        cy='80.655'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Gesundbrunnen */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1183.896'
-        y1='95.655'
-        x2='1183.896'
-        y2='65.655'
+        cx='1506.496'
+        cy='572.061'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
+      {/* Jannowitzbrücke */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1495.891'
-        y1='582.666'
-        x2='1506.496'
-        y2='572.061'
-      />
-      <line
-        fill='none'
-        stroke='#035D96'
-        stroke-width='8'
-        stroke-miterlimit='10'
-        x1='1790.104'
-        y1='882'
-        x2='1775.104'
-        y2='882'
+        cx='1775.104'
+        cy='882'
+        r='8.5'
       />
     </>
   );
