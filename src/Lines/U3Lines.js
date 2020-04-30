@@ -11,6 +11,7 @@ export default function U3Lines() {
         points='1097.695,1156.516 947.695,1156.516 
 	378.844,1725.365 '
       />
+      {/* Krumme Lanke */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -20,6 +21,7 @@ export default function U3Lines() {
         cy='1724.582'
         r='8.5'
       />
+      {/* Onkel Toms Hütte */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -29,6 +31,7 @@ export default function U3Lines() {
         cy='1689.227'
         r='8.5'
       />
+      {/* Oskar-Helene-Heim */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -38,6 +41,7 @@ export default function U3Lines() {
         cy='1653.868'
         r='8.5'
       />
+      {/* Thielplatz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -47,6 +51,7 @@ export default function U3Lines() {
         cy='1618.516'
         r='8.5'
       />
+      {/* Dahlem-Dorf */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -56,6 +61,7 @@ export default function U3Lines() {
         cy='1583.157'
         r='8.5'
       />
+      {/* Podbielskallee */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -65,6 +71,7 @@ export default function U3Lines() {
         cy='1547.805'
         r='8.5'
       />
+      {/* Breitenbachplatz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -74,6 +81,7 @@ export default function U3Lines() {
         cy='1512.448'
         r='8.5'
       />
+      {/* Rüdesheimer Platz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -83,6 +91,7 @@ export default function U3Lines() {
         cy='1477.094'
         r='8.5'
       />
+      {/* Heidelberger Platz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -92,6 +101,7 @@ export default function U3Lines() {
         cy='1434.666'
         r='8.5'
       />
+      {/* Hohenzollernplatz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -101,6 +111,7 @@ export default function U3Lines() {
         cy='1290.297'
         r='8.5'
       />
+      {/* Augsburger Straße */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
