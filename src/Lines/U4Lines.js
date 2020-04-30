@@ -11,6 +11,7 @@ export default function U4Lines() {
         points='1097.695,1182.516 1037.695,1182.516 
 	1037.695,1447.031 '
       />
+      {/* Viktoria-Luise-Platz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -20,6 +21,7 @@ export default function U4Lines() {
         cy='1263.332'
         r='8.5'
       />
+      {/* Rathaus Schöneberg */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -29,6 +31,7 @@ export default function U4Lines() {
         cy='1401.998'
         r='8.5'
       />
+      {/* Innsbrucker Platz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
