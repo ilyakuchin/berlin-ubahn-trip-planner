@@ -11,6 +11,7 @@ export default function U1Lines() {
         points='786.015,1143.516 1931.229,1143.516 
 	1992.727,1082.02 '
       />
+      {/* Uhland-straße */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -20,6 +21,7 @@ export default function U1Lines() {
         cy='1143.516'
         r='8.5'
       />
+      {/* Kurfürstenstraße */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -29,6 +31,7 @@ export default function U1Lines() {
         cy='1143.516'
         r='8.5'
       />
+      {/* Prinzenstraße */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -38,6 +41,7 @@ export default function U1Lines() {
         cy='1143.516'
         r='8.5'
       />
+      {/* Görlitzer Bahnhof */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -47,6 +51,7 @@ export default function U1Lines() {
         cy='1143.516'
         r='8.5'
       />
+      {/* Schlesisches Tor */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -56,6 +61,7 @@ export default function U1Lines() {
         cy='1143.516'
         r='8.5'
       />
+      {/* Warschauer Straße */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
