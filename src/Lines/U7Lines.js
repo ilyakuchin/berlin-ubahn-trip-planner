@@ -12,325 +12,330 @@ export default function U7Lines() {
 	1912.104,1314.26 1852,1254.155 1569.359,1254.155 1471.721,1156.516 1361.721,1156.516 1361.721,1208 1229.333,1340.516 
 	776.667,1340.516 692,1256 692,694.561 588.387,590.948 208.387,590.948 208.387,640.948 '
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Altstadt Spandau */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='223.387'
-        y1='590.948'
-        x2='223.387'
-        y2='575.948'
+        cx='223.387'
+        cy='590.948'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Zitadelle */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='273.387'
-        y1='590.948'
-        x2='273.387'
-        y2='575.948'
+        cx='273.387'
+        cy='590.948'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Haselhorst */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='323.387'
-        y1='590.948'
-        x2='323.387'
-        y2='575.948'
+        cx='323.387'
+        cy='590.948'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Paulsternstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='373.387'
-        y1='590.948'
-        x2='373.387'
-        y2='575.948'
+        cx='373.387'
+        cy='590.948'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Rohrdamm */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='423.387'
-        y1='590.948'
-        x2='423.387'
-        y2='575.948'
+        cx='423.387'
+        cy='590.948'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Siemensdamm */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='473.387'
-        y1='590.948'
-        x2='473.387'
-        y2='575.948'
+        cx='473.387'
+        cy='590.948'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Halemweg */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='523.387'
-        y1='590.948'
-        x2='523.387'
-        y2='575.948'
+        cx='523.387'
+        cy='590.948'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Jakob-Kaiser-Platz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='573.387'
-        y1='590.948'
-        x2='573.387'
-        y2='575.948'
+        cx='573.387'
+        cy='590.948'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Rudow */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='2032.512'
-        y1='1864.618'
-        x2='2053.725'
-        y2='1843.406'
+        cx='2043.1185'
+        cy='1854.012'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Zwickauer Damm */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='2007.763'
-        y1='1818.656'
-        x2='2018.369'
-        y2='1808.053'
+        cx='2007.763'
+        cy='1818.656'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Wutzkyallee */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1972.407'
-        y1='1783.304'
-        x2='1983.014'
-        y2='1772.697'
+        cx='1972.407'
+        cy='1783.304'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Lipschitzallee */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1937.052'
-        y1='1747.948'
-        x2='1947.658'
-        y2='1737.342'
+        cx='1937.052'
+        cy='1747.948'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Karl-Marx-Straße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1912.104'
-        y1='1355.688'
-        x2='1927.104'
-        y2='1355.688'
+        cx='1912.104'
+        cy='1355.688'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Rathaus
+Neukölln */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1881.422'
-        y1='1283.575'
-        x2='1892.029'
-        y2='1272.972'
+        cx='1881.422'
+        cy='1283.575'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Südstern */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1694'
-        y1='1269.016'
-        x2='1694'
-        y2='1254.016'
+        //cx='1694'
+        //cy='1269.016'
+        cx='1694'
+        cy='1254.016'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Gneisenaustraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1619'
-        y1='1254.016'
-        x2='1619'
-        y2='1239.016'
+        cx='1619'
+        cy='1254.016'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Johannisthaler Chausee */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1912.104'
-        y1='1697.031'
-        x2='1927.104'
-        y2='1697.031'
+        cx='1912.104'
+        cy='1697.031'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Britz-Süd */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1912.104'
-        y1='1647.031'
-        x2='1927.104'
-        y2='1647.031'
+        cx='1912.104'
+        cy='1647.031'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Parachimer Allee */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1912.104'
-        y1='1597.031'
-        x2='1927.104'
-        y2='1597.031'
+        cx='1912.104'
+        cy='1597.031'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Blaschkoallee */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1912.104'
-        y1='1547.031'
-        x2='1927.104'
-        y2='1547.031'
+        cx='1912.104'
+        cy='1547.031'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Grenzallee */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1912.104'
-        y1='1497.031'
-        x2='1927.104'
-        y2='1497.031'
+        cx='1912.104'
+        cy='1497.031'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Mierendorffplatz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='692'
-        y1='753.5'
-        x2='707'
-        y2='753.5'
+        cx='692'
+        cy='753.5'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Richard-Wagner-Platz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='692'
-        y1='867.644'
-        x2='707'
-        y2='867.644'
+        cx='692'
+        cy='867.644'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Adenauer-platz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='691.474'
-        y1='1175.332'
-        x2='676.474'
-        y2='1175.332'
+        cx='691.474'
+        cy='1175.332'
+        //x2='676.474'
+        //y2='1175.332'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Konstanzer Straße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='713.02'
-        y1='1276.981'
-        x2='702.412'
-        y2='1287.588'
+        cx='713.02'
+        cy='1276.981'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Blisse-straße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='813.914'
-        y1='1340.516'
-        x2='813.914'
-        y2='1355.516'
+        cx='813.914'
+        cy='1340.516'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Eisenacher Straße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1106.195'
-        y1='1340.688'
-        x2='1106.195'
-        y2='1355.688'
+        cx='1106.195'
+        cy='1340.688'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Kleistpark */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1190'
-        y1='1340.688'
-        x2='1190'
-        y2='1325.688'
+        cx='1190'
+        cy='1340.688'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Wilmerdorfer Straße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='691.632'
-        y1='1060.4'
-        x2='676.632'
-        y2='1060.4'
+        cx='691.632'
+        cy='1060.4'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Neukölln */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1912.104'
-        y1='1450.819'
-        x2='1927.104'
-        y2='1450.819'
+        cx='1912.104'
+        cy='1450.819'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Jungfernheide */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='622.667'
-        y1='625.303'
-        x2='633.273'
-        y2='614.696'
+        cx='622.667'
+        cy='625.303'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#1793C5'
-        stroke-width='8'
+      {/* Yorckstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1334.146'
-        y1='1235.803'
-        x2='1323.541'
-        y2='1225.197'
+        cx='1334.146'
+        cy='1235.803'
+        r='8.5'
       />
     </>
   );
