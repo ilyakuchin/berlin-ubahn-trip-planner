@@ -1,0 +1,123 @@
+[
+  {
+    "cx": "1335.721",
+    "cy": "847",
+    "label": "Bundestag"
+  },
+  {
+    "cx": "1823.824",
+    "cy": "818.282",
+    "label": "Schillingstraße"
+  },
+  {
+    "cx": "1872.966",
+    "cy": "832.285",
+    "label": "Strausberger Platz"
+  },
+  {
+    "cx": "1908.321",
+    "cy": "867.644",
+    "label": "Weberwiese"
+  },
+  {
+    "cx": "1943.677",
+    "cy": "902.996",
+    "label": "Frankfurter Tor"
+  },
+  {
+    "cx": "1979.032",
+    "cy": "938.354",
+    "label": "Samariterstraße"
+  },
+  {
+    "cx": "2160.488",
+    "cy": "959.567",
+    "label": "Magdalenenstraße"
+  },
+  {
+    "cx": "2325.066",
+    "cy": "959.567",
+    "label": "Friedrichsfelde"
+  },
+  {
+    "cx": "2365.555",
+    "cy": "986.211",
+    "label": "Tierpark"
+  },
+  {
+    "cx": "2448.754",
+    "cy": "986.534",
+    "label": "Biesdorf-Süd"
+  },
+  {
+    "cx": "2491.181",
+    "cy": "944.11",
+    "label": "Elsterwerdaer Platz"
+  },
+  {
+    "cx": "2568.963",
+    "cy": "866.325",
+    "label": "Kaulsdorf-Nord"
+  },
+  {
+    "cx": "2604.318",
+    "cy": "830.973",
+    "label": "Neue Grottkauer Straße"
+  },
+  {
+    "cx": "2639.674",
+    "cy": "795.615",
+    "label": "Cottbusser Platz"
+  },
+  {
+    "cx": "2675.029",
+    "cy": "760.262",
+    "label": "Hellersdorf"
+  },
+  {
+    "cx": "2710.385",
+    "cy": "724.906",
+    "label": "Louis-Lewin-Straße"
+  },
+  {
+    "cx": "2745.7405",
+    "cy": "689.5",
+    "label": "Hönow"
+  },
+  {
+    "cx": "2090.488",
+    "cy": "959.219",
+    "label": "Frankfurter Allee"
+  },
+  {
+    "cx": "2240.488",
+    "cy": "959.954",
+    "label": "Lichtenberg"
+  },
+  {
+    "cx": "2533.607",
+    "cy": "901.684",
+    "label": "Wuhletal"
+  },
+  {
+    "cx": "1455.102",
+    "cy": "875.743",
+    "label": "Brandenburger Tor"
+  },
+  {
+    "cx": "1335.721",
+    "cy": "776.054",
+    "label": "Hauptbahnhof"
+  },
+  {
+    "cx": "1601",
+    "cy": "876.743",
+    "label": "Museuminsel"
+  },
+  {
+    "cx": "1823.824",
+    "cy": "851.262",
+    "r": "8.5",
+    "label": "Berliner Rathaus"
+  }
+]

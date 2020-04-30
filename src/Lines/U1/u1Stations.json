@@ -1,0 +1,32 @@
+[
+	{
+		"cx": "784.695",
+		"cy": "1143.516",
+		"label": "Uhland-straße"
+	},
+	{
+		"cx": "1189.695",
+		"cy": "1143.516",
+		"label": "Kurfürstenstraße"
+	},
+	{
+		"cx": "1648.301",
+		"cy": "1143.516",
+		"label": "Prinzenstraße"
+	},
+	{
+		"cx": "1825.104",
+		"cy": "1143.516",
+		"label": "Görlitzer Bahnhof"
+	},
+	{
+		"cx": "1918.928",
+		"cy": "1143.516",
+		"label": "Schlesisches Tor"
+	},
+	{
+		"cx": "1991.5065",
+		"cy": "1080.7995",
+		"label": "Warschauer Straße"
+	}
+]
