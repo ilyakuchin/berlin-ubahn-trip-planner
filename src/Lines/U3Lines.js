@@ -11,115 +11,104 @@ export default function U3Lines() {
         points='1097.695,1156.516 947.695,1156.516 
 	378.844,1725.365 '
       />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='388.666'
-        y1='1735.188'
-        x2='367.453'
-        y2='1713.976'
+        cx='378.0595'
+        cy='1724.582'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='413.415'
-        y1='1689.227'
-        x2='402.808'
-        y2='1678.617'
+        cx='413.415'
+        cy='1689.227'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='448.77'
-        y1='1653.868'
-        x2='438.164'
-        y2='1643.265'
+        cx='448.77'
+        cy='1653.868'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='484.125'
-        y1='1618.516'
-        x2='473.52'
-        y2='1607.906'
+        cx='484.125'
+        cy='1618.516'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='519.48'
-        y1='1583.157'
-        x2='508.875'
-        y2='1572.554'
+        cx='519.48'
+        cy='1583.157'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='554.836'
-        y1='1547.805'
-        x2='544.23'
-        y2='1537.198'
+        cx='554.836'
+        cy='1547.805'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='590.192'
-        y1='1512.448'
-        x2='579.585'
-        y2='1501.843'
+        cx='590.192'
+        cy='1512.448'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='625.547'
-        y1='1477.094'
-        x2='614.941'
-        y2='1466.487'
+        cx='625.547'
+        cy='1477.094'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='667.974'
-        y1='1434.666'
-        x2='657.367'
-        y2='1424.061'
+        cx='667.974'
+        cy='1434.666'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='813.914'
-        y1='1290.297'
-        x2='803.307'
-        y2='1279.69'
+        cx='813.914'
+        cy='1290.297'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#339393'
-        stroke-width='8'
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='910.105'
-        y1='1194.105'
-        x2='920.712'
-        y2='1204.712'
+        cx='910.105'
+        cy='1194.105'
+        r='8.5'
       />
     </>
   );
