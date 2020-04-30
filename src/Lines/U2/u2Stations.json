@@ -2,111 +2,133 @@
   {
     "cx": "1308.72",
     "cy": "1033.5",
+    "transform": "matrix(1 0 0 1 1198.9316 1036.5002)",
     "label": "Mendelssohn-Bartholdz-Park"
   },
   {
     "cx": "1190",
     "cy": "1169.516",
+    "transform": "matrix(1 0 0 1 1151.229 1199.4084)",
     "label": "Bülowstraße"
   },
   {
     "cx": "1443.721",
     "cy": "1018.5",
+    "transform": "matrix(1 0 0 1 1419.1162 981.4182)",
     "label": "Mohrenstraße"
   },
   {
     "cx": "1591.498",
     "cy": "1018.5",
+    "transform": "matrix(1 0 0 1 1548.0566 1047.0002)",
     "label": "Hausvogteiplatz"
   },
   {
     "cx": "1651.498",
     "cy": "1018.5",
+    "transform": "matrix(1 0 0 1 1640.7344 1047.0002)",
     "label": "Spittelmarkt"
   },
   {
     "cx": "1678.075",
     "cy": "1009.146",
+    "transform": "matrix(1 0 0 1 1596.666 990.4309)",
     "label": "Märkisches Museum"
   },
   {
     "cx": "1720.502",
     "cy": "966.719",
+    "transform": "matrix(1 0 0 1 1619.7041 959.5667)",
     "label": "Klosterstraße"
   },
   {
     "cx": "1728.824",
     "cy": "723.5",
+    "transform": "matrix(1 0 0 1 1752 726.0002)",
     "label": "Rosa-Luxemburg-Platz"
   },
   {
     "cx": "1728.824",
     "cy": "668.5",
+    "transform": "matrix(1 0 0 1 1752 668.5002)",
     "label": "Senefeldplatz"
   },
   {
     "cx": "1728.824",
     "cy": "613.5",
+    "transform": "matrix(1 0 0 1 1752 620.0002)",
     "label": "Eberswalder Straße"
   },
   {
     "cx": "1728.824",
     "cy": "433.5",
+    "transform": "matrix(1 0 0 1 1752 433.5002)",
     "label": "Vinetastraße"
   },
   {
     "cx": "808.61",
     "cy": "990.431",
+    "transform": "matrix(1 0 0 1 826 979.8245)",
     "label": "Ernst-Reuter-Platz"
   },
   {
     "cx": "750.918",
     "cy": "965.239",
+    "transform": "matrix(1 0 0 1 720.1563 919.2766)",
     "label": "Deutsche Oper"
   },
   {
     "cx": "617.105",
     "cy": "965.239",
+    "transform": "matrix(1 0 0 1 593.8735 914.5002)",
     "label": "Sophie-Charlotte-Platz"
   },
   {
     "cx": "445.918",
     "cy": "965.239",
+    "transform": "matrix(1 0 0 1 417.5078 994.5002)",
     "label": "Theodor-Heuss-Platz"
   },
   {
     "cx": "395.645",
     "cy": "929.884",
+    "transform": "matrix(1 0 0 1 413 919.2766)",
     "label": "Neu-Westend"
   },
   {
     "cx": "360.289",
     "cy": "894.528",
+    "transform": "matrix(1 0 0 1 293.3066 919.2766)",
     "label": "Olympiastadion"
   },
   {
     "cx": "324.9335",
     "cy": "859.1725",
+    "transform": "matrix(1 0 0 1 343.5 853.5002)",
     "label": "Ruhleben"
   },
   {
     "cx": "536.533",
     "cy": "967.067",
+    "transform": "matrix(1 0 0 1 494.9844 944.0002)",
     "label": "Kaiserdamm"
   },
   {
     "cx": "1728.824",
     "cy": "559",
+    "transform": "matrix(1 0 0 1 1752 563.5608)",
     "label": "Schönhauser Allee"
   },
   {
     "cx": "1728.824",
     "cy": "278.344",
+    "transform": "matrix(1 0 0 1 1752 287.0002)",
     "label": "Pankow"
   },
   {
     "cx": "1348.721",
     "cy": "1017.5",
+    "transform": "matrix(1 0 0 1 1273.8301 994.5002)",
     "label": "Potsdamer Platz"
   }
 ]

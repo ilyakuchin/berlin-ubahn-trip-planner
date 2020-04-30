@@ -2,56 +2,67 @@
   {
     "cx": "854.695",
     "cy": "1657.031",
+    "transform": "matrix(1 0 0 1 750.0947 1661.0002)",
     "label": "Schloßstraße"
   },
   {
     "cx": "854.695",
     "cy": "1587.031",
+    "transform": "matrix(1 0 0 1 679.2813 1593.0002)",
     "label": "Walther-Schreiber-Platz"
   },
   {
     "cx": "854.695",
     "cy": "1517.031",
+    "transform": "matrix(1 0 0 1 680.915 1522.2893)",
     "label": "Friedrich-Wilhelm-Platz"
   },
   {
     "cx": "854.695",
     "cy": "1447.031",
+    "transform": "matrix(1 0 0 1 758.5581 1455.5315)",
     "label": "Bundesplatz"
   },
   {
     "cx": "1193.386",
     "cy": "358.386",
+    "transform": "matrix(1 0 0 1 1123.0952 339.7688)",
     "label": "Nauener Platz"
   },
   {
     "cx": "1064.612",
     "cy": "487.156",
+    "transform": "matrix(1 0 0 1 943.9429 476.553)",
     "label": "Amrumer Straße"
   },
   {
     "cx": "854.695",
     "cy": "1290.516",
+    "transform": "matrix(1 0 0 1 877 1294.0002)",
     "label": "Güntzelstraße"
   },
   {
     "cx": "984.25",
     "cy": "948.961",
+    "transform": "matrix(1 0 0 1 1008 970.0002)",
     "label": "Hansaplatz"
   },
   {
     "cx": "1004.953",
     "cy": "767.554",
+    "transform": "matrix(1 0 0 1 900.8604 767.554)",
     "label": "Turmstraße"
   },
   {
     "cx": "1004.953",
     "cy": "667.554",
+    "transform": "matrix(1 0 0 1 893.9971 672.0002)",
     "label": "Birkenstraße"
   },
   {
     "cx": "1004.453",
     "cy": "572.061",
+    "transform": "matrix(1 0 0 1 905.7529 581.1604)",
     "label": "Westhafen"
   }
 ]

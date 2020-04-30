@@ -12,6 +12,13 @@ export default function StadtmittePoint() {
         cy='1018.5'
         r='8.5'
       />
+      <text
+        transform='matrix(1 0 0 1 1460.6572 1036.5002)'
+        font-family="'TrebuchetMS'"
+        font-size='14'
+      >
+        Stadtmitte
+      </text>
     </>
   );
 }

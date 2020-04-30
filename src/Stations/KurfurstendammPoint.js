@@ -12,6 +12,13 @@ export default function KurfurstendammPoint() {
         cy='1143.516'
         r='8.5'
       />
+      <text
+        transform='matrix(1 0 0 1 863.1948 1160.0002)'
+        font-family="'TrebuchetMS'"
+        font-size='14'
+      >
+        Kurfürstendamm
+      </text>
     </>
   );
 }

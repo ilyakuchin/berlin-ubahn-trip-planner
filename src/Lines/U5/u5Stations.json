@@ -2,122 +2,146 @@
   {
     "cx": "1335.721",
     "cy": "847",
+    "transform": "matrix(1 0 0 1 1247.2422 848.4417)",
     "label": "Bundestag"
   },
   {
     "cx": "1823.824",
     "cy": "818.282",
+    "transform": "matrix(1 0 0 1 1820.001 794.1448)",
     "label": "Schillingstraße"
   },
   {
     "cx": "1872.966",
     "cy": "832.285",
+    "transform": "matrix(1 0 0 1 1892.0293 824.0002)",
     "label": "Strausberger Platz"
   },
   {
     "cx": "1908.321",
     "cy": "867.644",
+    "transform": "matrix(1 0 0 1 1927.1035 864.0002)",
     "label": "Weberwiese"
   },
   {
     "cx": "1943.677",
     "cy": "902.996",
+    "transform": "matrix(1 0 0 1 1965 897.6956)",
     "label": "Frankfurter Tor"
   },
   {
     "cx": "1979.032",
     "cy": "938.354",
+    "transform": "matrix(1 0 0 1 1996.7266 927.7473)",
     "label": "Samariterstraße"
   },
   {
     "cx": "2160.488",
     "cy": "959.567",
+    "transform": "matrix(1 0 0 1 2120.833 919.2766)",
     "label": "Magdalenenstraße"
   },
   {
     "cx": "2325.066",
     "cy": "959.567",
+    "transform": "matrix(1 0 0 1 2277.9297 938.8538)",
     "label": "Friedrichsfelde"
   },
   {
     "cx": "2365.555",
     "cy": "986.211",
+    "transform": "matrix(1 0 0 1 2384.5781 975.6038)",
     "label": "Tierpark"
   },
   {
     "cx": "2448.754",
     "cy": "986.534",
+    "transform": "matrix(1 0 0 1 2469 1003.5002)",
     "label": "Biesdorf-Süd"
   },
   {
     "cx": "2491.181",
     "cy": "944.11",
+    "transform": "matrix(1 0 0 1 2506 963.0002)",
     "label": "Elsterwerdaer Platz"
   },
   {
     "cx": "2568.963",
     "cy": "866.325",
+    "transform": "matrix(1 0 0 1 2586 882.0002)",
     "label": "Kaulsdorf-Nord"
   },
   {
     "cx": "2604.318",
     "cy": "830.973",
+    "transform": "matrix(1 0 0 1 2629 844.0002)",
     "label": "Neue Grottkauer Straße"
   },
   {
     "cx": "2639.674",
     "cy": "795.615",
+    "transform": "matrix(1 0 0 1 2660 810.7854)",
     "label": "Cottbusser Platz"
   },
   {
     "cx": "2675.029",
     "cy": "760.262",
+    "transform": "matrix(1 0 0 1 2694 776.0002)",
     "label": "Hellersdorf"
   },
   {
     "cx": "2710.385",
     "cy": "724.906",
+    "transform": "matrix(1 0 0 1 2735.1338 730.4905)",
     "label": "Louis-Lewin-Straße"
   },
   {
     "cx": "2745.7405",
     "cy": "689.5",
+    "transform": "matrix(1 0 0 1 2762 693.0002)",
     "label": "Hönow"
   },
   {
     "cx": "2090.488",
     "cy": "959.219",
+    "transform": "matrix(1 0 0 1 2010.2383 979.8245)",
     "label": "Frankfurter Allee"
   },
   {
     "cx": "2240.488",
     "cy": "959.954",
+    "transform": "matrix(1 0 0 1 2255 977.9309)",
     "label": "Lichtenberg"
   },
   {
     "cx": "2533.607",
     "cy": "901.684",
+    "transform": "matrix(1 0 0 1 2549.2666 933.052)",
     "label": "Wuhletal"
   },
   {
     "cx": "1455.102",
     "cy": "875.743",
+    "transform": "matrix(1 0 0 1 1408.876 835.9417)",
     "label": "Brandenburger Tor"
   },
   {
     "cx": "1335.721",
     "cy": "776.054",
+    "transform": "matrix(1 0 0 1 1217.2173 779.2307)",
     "label": "Hauptbahnhof"
   },
   {
     "cx": "1601",
     "cy": "876.743",
+    "transform": "matrix(1 0 0 1 1577.9023 906.0999)",
     "label": "Museuminsel"
   },
   {
     "cx": "1823.824",
     "cy": "851.262",
     "r": "8.5",
+    "transform": "matrix(1 0 0 1 1634.6992 821.6809)",
     "label": "Berliner Rathaus"
   }
 ]

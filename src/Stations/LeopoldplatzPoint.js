@@ -12,6 +12,13 @@ export default function LeopoldplatzPoint() {
         cy='411.5'
         r='8.5'
       />
+      <text
+        transform='matrix(1 0 0 1 1160.7207 420.0002)'
+        font-family="'TrebuchetMS'"
+        font-size='14'
+      >
+        Leopoldplatz
+      </text>
     </>
   );
 }

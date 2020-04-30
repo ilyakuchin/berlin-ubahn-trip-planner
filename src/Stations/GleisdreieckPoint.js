@@ -12,6 +12,13 @@ export default function GleisdreieckPoint() {
         cy='1143.516'
         r='8.5'
       />
+      <text
+        transform='matrix(1 0 0 1 1269 1163.0159)'
+        font-family="'TrebuchetMS'"
+        font-size='14'
+      >
+        Gleisdreieck
+      </text>
     </>
   );
 }

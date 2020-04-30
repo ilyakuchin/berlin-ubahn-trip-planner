@@ -1,10 +1,15 @@
 import React from 'react';
-import StationPoint from '../../StationPoint';
+import Station from '../../Station';
 const data = require('./u3Stations.json');
 
 export default function U3Lines() {
   const stations = data.map((station) => (
-    <StationPoint cx={station.cx} cy={station.cy} label={station.label} />
+    <Station
+      cx={station.cx}
+      cy={station.cy}
+      label={station.label}
+      transform={station.transform}
+    />
   ));
 
   return (

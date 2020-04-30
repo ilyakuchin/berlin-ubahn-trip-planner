@@ -1,5 +1,4 @@
 import React from 'react';
-import StationLabel from './StationLabel';
 import Legend from './Legend';
 import UnderConstructionNote from './UnderConstructionNote';
 import U2Lines from './Lines/U2/U2Lines';
@@ -31,14 +30,10 @@ import SpandauPoint from './Stations/SpandauPoint';
 import ZoologischerGartenPoint from './Stations/ZoologischerGartenPoint';
 import NollendorfplatzPoint from './Stations/NollendorfplatzPoint';
 import AlexanderplatzPoint from './Stations/AlexanderplatzPoint';
-import MockenbruckePoint from './Stations/MockenbruckePoint';
+import MockenbruckePoint from './Stations/MockernbruckePoint';
 import WittenbergplatzPoint from './Stations/WittenbergplatzPoint';
-const stationLabelArr = require('./labels.json');
 
 export default function Map() {
-  const stationLabelsComponent = stationLabelArr.map((label) => (
-    <StationLabel transform={label.transform} label={label.label} />
-  ));
   return (
     <svg
       version='1.1'
@@ -51,7 +46,6 @@ export default function Map() {
       viewBox='0 0 2900 1900'
       enable-background='new 0 0 2900 1900'
     >
-      {stationLabelsComponent}
       <U1Lines />
       <U2Lines />
       <U3Lines />
@@ -61,8 +55,6 @@ export default function Map() {
       <U7Lines />
       <U8Lines />
       <U9Lines />
-      <Legend />
-      <UnderConstructionNote />
       <UnterDenLindenPoint />
       <HalleschesTorPoint />
       <StadtmittePoint />
@@ -85,6 +77,8 @@ export default function Map() {
       <AlexanderplatzPoint />
       <MockenbruckePoint />
       <WittenbergplatzPoint />
+      <Legend />
+      <UnderConstructionNote />
     </svg>
   );
 }

@@ -14,6 +14,13 @@ export default function UnterDenLindenPoint() {
         cy='875.743'
         r='8.5'
       />
+      <text
+        transform='matrix(1 0 0 1 1461.1221 894.5979)'
+        font-family="'TrebuchetMS'"
+        font-size='14'
+      >
+        Unter den Linden
+      </text>
     </>
   );
 }

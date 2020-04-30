@@ -2,16 +2,19 @@
   {
     "cx": "1037.695",
     "cy": "1263.332",
+    "transform": "matrix(1 0 0 1 1059.6045 1269.0159)",
     "label": "Viktoria-Luise-Platz"
   },
   {
     "cx": "1037.695",
     "cy": "1401.998",
+    "transform": "matrix(1 0 0 1 967.2363 1405.9983)",
     "label": "Rathaus Schöneberg"
   },
   {
     "cx": "1037.695",
     "cy": "1447.043",
+    "transform": "matrix(1 0 0 1 998.8394 1469.0002)",
     "label": "Innsbrucker Platz"
   }
 ]

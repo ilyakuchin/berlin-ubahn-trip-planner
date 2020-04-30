@@ -12,6 +12,13 @@ export default function BismarkstrassePoint() {
         cy='965.239'
         r='8.5'
       />
+      <text
+        transform='matrix(1 0 0 1 702.5 985.1272)'
+        font-family="'TrebuchetMS'"
+        font-size='14'
+      >
+        Bismarckstraße
+      </text>
     </>
   );
 }

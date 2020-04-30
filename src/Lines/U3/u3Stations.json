@@ -2,46 +2,55 @@
   {
     "cx": "378.0595",
     "cy": "1724.582",
+    "transform": "matrix(1 0 0 1 299.9839 1719.0002)",
     "label": "Krumme Lanke"
   },
   {
     "cx": "413.415",
     "cy": "1689.227",
+    "transform": "matrix(1 0 0 1 311.3921 1678.6194)",
     "label": "Onkel Toms Hütte"
   },
   {
     "cx": "448.77",
     "cy": "1653.868",
+    "transform": "matrix(1 0 0 1 339.9141 1640.0002)",
     "label": "Oskar-Helene-Heim"
   },
   {
     "cx": "484.125",
     "cy": "1618.516",
+    "transform": "matrix(1 0 0 1 396.5195 1603.0315)",
     "label": "Thielplatz"
   },
   {
     "cx": "519.48",
     "cy": "1583.157",
+    "transform": "matrix(1 0 0 1 418.7012 1569.9397)",
     "label": "Dahlem-Dorf"
   },
   {
     "cx": "554.836",
     "cy": "1547.805",
+    "transform": "matrix(1 0 0 1 446.2441 1539.887)",
     "label": "Podbielskallee"
   },
   {
     "cx": "590.192",
     "cy": "1512.448",
+    "transform": "matrix(1 0 0 1 464.4893 1504.5334)",
     "label": "Breitenbachplatz"
   },
   {
     "cx": "625.547",
     "cy": "1477.094",
+    "transform": "matrix(1 0 0 1 488.9531 1469.0315)",
     "label": "Rüdesheimer Platz"
   },
   {
     "cx": "667.974",
     "cy": "1434.666",
+    "transform": "matrix(1 0 0 1 531.4951 1440.9417)",
     "label": "Heidelberger Platz"
   },
   {
@@ -52,6 +61,7 @@
   {
     "cx": "910.105",
     "cy": "1194.105",
+    "transform": "matrix(1 0 0 1 933.123 1204.7112)",
     "label": "Augsburger Straße"
   }
 ]

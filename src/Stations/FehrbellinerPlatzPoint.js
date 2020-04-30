@@ -12,6 +12,13 @@ export default function FehrbellinerPlatzPoint() {
         cy='1332.188'
         r='8.5'
       />
+      <text
+        transform='matrix(1 0 0 1 638.7266 1342.0002)'
+        font-family="'TrebuchetMS'"
+        font-size='14'
+      >
+        Fehrbelliner Platz
+      </text>
     </div>
   );
 }

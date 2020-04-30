@@ -12,6 +12,13 @@ export default function HalleschesTorPoint() {
         cy='1143.864'
         r='8.5'
       />
+      <text
+        transform='matrix(1 0 0 1 1547.5 1160.0002)'
+        font-family="'TrebuchetMS'"
+        font-size='14'
+      >
+        Hallesches Tor
+      </text>
     </>
   );
 }
