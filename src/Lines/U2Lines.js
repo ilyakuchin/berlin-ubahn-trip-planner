@@ -12,7 +12,7 @@ export default function U2Lines() {
 	1668.721,1018.5 1308.72,1018.805 1308.72,1098.805 1238.01,1169.516 987.695,1169.516 783.5,965.239 431,965.239 324.934,859.173 
 	'
       />
-
+      {/* Mendelssohn-Bartholdz-Park */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -22,6 +22,7 @@ export default function U2Lines() {
         cy='1033.5'
         r='8.5'
       />
+      {/* Bülowstraße */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -31,6 +32,7 @@ export default function U2Lines() {
         cy='1169.516'
         r='8.5'
       />
+      {/* Mohrenstraße */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -40,6 +42,7 @@ export default function U2Lines() {
         cy='1018.5'
         r='8.5'
       />
+      {/* Hausvogteiplatz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -49,6 +52,7 @@ export default function U2Lines() {
         cy='1018.5'
         r='8.5'
       />
+      {/* Spittelmarkt */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -58,6 +62,7 @@ export default function U2Lines() {
         cy='1018.5'
         r='8.5'
       />
+      {/* Märkisches Museum */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -67,6 +72,7 @@ export default function U2Lines() {
         cy='1009.146'
         r='8.5'
       />
+      {/* Klosterstraße */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -76,6 +82,7 @@ export default function U2Lines() {
         cy='966.719'
         r='8.5'
       />
+      {/* Rosa-Luxemburg-Platz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -85,6 +92,7 @@ export default function U2Lines() {
         cy='723.5'
         r='8.5'
       />
+      {/* Senefeldplatz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -94,6 +102,7 @@ export default function U2Lines() {
         cy='668.5'
         r='8.5'
       />
+      {/* Eberswalder Straße */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -103,6 +112,7 @@ export default function U2Lines() {
         cy='613.5'
         r='8.5'
       />
+      {/* Vinetastraße */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -112,6 +122,7 @@ export default function U2Lines() {
         cy='433.5'
         r='8.5'
       />
+      {/* Ernst-Reuter-Platz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -121,6 +132,7 @@ export default function U2Lines() {
         cy='990.431'
         r='8.5'
       />
+      {/* Deutsche Oper */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -130,6 +142,7 @@ export default function U2Lines() {
         cy='965.239'
         r='8.5'
       />
+      {/* Sophie-Charlotte-Platz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -139,6 +152,7 @@ export default function U2Lines() {
         cy='965.239'
         r='8.5'
       />
+      {/* Theodor-Heuss-Platz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -148,6 +162,7 @@ export default function U2Lines() {
         cy='965.239'
         r='8.5'
       />
+      {/* Neu-Westend */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -157,6 +172,7 @@ export default function U2Lines() {
         cy='929.884'
         r='8.5'
       />
+      {/* Olympiastadion */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -166,6 +182,7 @@ export default function U2Lines() {
         cy='894.528'
         r='8.5'
       />
+      {/* Ruhleben */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -175,6 +192,7 @@ export default function U2Lines() {
         cy='859.1725'
         r='8.5'
       />
+      {/* Kaiserdamm */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -184,15 +202,7 @@ export default function U2Lines() {
         cy='967.067'
         r='8.5'
       />
-      <circle
-        fill='#FFFFFF'
-        stroke='#000000'
-        stroke-width='2'
-        stroke-miterlimit='10'
-        cx='1728.824'
-        cy='614'
-        r='8.5'
-      />
+      {/* Schönhauser Allee */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -202,6 +212,7 @@ export default function U2Lines() {
         cy='559'
         r='8.5'
       />
+      {/* Pankow */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
@@ -211,6 +222,7 @@ export default function U2Lines() {
         cy='278.344'
         r='8.5'
       />
+      {/* Potsdamer Platz */}
       <circle
         fill='#FFFFFF'
         stroke='#000000'
