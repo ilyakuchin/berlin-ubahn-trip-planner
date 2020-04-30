@@ -11,115 +11,115 @@ export default function U9Lines() {
         points='854.695,1733.486 854.695,1078.516 
 1004.953,928.258 1004.953,546.819 1239.175,312.597 '
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
+      {/* Schloßstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='854.695'
-        y1='1657.031'
-        x2='839.695'
-        y2='1657.031'
+        cx='854.695'
+        cy='1657.031'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
+      {/* Walther-Schreiber-Platz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='854.695'
-        y1='1587.031'
-        x2='839.695'
-        y2='1587.031'
+        cx='854.695'
+        cy='1587.031'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
+      {/* Friedrich-Wilhelm-Platz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='854.695'
-        y1='1517.031'
-        x2='839.695'
-        y2='1517.031'
+        cx='854.695'
+        cy='1517.031'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
+      {/* Bundesplatz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='854.695'
-        y1='1447.031'
-        x2='839.695'
-        y2='1447.031'
+        cx='854.695'
+        cy='1447.031'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
+      {/* Nauener Platz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1193.386'
-        y1='358.386'
-        x2='1182.779'
-        y2='347.779'
+        cx='1193.386'
+        cy='358.386'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
+      {/* Amrumer Straße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1064.612'
-        y1='487.156'
-        x2='1054.006'
-        y2='476.553'
+        cx='1064.612'
+        cy='487.156'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
+      {/* Güntzelstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='854.695'
-        y1='1290.516'
-        x2='869.695'
-        y2='1290.516'
+        cx='854.695'
+        cy='1290.516'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
+      {/* Hansaplatz */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='984.25'
-        y1='948.961'
-        x2='994.855'
-        y2='959.567'
+        cx='984.25'
+        cy='948.961'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
+      {/* Turmstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1004.953'
-        y1='767.554'
-        x2='989.953'
-        y2='767.554'
+        cx='1004.953'
+        cy='767.554'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
+      {/* Birkenstraße */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1004.953'
-        y1='667.554'
-        x2='989.953'
-        y2='667.554'
+        cx='1004.953'
+        cy='667.554'
+        r='8.5'
       />
-      <line
-        fill='none'
-        stroke='#EC651A'
-        stroke-width='8'
+      {/* Westhafen */}
+      <circle
+        fill='#FFFFFF'
+        stroke='#000000'
+        stroke-width='2'
         stroke-miterlimit='10'
-        x1='1004.453'
-        y1='572.061'
-        x2='989.453'
-        y2='572.061'
+        cx='1004.453'
+        cy='572.061'
+        r='8.5'
       />
     </>
   );
