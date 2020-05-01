@@ -1,18 +1,6 @@
 import React from 'react';
-import Station from '../../Station';
-const data = require('./u5Stations.json');
 
-export default function U5Lines() {
-  const stations = data.map((station) => (
-    <Station
-      key={station.label}
-      cx={station.cx}
-      cy={station.cy}
-      label={station.label}
-      transform={station.transform}
-    />
-  ));
-
+export default function U5Connections() {
   return (
     <>
       <polyline
@@ -41,7 +29,6 @@ export default function U5Lines() {
         points='
 	1455.102,875.743 1672,875.743 1730.213,817.496 '
       />
-      {stations}
     </>
   );
 }
