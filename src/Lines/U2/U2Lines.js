@@ -5,6 +5,7 @@ const data = require('./u2Stations.json');
 export default function U2Lines() {
   const stations = data.map((station) => (
     <Station
+      key={station.label}
       cx={station.cx}
       cy={station.cy}
       label={station.label}

@@ -10,6 +10,9 @@ export default function Station({
   return (
     <>
       <circle
+        onClick={() => {
+          console.log(label);
+        }}
         opacity={isUnderConstruction ? '0.5' : '1'}
         fill='#FFFFFF'
         stroke='#000000'

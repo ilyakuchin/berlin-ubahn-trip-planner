@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function MockenbruckePoint() {
+export default function MockernbruckePoint() {
   return (
     <>
       <path

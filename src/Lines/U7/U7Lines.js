@@ -5,6 +5,7 @@ const data = require('./u7Stations.json');
 export default function U7Lines() {
   const stations = data.map((station) => (
     <Station
+      key={station.label}
       cx={station.cx}
       cy={station.cy}
       label={station.label}

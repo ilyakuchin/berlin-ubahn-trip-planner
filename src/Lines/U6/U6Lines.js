@@ -5,6 +5,7 @@ const data = require('./u6Stations.json');
 export default function U6Lines() {
   const stations = data.map((station) => (
     <Station
+      key={station.label}
       cx={station.cx}
       cy={station.cy}
       label={station.label}
