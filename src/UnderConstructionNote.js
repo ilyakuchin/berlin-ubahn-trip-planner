@@ -5,8 +5,8 @@ export default function UnderConstructionNote() {
     <text
       transform='matrix(1 0 0 1 1485.5 866.0002)'
       fill='#AAAAAA'
-      font-family="'TrebuchetMS'"
-      font-size='14'
+      fontFamily="'TrebuchetMS'"
+      fontSize='14'
     >
       (Dieser Abschnitt ist im Bau)
     </text>

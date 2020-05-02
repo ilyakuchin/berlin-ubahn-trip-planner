@@ -1,7 +1,6 @@
 import React from 'react';
 
 import AlexanderplatzPoint from './AlexanderplatzPoint';
-import BayerischerplatzPoint from './BayerischerplatzPoint';
 import BerlinerstrassePoint from './BerlinerstrassePoint';
 import BismarkstrassePoint from './BismarkstrassePoint';
 import FehrbellinerPlatzPoint from './FehrbellinerPlatzPoint';
@@ -23,7 +22,6 @@ import UnterDenLindenPoint from './UnterDenLindenPoint';
 import WittenbergplatzPoint from './WittenbergplatzPoint';
 import ZoologischerGartenPoint from './ZoologischerGartenPoint';
 
-
 export default function SpecialStations() {
   return (
     <>
@@ -35,7 +33,6 @@ export default function SpecialStations() {
       <HermannplatzPoint />
       <KottbusserTorPoint />
       <BismarkstrassePoint />
-      <BayerischerplatzPoint />
       <KurfurstendammPoint />
       <SpichernstrassePoint />
       <BerlinerstrassePoint />
@@ -45,10 +42,10 @@ export default function SpecialStations() {
       <RathausSteglitzPoint />
       <SpandauPoint />
       <ZoologischerGartenPoint />
-      <NollendorfplatzPoint />
       <AlexanderplatzPoint />
       <MockernbruckePoint />
       <WittenbergplatzPoint />
+      <NollendorfplatzPoint />
     </>
   );
 }

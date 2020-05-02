@@ -1,9 +1,21 @@
 [
   {
+    "cx": "1097.695",
+    "cy": "1182.516",
+    "label": "Nollendorfplatz",
+    "transform": "matrix(1 0 0 1 1074.2065 1206.6663)"
+  },
+  {
     "cx": "1037.695",
     "cy": "1263.332",
     "transform": "matrix(1 0 0 1 1059.6045 1269.0159)",
     "label": "Viktoria-Luise-Platz"
+  },
+  {
+    "cx": "1037.695",
+    "cy": "1340.516",
+    "label": "Bayerischer Platz",
+    "transform": "matrix(1 0 0 1 956.6177 1360.0002)"
   },
   {
     "cx": "1037.695",
