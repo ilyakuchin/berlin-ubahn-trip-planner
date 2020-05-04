@@ -12,9 +12,6 @@ export default function KottbusserTorPoint() {
         cy='1143.516'
         r='8.5'
       />
-      {/* <text transform={transform} font-family="'TrebuchetMS'" font-size='14'>
-        {label}
-      </text> */}
     </>
   );
 }

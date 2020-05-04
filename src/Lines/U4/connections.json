@@ -1,5 +1,6 @@
 [
   {
+    "color": "#F5D021",
     "id": 1,
     "stationA": 1,
     "stationB": 2,
@@ -9,6 +10,7 @@
     "y2": "1182.516"
   },
   {
+    "color": "#F5D021",
     "id": 2,
     "stationA": 1,
     "stationB": 2,
@@ -18,6 +20,7 @@
     "y2": "1263.332"
   },
   {
+    "color": "#F5D021",
     "id": 3,
     "stationA": 2,
     "stationB": 3,
@@ -27,6 +30,7 @@
     "y2": "1340.516"
   },
   {
+    "color": "#F5D021",
     "id": 4,
     "stationA": 3,
     "stationB": 4,
@@ -36,6 +40,7 @@
     "y2": "1401.998"
   },
   {
+    "color": "#F5D021",
     "id": 5,
     "stationA": 4,
     "stationB": 5,

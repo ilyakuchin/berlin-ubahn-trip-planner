@@ -1,19 +1,6 @@
 import React from 'react';
-import { Station } from '../../Station';
-const stations = require('./u7Stations.json');
 
 export default function U7Connections() {
-  const u7stations = stations.map((station) => (
-    <Station
-      key={station.id}
-      id={station.id}
-      cx={station.cx}
-      cy={station.cy}
-      label={station.label}
-      transform={station.transform}
-    />
-  ));
-
   return (
     <>
       <polyline

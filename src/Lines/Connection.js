@@ -1,7 +1,16 @@
 import React from 'react';
 import { connect } from 'react-redux';
 
-export function Connection({ x1, y1, x2, y2, stationA, stationB, route }) {
+export function Connection({
+  x1,
+  y1,
+  x2,
+  y2,
+  stationA,
+  stationB,
+  route,
+  stroke,
+}) {
   let opacity = 0.3;
   if (route.length === 0) {
     opacity = 1;
@@ -13,7 +22,7 @@ export function Connection({ x1, y1, x2, y2, stationA, stationB, route }) {
       <line
         opacity={opacity}
         fill='none'
-        stroke='#F5D021'
+        stroke={stroke}
         strokeWidth='8'
         strokeMiterlimit='10'
         x1={x1}

@@ -25,13 +25,15 @@ import ZoologischerGartenPoint from './ZoologischerGartenPoint';
 export default function SpecialStations() {
   return (
     <>
-      <UnterDenLindenPoint />
+      <WittenbergplatzPoint />
+      <GleisdreieckPoint />
+      <MockernbruckePoint />
       <HalleschesTorPoint />
+      <KottbusserTorPoint />
+      <UnterDenLindenPoint />
       <StadtmittePoint />
       <GneisenaustrassePoint />
-      <GleisdreieckPoint />
       <HermannplatzPoint />
-      <KottbusserTorPoint />
       <BismarkstrassePoint />
       <KurfurstendammPoint />
       <SpichernstrassePoint />
@@ -43,8 +45,6 @@ export default function SpecialStations() {
       <SpandauPoint />
       <ZoologischerGartenPoint />
       <AlexanderplatzPoint />
-      <MockernbruckePoint />
-      <WittenbergplatzPoint />
       <NollendorfplatzPoint />
     </>
   );
