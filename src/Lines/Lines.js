@@ -1,12 +1,12 @@
 import React from 'react';
-import U3Connections from './U3/U3Connections';
 import { Station } from '../Station';
 import { connect } from 'react-redux';
+import U5Connections from './U5/U5Connections';
 
-const u3Stations = require('./U3/stations.json');
+const u5Stations = require('./U5/stations.json');
 
 export function Lines({ connections, stations }) {
-  const drawnStations = [...u3Stations].map((station) => (
+  const drawnStations = [...u5Stations].map((station) => (
     <Station
       key={station.id}
       id={station.id}
@@ -19,7 +19,7 @@ export function Lines({ connections, stations }) {
 
   return (
     <>
-      <U3Connections />
+      <U5Connections />
       {drawnStations}
     </>
   );

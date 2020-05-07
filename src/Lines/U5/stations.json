@@ -1,10 +1,29 @@
 [
   {
     "cx": "1335.721",
+    "cy": "776.054",
+    "transform": "matrix(1 0 0 1 1217.2173 779.2307)",
+    "label": "Hauptbahnhof"
+  },
+  {
+    "cx": "1335.721",
     "cy": "847",
     "transform": "matrix(1 0 0 1 1247.2422 848.4417)",
     "label": "Bundestag"
   },
+  {
+    "cx": "1455.102",
+    "cy": "875.743",
+    "transform": "matrix(1 0 0 1 1408.876 835.9417)",
+    "label": "Brandenburger Tor"
+  },
+  {
+    "cx": "",
+    "cy": "",
+    "transform": "",
+    "label": "Französische Straße"
+  },
+
   {
     "cx": "1823.824",
     "cy": "818.282",
@@ -118,30 +137,5 @@
     "cy": "901.684",
     "transform": "matrix(1 0 0 1 2549.2666 933.052)",
     "label": "Wuhletal"
-  },
-  {
-    "cx": "1455.102",
-    "cy": "875.743",
-    "transform": "matrix(1 0 0 1 1408.876 835.9417)",
-    "label": "Brandenburger Tor"
-  },
-  {
-    "cx": "1335.721",
-    "cy": "776.054",
-    "transform": "matrix(1 0 0 1 1217.2173 779.2307)",
-    "label": "Hauptbahnhof"
-  },
-  {
-    "cx": "1601",
-    "cy": "876.743",
-    "transform": "matrix(1 0 0 1 1577.9023 906.0999)",
-    "label": "Museuminsel"
-  },
-  {
-    "cx": "1823.824",
-    "cy": "851.262",
-    "r": "8.5",
-    "transform": "matrix(1 0 0 1 1634.6992 821.6809)",
-    "label": "Berliner Rathaus"
   }
 ]
