@@ -55,10 +55,22 @@
     "label": "Samariterstraße"
   },
   {
+    "cx": "2090.488",
+    "cy": "959.219",
+    "transform": "matrix(1 0 0 1 2010.2383 979.8245)",
+    "label": "Frankfurter Allee"
+  },
+  {
     "cx": "2160.488",
     "cy": "959.567",
     "transform": "matrix(1 0 0 1 2120.833 919.2766)",
     "label": "Magdalenenstraße"
+  },
+  {
+    "cx": "2240.488",
+    "cy": "959.954",
+    "transform": "matrix(1 0 0 1 2255 977.9309)",
+    "label": "Lichtenberg"
   },
   {
     "cx": "2325.066",
@@ -85,16 +97,22 @@
     "label": "Elsterwerdaer Platz"
   },
   {
+    "cx": "2533.607",
+    "cy": "901.684",
+    "transform": "matrix(1 0 0 1 2549.2666 933.052)",
+    "label": "Wuhletal"
+  },
+  {
     "cx": "2568.963",
     "cy": "866.325",
     "transform": "matrix(1 0 0 1 2586 882.0002)",
     "label": "Kaulsdorf-Nord"
   },
   {
-    "cx": "2604.318",
-    "cy": "830.973",
-    "transform": "matrix(1 0 0 1 2629 844.0002)",
-    "label": "Neue Grottkauer Straße"
+    "cx": "",
+    "cy": "",
+    "transform": "",
+    "label": "Kienberg (Gärten der Welt)"
   },
   {
     "cx": "2639.674",
@@ -119,23 +137,5 @@
     "cy": "689.5",
     "transform": "matrix(1 0 0 1 2762 693.0002)",
     "label": "Hönow"
-  },
-  {
-    "cx": "2090.488",
-    "cy": "959.219",
-    "transform": "matrix(1 0 0 1 2010.2383 979.8245)",
-    "label": "Frankfurter Allee"
-  },
-  {
-    "cx": "2240.488",
-    "cy": "959.954",
-    "transform": "matrix(1 0 0 1 2255 977.9309)",
-    "label": "Lichtenberg"
-  },
-  {
-    "cx": "2533.607",
-    "cy": "901.684",
-    "transform": "matrix(1 0 0 1 2549.2666 933.052)",
-    "label": "Wuhletal"
   }
 ]
