@@ -2,7 +2,6 @@ import React from 'react';
 
 import Legend from './Legend';
 import Lines from './Lines/Lines';
-import UnderConstructionNote from './UnderConstructionNote';
 
 export default function Map() {
   return (
@@ -19,7 +18,6 @@ export default function Map() {
     >
       <Lines />
       <Legend />
-      <UnderConstructionNote />
     </svg>
   );
 }
