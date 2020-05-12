@@ -90,9 +90,9 @@
     "label": "Kaulsdorf-Nord"
   },
   {
-    "cx": "",
-    "cy": "",
-    "transform": "",
+    "cx": "2604.963",
+    "cy": "830.47",
+    "transform": "matrix(1 0 0 1 2622 846)",
     "label": "Kienberg (Gärten der Welt)"
   },
   {
