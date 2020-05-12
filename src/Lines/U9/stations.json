@@ -1,6 +1,12 @@
 [
   {
     "cx": "854.695",
+    "cy": "1733.486",
+    "transform": "matrix(1 0 0 1 725.1299 1735.1877)",
+    "label": "Rathaus Steglitz"
+  },
+  {
+    "cx": "854.695",
     "cy": "1657.031",
     "transform": "matrix(1 0 0 1 750.0947 1661.0002)",
     "label": "Schloßstraße"
@@ -24,22 +30,34 @@
     "label": "Bundesplatz"
   },
   {
-    "cx": "1193.386",
-    "cy": "358.386",
-    "transform": "matrix(1 0 0 1 1123.0952 339.7688)",
-    "label": "Nauener Platz"
-  },
-  {
-    "cx": "1064.612",
-    "cy": "487.156",
-    "transform": "matrix(1 0 0 1 943.9429 476.553)",
-    "label": "Amrumer Straße"
+    "cx": "854.695",
+    "cy": "1340.688",
+    "transform": "matrix(1 0 0 1 863.1948 1332.0159)",
+    "label": "Berliner Straße"
   },
   {
     "cx": "854.695",
     "cy": "1290.516",
     "transform": "matrix(1 0 0 1 877 1294.0002)",
     "label": "Güntzelstraße"
+  },
+  {
+    "cx": "854.695",
+    "cy": "1249.016",
+    "transform": "matrix(1 0 0 1 869.6948 1254.0159)",
+    "label": "Spichernstraße"
+  },
+  {
+    "cx": "854.695",
+    "cy": "1143.516",
+    "transform": "matrix(1 0 0 1 863.1948 1160.0002)",
+    "label": "Kurfürstendamm"
+  },
+  {
+    "cx": "875.5",
+    "cy": "1058.5002",
+    "transform": "matrix(1 0 0 1 900.5 1055.5002)",
+    "label": "Zoologischer Garten"
   },
   {
     "cx": "984.25",
@@ -64,5 +82,29 @@
     "cy": "572.061",
     "transform": "matrix(1 0 0 1 905.7529 581.1604)",
     "label": "Westhafen"
+  },
+  {
+    "cx": "1064.612",
+    "cy": "487.156",
+    "transform": "matrix(1 0 0 1 943.9429 476.553)",
+    "label": "Amrumer Straße"
+  },
+  {
+    "cx": "1141.5",
+    "cy": "411.5",
+    "transform": "matrix(1 0 0 1 1160.7207 420.0002)",
+    "label": "Leopoldplatz"
+  },
+  {
+    "cx": "1193.386",
+    "cy": "358.386",
+    "transform": "matrix(1 0 0 1 1123.0952 339.7688)",
+    "label": "Nauener Platz"
+  },
+  {
+    "cx": "1241.5",
+    "cy": "310",
+    "transform": "matrix(1 0 0 1 1258.8701 311.0002)",
+    "label": "Osloer Straße"
   }
 ]
