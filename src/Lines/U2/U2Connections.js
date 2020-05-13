@@ -18,7 +18,7 @@ export default function U2Connections() {
   ));
   return (
     <>
-      {connections}
+      {/* {connections} */}
       <polyline
         fill='none'
         stroke='#E02021'
