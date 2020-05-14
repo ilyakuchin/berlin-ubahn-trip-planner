@@ -3,7 +3,6 @@ import { Station } from '../Station';
 import { Connection } from '../Lines/Connection';
 import { connect } from 'react-redux';
 
-import U9Connections from './U9/U9Connections';
 import U2Connections from './U2/U2Connections';
 
 const u1Stations = require('./U1/stations.json');
