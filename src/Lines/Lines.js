@@ -3,6 +3,11 @@ import { Station } from '../Station';
 import { Connection } from '../Lines/Connection';
 import { connect } from 'react-redux';
 
+import U5Connections from './U5/U5Connections';
+import U6Connections from './U6/U6Connections';
+import U7Connections from './U7/U7Connections';
+import U8Connections from './U8/U8Connections';
+
 const u1Stations = require('./U1/stations.json');
 const u2Stations = require('./U2/stations.json');
 const u3Stations = require('./U3/stations.json');
@@ -24,7 +29,7 @@ const u8Connections = require('./U8/connections.json');
 const u9Connections = require('./U9/connections.json');
 
 export function Lines({ connections, stations }) {
-  const drawnConnections = [...u2Connections].map((connection) => (
+  const drawnConnections = [...u3Connections].map((connection) => (
     <Connection
       stroke={connection.color}
       key={connection.id}
@@ -38,7 +43,7 @@ export function Lines({ connections, stations }) {
     />
   ));
 
-  const drawnStations = [...u2Stations].map((station) => (
+  const drawnStations = [...u3Stations].map((station) => (
     <Station
       key={station.id}
       id={station.id}
