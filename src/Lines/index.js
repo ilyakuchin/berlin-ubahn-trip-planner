@@ -1,6 +1,6 @@
 import React from 'react';
 import { Station } from '../Station';
-import { Connection } from '../Lines/Connection';
+import { Connection } from '../Connection';
 import { connect } from 'react-redux';
 
 const u1Stations = require('./U1/stations.json');

@@ -1,7 +1,7 @@
 import React from 'react';
 
 import Legend from './Legend';
-import Lines from './Lines/Lines';
+import Lines from './Lines';
 
 export default function Map() {
   return (
