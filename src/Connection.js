@@ -11,16 +11,20 @@ export function Connection({
   route,
   stroke,
 }) {
-  let opacity = 0.3;
-  if (route.length === 0) {
-    opacity = 1;
-  } else if (route.indexOf(stationA) !== -1 && route.indexOf(stationB) !== -1) {
-    opacity = 1;
-  }
+  const setOpacity = (route, stationA, stationB) => {
+    if (route.length === 0) {
+      return 1;
+    }
+    if (route.indexOf(stationA) !== -1 && route.indexOf(stationB) !== -1) {
+      return 1;
+    }
+    return 0.3;
+  };
+
   return (
     <>
       <line
-        opacity={opacity}
+        opacity={setOpacity(route, stationA, stationB)}
         fill='none'
         stroke={stroke}
         strokeWidth='8'
@@ -41,4 +45,5 @@ const mapStateToProps = (state) => {
 };
 
 const ConnectedConnection = connect(mapStateToProps)(Connection);
+
 export default ConnectedConnection;

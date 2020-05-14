@@ -1,140 +1,163 @@
 [
-  {
-    "cx": "1183.896",
-    "cy": "80.655",
-    "transform": "matrix(1 0 0 1 1193.3857 83.0002)",
-    "label": "Wittenau"
-  },
-  {
-    "cx": "1095.313",
-    "cy": "81.103",
-    "transform": "matrix(1 0 0 1 1066.624 43.1331)",
-    "label": "Rathaus Reinickendorf"
-  },
-  {
-    "cx": "1082.896",
-    "cy": "124.44",
-    "transform": "matrix(1 0 0 1 949.4297 124.4397)",
-    "label": "Karl-Bonhoeffer-Nerveklinik"
-  },
-  {
-    "cx": "1100.617",
-    "cy": "167.942",
-    "transform": "matrix(1 0 0 1 993.2798 186.0002)",
-    "label": "Lindauer Allee"
-  },
-  {
-    "cx": "1135.973",
-    "cy": "203.297",
-    "transform": "matrix(1 0 0 1 1022.1426 219.0002)",
-    "label": "Paracelsus-Bad"
-  },
-  {
-    "cx": "1171.327",
-    "cy": "238.653",
-    "transform": "matrix(1 0 0 1 1053.5273 254.0002)",
-    "label": "Residenzstraße"
-  },
-  {
-    "cx": "1206.684",
-    "cy": "274.008",
-    "transform": "matrix(1 0 0 1 1062.6875 291.0002)",
-    "label": "Franz-Neuman-Platz"
-  },
-  {
-    "cx": "1241.5",
-    "cy": "310",
-    "transform": "matrix(1 0 0 1 1258.8701 311.0002)",
-    "label": "Osloer Straße"
-  },
-  {
-    "cx": "1363.396",
-    "cy": "430.602",
-    "transform": "matrix(1 0 0 1 1384 425.2991)",
-    "label": "Pankstraße"
-  },
-  {
-    "cx": "1506.496",
-    "cy": "572.061",
-    "transform": "matrix(1 0 0 1 1390.5234 590.9475)",
-    "label": "Gesundbrunnen"
-  },
-  {
-    "cx": "1546.104",
-    "cy": "611.668",
-    "transform": "matrix(1 0 0 1 1566 611.6682)",
-    "label": "Voltastraße"
-  },
-  {
-    "cx": "1585.711",
-    "cy": "651.276",
-    "transform": "matrix(1 0 0 1 1606.667 646.0002)",
-    "label": "Bernauer Straße"
-  },
-  {
-    "cx": "1625.318",
-    "cy": "690.883",
-    "transform": "matrix(1 0 0 1 1532.292 701.4895)",
-    "label": "Rosenthaler Platz"
-  },
-  {
-    "cx": "1664.926",
-    "cy": "730.49",
-    "transform": "matrix(1 0 0 1 1564.4102 748.6663)",
-    "label": "Weinmeisterstraße"
-  },
-  {
-    "cx": "1728.824",
-    "cy": "795.5",
-    "transform": "matrix(1 0 0 1 1743.8242 799.2307)",
-    "label": "Alexanderplatz"
-  },
-  {
-    "cx": "1775.104",
-    "cy": "882",
-    "transform": "matrix(1 0 0 1 1797.1963 887.1682)",
-    "label": "Jannowitzbrücke"
-  },
-  {
-    "cx": "1775.104",
-    "cy": "1003.516",
-    "transform": "matrix(1 0 0 1 1795.5 981.4182)",
-    "label": "Heinrich-Heine-Straße"
-  },
-  {
-    "cx": "1775.104",
-    "cy": "1073.516",
-    "transform": "matrix(1 0 0 1 1685.5508 1082.0198)",
-    "label": "Moritzplatz"
-  },
-  {
-    "cx": "1775.104",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 1665.5508 1142.0002)",
-    "label": "Kottbusser Tor"
-  },
-  {
-    "cx": "1775.119",
-    "cy": "1198",
-    "transform": "matrix(1 0 0 1 1652.8174 1199.4084)",
-    "label": "Schönleinstraße"
-  },
-  {
-    "cx": "1775.119",
-    "cy": "1313",
-    "transform": "matrix(1 0 0 1 1704.1826 1314.7737)",
-    "label": "Boddinstraße"
-  },
-  {
-    "cx": "1775.119",
-    "cy": "1378",
-    "transform": "matrix(1 0 0 1 1678.6982 1380.6877)",
-    "label": "Leinestraße"
-  },
-  {
-    "cx": "1775.74",
-    "cy": "1447.043",
-    "transform": "matrix(1 0 0 1 1727.2129 1469.0315)",
-    "label": "Hermannstraße"
-  }
+	{
+		"id": "161",
+		"cx": "1183.896",
+		"cy": "80.655",
+		"transform": "matrix(1 0 0 1 1193.3857 83.0002)",
+		"label": "Wittenau"
+	},
+	{
+		"id": "162",
+		"cx": "1095.313",
+		"cy": "81.103",
+		"transform": "matrix(1 0 0 1 1066.624 43.1331)",
+		"label": "Rathaus Reinickendorf"
+	},
+	{
+		"id": "163",
+		"cx": "1082.896",
+		"cy": "124.44",
+		"transform": "matrix(1 0 0 1 949.4297 124.4397)",
+		"label": "Karl-Bonhoeffer-Nerveklinik"
+	},
+	{
+		"id": "164",
+		"cx": "1100.617",
+		"cy": "167.942",
+		"transform": "matrix(1 0 0 1 993.2798 186.0002)",
+		"label": "Lindauer Allee"
+	},
+	{
+		"id": "165",
+		"cx": "1135.973",
+		"cy": "203.297",
+		"transform": "matrix(1 0 0 1 1022.1426 219.0002)",
+		"label": "Paracelsus-Bad"
+	},
+	{
+		"id": "166",
+		"cx": "1171.327",
+		"cy": "238.653",
+		"transform": "matrix(1 0 0 1 1053.5273 254.0002)",
+		"label": "Residenzstraße"
+	},
+	{
+		"id": "167",
+		"cx": "1206.684",
+		"cy": "274.008",
+		"transform": "matrix(1 0 0 1 1062.6875 291.0002)",
+		"label": "Franz-Neuman-Platz"
+	},
+	{
+		"id": "168",
+		"cx": "1241.5",
+		"cy": "310",
+		"transform": "matrix(1 0 0 1 1258.8701 311.0002)",
+		"label": "Osloer Straße"
+	},
+	{
+		"id": "169",
+		"cx": "1363.396",
+		"cy": "430.602",
+		"transform": "matrix(1 0 0 1 1384 425.2991)",
+		"label": "Pankstraße"
+	},
+	{
+		"id": "170",
+		"cx": "1506.496",
+		"cy": "572.061",
+		"transform": "matrix(1 0 0 1 1390.5234 590.9475)",
+		"label": "Gesundbrunnen"
+	},
+	{
+		"id": "171",
+		"cx": "1546.104",
+		"cy": "611.668",
+		"transform": "matrix(1 0 0 1 1566 611.6682)",
+		"label": "Voltastraße"
+	},
+	{
+		"id": "172",
+		"cx": "1585.711",
+		"cy": "651.276",
+		"transform": "matrix(1 0 0 1 1606.667 646.0002)",
+		"label": "Bernauer Straße"
+	},
+	{
+		"id": "173",
+		"cx": "1625.318",
+		"cy": "690.883",
+		"transform": "matrix(1 0 0 1 1532.292 701.4895)",
+		"label": "Rosenthaler Platz"
+	},
+	{
+		"id": "174",
+		"cx": "1664.926",
+		"cy": "730.49",
+		"transform": "matrix(1 0 0 1 1564.4102 748.6663)",
+		"label": "Weinmeisterstraße"
+	},
+	{
+		"id": "175",
+		"cx": "1728.824",
+		"cy": "795.5",
+		"transform": "matrix(1 0 0 1 1743.8242 799.2307)",
+		"label": "Alexanderplatz"
+	},
+	{
+		"id": "176",
+		"cx": "1775.104",
+		"cy": "882",
+		"transform": "matrix(1 0 0 1 1797.1963 887.1682)",
+		"label": "Jannowitzbrücke"
+	},
+	{
+		"id": "177",
+		"cx": "1775.104",
+		"cy": "1003.516",
+		"transform": "matrix(1 0 0 1 1795.5 981.4182)",
+		"label": "Heinrich-Heine-Straße"
+	},
+	{
+		"id": "178",
+		"cx": "1775.104",
+		"cy": "1073.516",
+		"transform": "matrix(1 0 0 1 1685.5508 1082.0198)",
+		"label": "Moritzplatz"
+	},
+	{
+		"id": "179",
+		"cx": "1775.104",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 1665.5508 1142.0002)",
+		"label": "Kottbusser Tor"
+	},
+	{
+		"id": "180",
+		"cx": "1775.119",
+		"cy": "1198",
+		"transform": "matrix(1 0 0 1 1652.8174 1199.4084)",
+		"label": "Schönleinstraße"
+	},
+	{
+		"id": "181",
+		"cx": "1775.119",
+		"cy": "1313",
+		"transform": "matrix(1 0 0 1 1704.1826 1314.7737)",
+		"label": "Boddinstraße"
+	},
+	{
+		"id": "182",
+		"cx": "1775.119",
+		"cy": "1378",
+		"transform": "matrix(1 0 0 1 1678.6982 1380.6877)",
+		"label": "Leinestraße"
+	},
+	{
+		"id": "183",
+		"cx": "1775.74",
+		"cy": "1447.043",
+		"transform": "matrix(1 0 0 1 1727.2129 1469.0315)",
+		"label": "Hermannstraße"
+	}
 ]

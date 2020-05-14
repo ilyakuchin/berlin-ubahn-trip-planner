@@ -1,146 +1,170 @@
 [
-  {
-    "cx": "378.0595",
-    "cy": "1724.582",
-    "transform": "matrix(1 0 0 1 299.9839 1719.0002)",
-    "label": "Krumme Lanke"
-  },
-  {
-    "cx": "413.415",
-    "cy": "1689.227",
-    "transform": "matrix(1 0 0 1 311.3921 1678.6194)",
-    "label": "Onkel Toms Hütte"
-  },
-  {
-    "cx": "448.77",
-    "cy": "1653.868",
-    "transform": "matrix(1 0 0 1 339.9141 1640.0002)",
-    "label": "Oskar-Helene-Heim"
-  },
-  {
-    "cx": "484.125",
-    "cy": "1618.516",
-    "transform": "matrix(1 0 0 1 396.5195 1603.0315)",
-    "label": "Freie Universität (Thielplatz)"
-  },
-  {
-    "cx": "519.48",
-    "cy": "1583.157",
-    "transform": "matrix(1 0 0 1 418.7012 1569.9397)",
-    "label": "Dahlem-Dorf"
-  },
-  {
-    "cx": "554.836",
-    "cy": "1547.805",
-    "transform": "matrix(1 0 0 1 446.2441 1539.887)",
-    "label": "Podbielskallee"
-  },
-  {
-    "cx": "590.192",
-    "cy": "1512.448",
-    "transform": "matrix(1 0 0 1 464.4893 1504.5334)",
-    "label": "Breitenbachplatz"
-  },
-  {
-    "cx": "625.547",
-    "cy": "1477.094",
-    "transform": "matrix(1 0 0 1 488.9531 1469.0315)",
-    "label": "Rüdesheimer Platz"
-  },
-  {
-    "cx": "667.974",
-    "cy": "1434.666",
-    "transform": "matrix(1 0 0 1 531.4951 1440.9417)",
-    "label": "Heidelberger Platz"
-  },
-  {
-    "cx": "769",
-    "cy": "1332.188",
-    "transform": "matrix(1 0 0 1 638.7266 1342.0002)",
-    "label": "Fehrbelliner Platz"
-  },
-  {
-    "cx": "813.914",
-    "cy": "1290.297",
-    "transform": "matrix(1 0 0 1 683.6406 1300.111)",
-    "label": "Hohenzollernplatz"
-  },
-  {
-    "cx": "854.695",
-    "cy": "1249.016",
-    "transform": "matrix(1 0 0 1 869.6948 1254.0159)",
-    "label": "Spichernstraße"
-  },
-  {
-    "cx": "910.105",
-    "cy": "1194.105",
-    "transform": "matrix(1 0 0 1 933.123 1204.7112)",
-    "label": "Augsburger Straße"
-  },
-  {
-    "cx": "1012.495",
-    "cy": "1156.516",
-    "transform": "matrix(1 0 0 1 975.0186 1180.0159)",
-    "label": "Wittenbergplatz"
-  },
-  {
-    "cx": "1097.695",
-    "cy": "1156.516",
-    "transform": "matrix(1 0 0 1 1074.206 1180.0159)",
-    "label": "Nollendorfplatz"
-  },
-  {
-    "cx": "1189.695",
-    "cy": "1156.516",
-    "transform": "matrix(1 0 0 1 1154.4702 1180.0159)",
-    "label": "Kurfürstenstraße"
-  },
-  {
-    "cx": "1264.695",
-    "cy": "1156.516",
-    "transform": "matrix(1 0 0 1 1269 1180.0159)",
-    "label": "Gleisdreieck"
-  },
-  {
-    "cx": "1424.542",
-    "cy": "1156.516",
-    "transform": "matrix(1 0 0 1 1396.042 1180.0159)",
-    "label": "Möckernbrücke"
-  },
-  {
-    "cx": "1536.498",
-    "cy": "1156.516",
-    "transform": "matrix(1 0 0 1 1547.5 1180.0159)",
-    "label": "Hallesches Tor"
-  },
-  {
-    "cx": "1648.301",
-    "cy": "1156.516",
-    "transform": "matrix(1 0 0 1 1605.2412 1180.0159)",
-    "label": "Prinzenstraße"
-  },
-  {
-    "cx": "1775.104",
-    "cy": "1156.516",
-    "transform": "matrix(1 0 0 1 1720.1963 1180.0159)",
-    "label": "Kottbusser Tor"
-  },
-  {
-    "cx": "1825.104",
-    "cy": "1156.516",
-    "transform": "matrix(1 0 0 1 1797.1963 1180.0159)",
-    "label": "Görlitzer Bahnhof"
-  },
-  {
-    "cx": "1918.928",
-    "cy": "1156.516",
-    "transform": "matrix(1 0 0 1 1913.624 1180.0159)",
-    "label": "Schlesisches Tor"
-  },
-  {
-    "cx": "2000.5065",
-    "cy": "1090.7995",
-    "transform": "matrix(1 0 0 1 2009.6387 1090.7995)",
-    "label": "Warschauer Straße"
-  }
+	{
+		"id": "43",
+		"cx": "378.0595",
+		"cy": "1724.582",
+		"transform": "matrix(1 0 0 1 299.9839 1719.0002)",
+		"label": "Krumme Lanke"
+	},
+	{
+		"id": "44",
+		"cx": "413.415",
+		"cy": "1689.227",
+		"transform": "matrix(1 0 0 1 311.3921 1678.6194)",
+		"label": "Onkel Toms Hütte"
+	},
+	{
+		"id": "45",
+		"cx": "448.77",
+		"cy": "1653.868",
+		"transform": "matrix(1 0 0 1 339.9141 1640.0002)",
+		"label": "Oskar-Helene-Heim"
+	},
+	{
+		"id": "46",
+		"cx": "484.125",
+		"cy": "1618.516",
+		"transform": "matrix(1 0 0 1 396.5195 1603.0315)",
+		"label": "Freie Universität (Thielplatz)"
+	},
+	{
+		"id": "47",
+		"cx": "519.48",
+		"cy": "1583.157",
+		"transform": "matrix(1 0 0 1 418.7012 1569.9397)",
+		"label": "Dahlem-Dorf"
+	},
+	{
+		"id": "48",
+		"cx": "554.836",
+		"cy": "1547.805",
+		"transform": "matrix(1 0 0 1 446.2441 1539.887)",
+		"label": "Podbielskallee"
+	},
+	{
+		"id": "49",
+		"cx": "590.192",
+		"cy": "1512.448",
+		"transform": "matrix(1 0 0 1 464.4893 1504.5334)",
+		"label": "Breitenbachplatz"
+	},
+	{
+		"id": "50",
+		"cx": "625.547",
+		"cy": "1477.094",
+		"transform": "matrix(1 0 0 1 488.9531 1469.0315)",
+		"label": "Rüdesheimer Platz"
+	},
+	{
+		"id": "51",
+		"cx": "667.974",
+		"cy": "1434.666",
+		"transform": "matrix(1 0 0 1 531.4951 1440.9417)",
+		"label": "Heidelberger Platz"
+	},
+	{
+		"id": "52",
+		"cx": "769",
+		"cy": "1332.188",
+		"transform": "matrix(1 0 0 1 638.7266 1342.0002)",
+		"label": "Fehrbelliner Platz"
+	},
+	{
+		"id": "53",
+		"cx": "813.914",
+		"cy": "1290.297",
+		"transform": "matrix(1 0 0 1 683.6406 1300.111)",
+		"label": "Hohenzollernplatz"
+	},
+	{
+		"id": "54",
+		"cx": "854.695",
+		"cy": "1249.016",
+		"transform": "matrix(1 0 0 1 869.6948 1254.0159)",
+		"label": "Spichernstraße"
+	},
+	{
+		"id": "55",
+		"cx": "910.105",
+		"cy": "1194.105",
+		"transform": "matrix(1 0 0 1 933.123 1204.7112)",
+		"label": "Augsburger Straße"
+	},
+	{
+		"id": "56",
+		"cx": "1012.495",
+		"cy": "1156.516",
+		"transform": "matrix(1 0 0 1 975.0186 1180.0159)",
+		"label": "Wittenbergplatz"
+	},
+	{
+		"id": "57",
+		"cx": "1097.695",
+		"cy": "1156.516",
+		"transform": "matrix(1 0 0 1 1074.206 1180.0159)",
+		"label": "Nollendorfplatz"
+	},
+	{
+		"id": "58",
+		"cx": "1189.695",
+		"cy": "1156.516",
+		"transform": "matrix(1 0 0 1 1154.4702 1180.0159)",
+		"label": "Kurfürstenstraße"
+	},
+	{
+		"id": "59",
+		"cx": "1264.695",
+		"cy": "1156.516",
+		"transform": "matrix(1 0 0 1 1269 1180.0159)",
+		"label": "Gleisdreieck"
+	},
+	{
+		"id": "60",
+		"cx": "1424.542",
+		"cy": "1156.516",
+		"transform": "matrix(1 0 0 1 1396.042 1180.0159)",
+		"label": "Möckernbrücke"
+	},
+	{
+		"id": "61",
+		"cx": "1536.498",
+		"cy": "1156.516",
+		"transform": "matrix(1 0 0 1 1547.5 1180.0159)",
+		"label": "Hallesches Tor"
+	},
+	{
+		"id": "62",
+		"cx": "1648.301",
+		"cy": "1156.516",
+		"transform": "matrix(1 0 0 1 1605.2412 1180.0159)",
+		"label": "Prinzenstraße"
+	},
+	{
+		"id": "63",
+		"cx": "1775.104",
+		"cy": "1156.516",
+		"transform": "matrix(1 0 0 1 1720.1963 1180.0159)",
+		"label": "Kottbusser Tor"
+	},
+	{
+		"id": "64",
+		"cx": "1825.104",
+		"cy": "1156.516",
+		"transform": "matrix(1 0 0 1 1797.1963 1180.0159)",
+		"label": "Görlitzer Bahnhof"
+	},
+	{
+		"id": "65",
+		"cx": "1918.928",
+		"cy": "1156.516",
+		"transform": "matrix(1 0 0 1 1913.624 1180.0159)",
+		"label": "Schlesisches Tor"
+	},
+	{
+		"id": "66",
+		"cx": "2000.5065",
+		"cy": "1090.7995",
+		"transform": "matrix(1 0 0 1 2009.6387 1090.7995)",
+		"label": "Warschauer Straße"
+	}
 ]

@@ -1,45 +1,45 @@
 [
-  {
-    "id": 1,
-    "cx": "1097.695",
-    "cy": "1182.516",
-    "label": "Nollendorfplatz",
-    "transform": "matrix(1 0 0 1 1074.2065 1206.6663)",
-    "nextStation": 2
-  },
-  {
-    "id": 2,
-    "cx": "1037.695",
-    "cy": "1263.332",
-    "transform": "matrix(1 0 0 1 1059.6045 1269.0159)",
-    "label": "Viktoria-Luise-Platz",
-    "nextStation": 3,
-    "previousStation": 1
-  },
-  {
-    "id": 3,
-    "cx": "1037.695",
-    "cy": "1340.516",
-    "label": "Bayerischer Platz",
-    "transform": "matrix(1 0 0 1 956.6177 1360.0002)",
-    "nextStation": 4,
-    "previousStation": 2
-  },
-  {
-    "id": 4,
-    "cx": "1037.695",
-    "cy": "1401.998",
-    "transform": "matrix(1 0 0 1 967.2363 1405.9983)",
-    "label": "Rathaus Schöneberg",
-    "nextStation": 5,
-    "previousStation": 3
-  },
-  {
-    "id": 5,
-    "cx": "1037.695",
-    "cy": "1447.043",
-    "transform": "matrix(1 0 0 1 998.8394 1469.0002)",
-    "label": "Innsbrucker Platz",
-    "previousStation": 4
-  }
+	{
+		"id": "67",
+		"cx": "1097.695",
+		"cy": "1182.516",
+		"label": "Nollendorfplatz",
+		"transform": "matrix(1 0 0 1 1074.2065 1206.6663)",
+		"nextStation": 2
+	},
+	{
+		"id": "68",
+		"cx": "1037.695",
+		"cy": "1263.332",
+		"transform": "matrix(1 0 0 1 1059.6045 1269.0159)",
+		"label": "Viktoria-Luise-Platz",
+		"nextStation": 3,
+		"previousStation": 1
+	},
+	{
+		"id": "69",
+		"cx": "1037.695",
+		"cy": "1340.516",
+		"label": "Bayerischer Platz",
+		"transform": "matrix(1 0 0 1 956.6177 1360.0002)",
+		"nextStation": 4,
+		"previousStation": 2
+	},
+	{
+		"id": "70",
+		"cx": "1037.695",
+		"cy": "1401.998",
+		"transform": "matrix(1 0 0 1 967.2363 1405.9983)",
+		"label": "Rathaus Schöneberg",
+		"nextStation": 5,
+		"previousStation": 3
+	},
+	{
+		"id": "71",
+		"cx": "1037.695",
+		"cy": "1447.043",
+		"transform": "matrix(1 0 0 1 998.8394 1469.0002)",
+		"label": "Innsbrucker Platz",
+		"previousStation": 4
+	}
 ]

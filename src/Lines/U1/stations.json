@@ -1,93 +1,93 @@
 [
-  {
-    "id": 6,
-    "cx": "784.695",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 738.2876 1106.0159)",
-    "label": "Uhlandstraße"
-  },
-  {
-    "id": 7,
-    "cx": "854.695",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 863.1948 1160.0002)",
-    "label": "Kurfürstendamm"
-  },
-  {
-    "id": 8,
-    "cx": "1012.495",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 975.0186 1106.0159)",
-    "label": "Wittenbergplatz"
-  },
-  {
-    "id": 9,
-    "cx": "1097.695",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 1074.2065 1175.3323)",
-    "label": "Nollendorfplatz"
-  },
-  {
-    "id": 10,
-    "cx": "1189.695",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 1154.4702 1106.0159)",
-    "label": "Kurfürstenstraße"
-  },
-  {
-    "id": 11,
-    "cx": "1264.695",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 1269 1163.0159)",
-    "label": " Gleisdreieck"
-  },
-  {
-    "id": 12,
-    "cx": "1424.542",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 1396.042 1180.6663)",
-    "label": "Möckernbrücke"
-  },
-  {
-    "id": 13,
-    "cx": "1536.498",
-    "cy": "1143.864",
-    "transform": "matrix(1 0 0 1 1547.5 1160.0002)",
-    "label": "Hallesches Tor"
-  },
-  {
-    "id": 14,
-    "cx": "1648.301",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 1605.2412 1122.0002)",
-    "label": "Prinzenstraße"
-  },
-  {
-    "id": 15,
-    "cx": "1775.104",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 1720.1963 1122.0002)",
-    "label": "Kottbusser Tor"
-  },
-  {
-    "id": 16,
-    "cx": "1825.104",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 1797.1963 1175.3323)",
-    "label": "Görlitzer Bahnhof"
-  },
-  {
-    "id": 17,
-    "cx": "1918.928",
-    "cy": "1143.516",
-    "transform": "matrix(1 0 0 1 1913.624 1175.3323)",
-    "label": "Schlesisches Tor"
-  },
-  {
-    "id": 18,
-    "cx": "1991.5065",
-    "cy": "1080.7995",
-    "transform": "matrix(1 0 0 1 1989.6387 1051.9006)",
-    "label": "Warschauer Straße"
-  }
+	{
+		"id": "1",
+		"cx": "784.695",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 738.2876 1106.0159)",
+		"label": "Uhlandstraße"
+	},
+	{
+		"id": "2",
+		"cx": "854.695",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 863.1948 1160.0002)",
+		"label": "Kurfürstendamm"
+	},
+	{
+		"id": "3",
+		"cx": "1012.495",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 975.0186 1106.0159)",
+		"label": "Wittenbergplatz"
+	},
+	{
+		"id": "4",
+		"cx": "1097.695",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 1074.2065 1175.3323)",
+		"label": "Nollendorfplatz"
+	},
+	{
+		"id": "5",
+		"cx": "1189.695",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 1154.4702 1106.0159)",
+		"label": "Kurfürstenstraße"
+	},
+	{
+		"id": "6",
+		"cx": "1264.695",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 1269 1163.0159)",
+		"label": " Gleisdreieck"
+	},
+	{
+		"id": "7",
+		"cx": "1424.542",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 1396.042 1180.6663)",
+		"label": "Möckernbrücke"
+	},
+	{
+		"id": "8",
+		"cx": "1536.498",
+		"cy": "1143.864",
+		"transform": "matrix(1 0 0 1 1547.5 1160.0002)",
+		"label": "Hallesches Tor"
+	},
+	{
+		"id": "9",
+		"cx": "1648.301",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 1605.2412 1122.0002)",
+		"label": "Prinzenstraße"
+	},
+	{
+		"id": "10",
+		"cx": "1775.104",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 1720.1963 1122.0002)",
+		"label": "Kottbusser Tor"
+	},
+	{
+		"id": "11",
+		"cx": "1825.104",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 1797.1963 1175.3323)",
+		"label": "Görlitzer Bahnhof"
+	},
+	{
+		"id": "12",
+		"cx": "1918.928",
+		"cy": "1143.516",
+		"transform": "matrix(1 0 0 1 1913.624 1175.3323)",
+		"label": "Schlesisches Tor"
+	},
+	{
+		"id": "13",
+		"cx": "1991.5065",
+		"cy": "1080.7995",
+		"transform": "matrix(1 0 0 1 1989.6387 1051.9006)",
+		"label": "Warschauer Straße"
+	}
 ]
