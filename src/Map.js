@@ -10,10 +10,10 @@ export default function Map() {
       xmlns='http://www.w3.org/2000/svg'
       x='0px'
       y='0px'
-      width='2900px'
-      height='1900px'
+      width='1368px'
+      height='769px'
       viewBox='0 0 2900 1900'
-      enableBackground='new 0 0 2900 1900'
+      enableBackground='new 0 0 1368 769'
     >
       <Lines />
       <Legend />
