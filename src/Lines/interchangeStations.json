@@ -1,0 +1,101 @@
+[
+  {
+    "label": "Bismarkstraße",
+    "lines": [2, 7],
+    "stations": [20, 133]
+  },
+  {
+    "label": "Fehrbellinerplatz",
+    "lines": [3, 7],
+    "stations": [52, 133]
+  },
+  { "label": "Spichernstraße", "lines": [3, 9], "stations": [54, 191] },
+  {
+    "label": "Berlinerstraße",
+    "lines": [7, 9],
+    "stations": [139, 189]
+  },
+  {
+    "label": "Bayerischer Platz",
+    "lines": [4, 7],
+    "stations": [69, 140]
+  },
+  {
+    "label": "Möckernbrücke",
+    "lines": [1, 3, 7],
+    "stations": [7, 60, 144]
+  },
+  {
+    "label": "Mehringdamm",
+    "lines": [6, 7],
+    "stations": [100, 145]
+  },
+  {
+    "label": "Hermannplatz",
+    "lines": [7, 8],
+    "stations": [148, 183]
+  },
+  {
+    "label": "Hallesches Tor",
+    "lines": [1, 3, 6],
+    "stations": [8, 61, 101]
+  },
+  {
+    "label": "Kottbusser tor",
+    "lines": [1, 3, 8],
+    "stations": [10, 63, 179]
+  },
+  { "label": "Görlitzer Bahnhof", "lines": [1, 3], "stations": [11, 64] },
+  { "label": "Schlesisches Tor", "lines": [1, 3], "stations": [12, 65] },
+  { "label": "Warschauer Straße", "lines": [1, 3], "stations": [13, 66] },
+  {
+    "label": "Zoologischer Garten",
+    "lines": [2, 9],
+    "stations": [23, 193]
+  },
+  {
+    "label": "Wittenberg",
+    "lines": [1, 2, 3],
+    "stations": [3, 24, 56]
+  },
+  {
+    "label": "Nollendorf",
+    "lines": [1, 2, 3, 4],
+    "stations": [4, 25, 57, 67]
+  },
+  {
+    "label": "Kurfurstenstraße",
+    "lines": [1, 3],
+    "stations": [5, 58]
+  },
+  {
+    "label": "Kurfurstendamm",
+    "lines": [1, 9],
+    "stations": [2, 192]
+  },
+  {
+    "label": "Gleisdreieck",
+    "lines": [1, 2, 3],
+    "stations": [6, 27, 59]
+  },
+  {
+    "label": "Stadtmitte",
+    "lines": [2, 6],
+    "stations": [31, 103]
+  },
+  {
+    "label": "Alexanderplatz",
+    "lines": [2, 5, 8],
+    "stations": [36, 72, 175]
+  },
+  {
+    "label": "Leopoldplatz",
+    "lines": [6, 9],
+    "stations": [111, 199]
+  },
+  {
+    "label": "Osloer Straße",
+    "lines": [8, 9],
+    "stations": [168, 201]
+  }
+]

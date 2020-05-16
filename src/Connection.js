@@ -1,7 +1,6 @@
 import React from 'react';
-import { connect } from 'react-redux';
 
-export function Connection({
+export default function Connection({
   x1,
   y1,
   x2,
@@ -11,16 +10,6 @@ export function Connection({
   route,
   stroke,
 }) {
-  const setOpacity = (route, stationA, stationB) => {
-    if (route.length === 0) {
-      return 1;
-    }
-    if (route.indexOf(stationA) !== -1 && route.indexOf(stationB) !== -1) {
-      return 1;
-    }
-    return 0.3;
-  };
-
   return (
     <>
       <line
@@ -38,12 +27,12 @@ export function Connection({
   );
 }
 
-const mapStateToProps = (state) => {
-  return {
-    route: state.route.route,
-  };
+const setOpacity = (route, stationA, stationB) => {
+  if (route !== undefined && route.length === 0) {
+    return 1;
+  } else if (route.indexOf(stationA) !== -1 && route.indexOf(stationB) !== -1) {
+    return 1;
+  } else {
+    return 0.3;
+  }
 };
-
-const ConnectedConnection = connect(mapStateToProps)(Connection);
-
-export default ConnectedConnection;

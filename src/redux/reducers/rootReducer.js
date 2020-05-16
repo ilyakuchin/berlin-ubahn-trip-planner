@@ -1,7 +1,7 @@
 import { combineReducers } from 'redux';
 
-import route from './route';
+import metroMap from './metroMap';
 
-const rootReducer = combineReducers({ route });
+const rootReducer = combineReducers({ metroMap });
 
 export default rootReducer;

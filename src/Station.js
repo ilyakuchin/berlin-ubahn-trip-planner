@@ -1,6 +1,6 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import { setStartStation, setDestinationStation } from './redux/actions/route';
+import { selectStation } from './redux/actions/metroMap';
 
 export function Station({
   cx,
@@ -10,13 +10,14 @@ export function Station({
   transform,
   startStation,
   destinationStation,
-  setStartStation,
-  setDestinationStation,
+  connectedSelectStation,
 }) {
   return (
     <>
       <circle
-        onClick={() => logStationId(id)}
+        onClick={() => {
+          connectedSelectStation(id);
+        }}
         fill={getStationColor(id, startStation, destinationStation)}
         stroke='#000000'
         strokeWidth='2'
@@ -40,22 +41,16 @@ const getStationColor = (id, startStation, destinationStation) =>
 const isStationFocused = (id, startStation, destinationStation) =>
   startStation === id || destinationStation === id;
 
-const logStationId = (id) => {
-  console.log(id);
-};
-
 const mapStateToProps = (state) => {
   return {
-    startStation: state.route.startStation,
-    destinationStation: state.route.destinationStation,
+    startStation: state.metroMap.startStation,
+    destinationStation: state.metroMap.destinationStation,
   };
 };
 
-const dispatchToProps = (dipatch) => {
+const dispatchToProps = (dispatch) => {
   return {
-    setStartStation: (stationName) => dipatch(setStartStation(stationName)),
-    setDestinationStation: (stationName) =>
-      dipatch(setDestinationStation(stationName)),
+    connectedSelectStation: (id) => dispatch(selectStation(id)),
   };
 };
 
