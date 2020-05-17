@@ -1,0 +1,18 @@
+language: node_js
+node_js:
+  - stable
+cache:
+  directories:
+    - node_modules
+script:
+  - yarn test
+  - yarn build
+branches:
+  only:
+    - master
+deploy:
+  provider: heroku
+  api_key:
+    secure: mP2TKwsFwjKtA3UFcFvjUuldd0BDc9rSd8ygmoUW9uNu7CeTkf4QiN4q7Wgy6IGid+DiTL3fc6A5yFFDL14CSr5QFvpfhRft2Mn3FAWfX3HeOYm3d5NBBCKd5PDLsIsuTxT86yLrmdDMyxnEbzJgrkgJXIck5g1kfSRvCsH+rB4Q9fc9Gc6IHVAfbd8RCVK5glnBvXexcE2mRyYrqdqE1dwZw0a8dfhv0wPqd/yxzBF6+qnyxZLnW6/oJ4X65n49mPEPOh2iefJQ3vOB4QQYEB2jPcgziSvBrdQl7X6gbW62U6sYKik5QZNmRjxn1wQjPAjrKU7woV7rTkg9Lh6mQ1in5ksRwukSEi9XkFtzDdUJPCewyaN+9iJaud4Xy7tgil7vpxtVqHx115XJHbhXRezT+xF+aIz+G5JBFjyk/fh1BDqfeoBRnmknEQp+msfTJRzZrTfmBh9MNWCXCJIx1uTBUdbm7n/5MOrcK6wBoH+ntDRistUcrzNijSYjoiqiVPDRNMl87jiRgnRnm7vVpuwFXu0mukzIfNg782U8yjyuB82cN+2U8R61mEqXqjp0aXl+DxvZB0zjAKJXnhXeMYQ5aDFYYQsT9S82fz3imEZqzlKi2/OVuPzsmr7ySTwwYdV86mpd/+MyS8mfpGSKw9MTgca9JK7YpcFC37d/QK0=
+  app:
+    master: berlin-ubahn-trip-planner
