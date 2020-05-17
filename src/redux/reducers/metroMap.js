@@ -79,7 +79,12 @@ export default function metroMap(
           route: dijkstra(state.startStation, action.id, state.graph),
         };
       } else {
-        return { ...state, startStation: action.id, destinationStation: '' };
+        return {
+          ...state,
+          startStation: action.id,
+          destinationStation: '',
+          route: [],
+        };
       }
     default:
       return state;
