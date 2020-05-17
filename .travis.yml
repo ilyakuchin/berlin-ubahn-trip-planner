@@ -1,18 +1,18 @@
 language: node_js
 node_js:
-  - stable
+- stable
 cache:
   directories:
-    - node_modules
+  - node_modules
 script:
-  - yarn test
-  - yarn build
+- yarn test
+- yarn build
 branches:
   only:
-    - master
+  - master
 deploy:
   provider: heroku
   api_key:
-    secure: mP2TKwsFwjKtA3UFcFvjUuldd0BDc9rSd8ygmoUW9uNu7CeTkf4QiN4q7Wgy6IGid+DiTL3fc6A5yFFDL14CSr5QFvpfhRft2Mn3FAWfX3HeOYm3d5NBBCKd5PDLsIsuTxT86yLrmdDMyxnEbzJgrkgJXIck5g1kfSRvCsH+rB4Q9fc9Gc6IHVAfbd8RCVK5glnBvXexcE2mRyYrqdqE1dwZw0a8dfhv0wPqd/yxzBF6+qnyxZLnW6/oJ4X65n49mPEPOh2iefJQ3vOB4QQYEB2jPcgziSvBrdQl7X6gbW62U6sYKik5QZNmRjxn1wQjPAjrKU7woV7rTkg9Lh6mQ1in5ksRwukSEi9XkFtzDdUJPCewyaN+9iJaud4Xy7tgil7vpxtVqHx115XJHbhXRezT+xF+aIz+G5JBFjyk/fh1BDqfeoBRnmknEQp+msfTJRzZrTfmBh9MNWCXCJIx1uTBUdbm7n/5MOrcK6wBoH+ntDRistUcrzNijSYjoiqiVPDRNMl87jiRgnRnm7vVpuwFXu0mukzIfNg782U8yjyuB82cN+2U8R61mEqXqjp0aXl+DxvZB0zjAKJXnhXeMYQ5aDFYYQsT9S82fz3imEZqzlKi2/OVuPzsmr7ySTwwYdV86mpd/+MyS8mfpGSKw9MTgca9JK7YpcFC37d/QK0=
+    secure: NCFlYlbldCKg+4Qvx82Gl3C49TwV104ShOx6OIZb1Mrg8GLLAXyAarbsSvxrDOJjZppFa+kbuyS1Mu9AQMZ5Bj/1gqGKhCpAvrUEMG6KZz4evOJRLB5u5fJpum0CbjvizZdjkozuW1j8WfhEFcRI/QrBGxyxjKzddauMQx34Hz/wanoPDjUNECICGF+P5woZUflKfePlK61pLncQZY3vyuELGBNIL/F5KFlAl6quZz00pKexYK1yNLJ2IJnW1Y7O8oVCFAufm7rZN2/QdiNjyaWElieMimVw+hKiWzBqTZvpPwp/MQhqFtn2bIPVAqBbyC80YjreokLFCnDm5eSoJNCluQWhEkepTH/0OMhEW1jWPmnmnijJelQuNhf8hAjLOfYmsgTemHjH1A2Bx1jbXTDYzkEGNSYWiPkkYjpyZZpNzzOt380eVm440P4NZgOoSgRbRnuZZq/rNxcRHT9F2hHhDm73WlrhFg8zTHNCwRC67JUO6DzYpvRmfsMKTdMoopYNkcJiAhWRJxpZXl6oHNNtcS9pfGriz2bZ00Tu/yJ9Qd4av1UxgjnD7dydjzj3S2x7UndiJQPDIzV28i9ktz7Obz61/3Or19Sggvypd8UUt5x6/P5aub61FGPZSg738xFWR4FxSyCIeR4cJ8HmavPSPLmVdaiFF5QG48pw7nQ=
   app:
     master: berlin-ubahn-trip-planner
