@@ -8859,6 +8859,14 @@ react-scripts@3.4.1:
   optionalDependencies:
     fsevents "2.1.2"
 
+react-svg-pan-zoom@^3.8.0:
+  version "3.8.0"
+  resolved "https://registry.yarnpkg.com/react-svg-pan-zoom/-/react-svg-pan-zoom-3.8.0.tgz#5724c71d257a07233c9cc511a5c6498d80bb397a"
+  integrity sha512-s92QDFJuRrp784aQZKX8qxukMY/85IpOXO5Bjbn1G/CoNapdHCRVAHynPP6Ea9cyMmycSmu6paPqUIAW3i5s9Q==
+  dependencies:
+    prop-types "^15.7.2"
+    transformation-matrix "^2.2.0"
+
 react@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
@@ -10121,6 +10129,11 @@ supports-color@^7.0.0, supports-color@^7.1.0:
   dependencies:
     has-flag "^4.0.0"
 
+svg-pan-zoom@^3.6.1:
+  version "3.6.1"
+  resolved "https://registry.yarnpkg.com/svg-pan-zoom/-/svg-pan-zoom-3.6.1.tgz#f880a1bb32d18e9c625d7715350bebc269b450cf"
+  integrity sha512-JaKkGHHfGvRrcMPdJWkssLBeWqM+Isg/a09H7kgNNajT1cX5AztDTNs+C8UzpCxjCTRrG34WbquwaovZbmSk9g==
+
 svg-parser@^2.0.0:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/svg-parser/-/svg-parser-2.0.4.tgz#fdc2e29e13951736140b76cb122c8ee6630eb6b5"
@@ -10339,6 +10352,11 @@ tr46@^1.0.1:
   integrity sha1-qLE/1r/SSJUZZ0zN5VujaTtwbQk=
   dependencies:
     punycode "^2.1.0"
+
+transformation-matrix@^2.2.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/transformation-matrix/-/transformation-matrix-2.3.0.tgz#568a0be8698c204efbfc799516b8714a6e4708de"
+  integrity sha512-iXgfTkswsqHyG3SzL04mfniI4z6/XUDBiWmMv/+YSDFIjoF4Ugy3AwkoL8ed+cCak1uLfb70wQbIkATNS6fgPA==
 
 ts-pnp@1.1.6:
   version "1.1.6"
