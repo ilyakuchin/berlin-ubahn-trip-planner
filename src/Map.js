@@ -5,13 +5,15 @@ import Legend from './Legend';
 import Lines from './Lines';
 
 export default function Map() {
+  const [value, setValue] = useState({
+    INITIAL_VALUE,
+  });
   const [tool, setTool] = useState(TOOL_AUTO);
-  const [value, setValue] = useState(INITIAL_VALUE);
 
   let Viewer = null;
 
   useEffect(() => {
-    Viewer.fitToViewer();
+    Viewer.fitSelection(600, 500, 750, 750);
   }, [Viewer]);
 
   const svg = (
@@ -35,12 +37,13 @@ export default function Map() {
         height={window.innerHeight}
         ref={(newViewer) => (Viewer = newViewer)}
         tool={tool}
-        onChangeTool={(nextTool) => setTool(nextTool)}
         value={value}
         onChangeValue={(nextValue) => setValue(nextValue)}
         miniatureProps={{ position: 'none' }}
         detectPinchGesture
         scaleFactorOnWheel={1.02}
+        detectAutoPan={false}
+        onChangeTool={(nextTool) => setTool(nextTool)}
         disableDoubleClickZoomWithToolAuto
         toolbarProps={{ position: 'none' }}
       >

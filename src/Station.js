@@ -18,6 +18,9 @@ export function Station({
         onClick={() => {
           connectedSelectStation(id);
         }}
+        onTouchStart={() => {
+          connectedSelectStation(id);
+        }}
         fill={getStationColor(id, startStation, destinationStation)}
         stroke='#000000'
         strokeWidth='2'
