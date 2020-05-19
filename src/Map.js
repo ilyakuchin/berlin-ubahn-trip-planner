@@ -1,26 +1,14 @@
 import React, { useEffect, useState } from 'react';
-import { INITIAL_VALUE, ReactSVGPanZoom, TOOL_NONE } from 'react-svg-pan-zoom';
+import { INITIAL_VALUE, ReactSVGPanZoom, TOOL_AUTO } from 'react-svg-pan-zoom';
 
 import Legend from './Legend';
 import Lines from './Lines';
 
 export default function Map() {
-  const [tool, setTool] = useState(TOOL_NONE);
+  const [tool, setTool] = useState(TOOL_AUTO);
   const [value, setValue] = useState(INITIAL_VALUE);
 
   let Viewer = null;
-
-  const fitToViewer = () => {
-    Viewer.fitToViewer();
-  };
-
-  const fitSelection = () => {
-    Viewer.fitSelection(40, 40, 200, 200);
-  };
-
-  const zoomOnViewerCenter = () => {
-    Viewer.zoomOnViewerCenter(1.1);
-  };
 
   useEffect(() => {
     Viewer.fitToViewer();
@@ -41,16 +29,8 @@ export default function Map() {
 
   return (
     <div>
-      <button className='btn' onClick={() => zoomOnViewerCenter()}>
-        Zoom in
-      </button>
-      <button className='btn' onClick={() => fitSelection()}>
-        Zoom area 200x200
-      </button>
-      <button className='btn' onClick={() => fitToViewer()}>
-        Fit
-      </button>
       <ReactSVGPanZoom
+        background='#FFFFFF'
         width={window.innerWidth}
         height={window.innerHeight}
         ref={(newViewer) => (Viewer = newViewer)}
@@ -58,6 +38,11 @@ export default function Map() {
         onChangeTool={(nextTool) => setTool(nextTool)}
         value={value}
         onChangeValue={(nextValue) => setValue(nextValue)}
+        miniatureProps={{ position: 'none' }}
+        detectPinchGesture
+        scaleFactorOnWheel={1.02}
+        disableDoubleClickZoomWithToolAuto
+        toolbarProps={{ position: 'none' }}
       >
         {svg}
       </ReactSVGPanZoom>
