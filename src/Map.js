@@ -41,7 +41,6 @@ export default function Map() {
         onChangeValue={(nextValue) => setValue(nextValue)}
         miniatureProps={{ position: 'none' }}
         detectPinchGesture
-        scaleFactorOnWheel={1.02}
         detectAutoPan={false}
         onChangeTool={(nextTool) => setTool(nextTool)}
         scaleFactorMax={2}
