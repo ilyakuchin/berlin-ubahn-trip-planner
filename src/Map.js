@@ -44,6 +44,8 @@ export default function Map() {
         scaleFactorOnWheel={1.02}
         detectAutoPan={false}
         onChangeTool={(nextTool) => setTool(nextTool)}
+        scaleFactorMax={2}
+        scaleFactorMin={0.4}
         disableDoubleClickZoomWithToolAuto
         toolbarProps={{ position: 'none' }}
       >
