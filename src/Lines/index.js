@@ -2,6 +2,7 @@ import React from 'react';
 import Station from '../Station';
 import Connection from '../Connection';
 import { connect } from 'react-redux';
+import Label from '../Label';
 
 export function Lines({ connections, stations, route }) {
   const drawnConnections = [...connections].map((connection) => (
@@ -19,14 +20,19 @@ export function Lines({ connections, stations, route }) {
   ));
 
   const drawnStations = [...stations].map((station) => (
-    <Station
-      key={station.id}
-      id={station.id}
-      cx={station.cx}
-      cy={station.cy}
-      label={station.label}
-      transform={station.transform}
-    />
+    <>
+      <Station
+        key={station.id}
+        id={station.id}
+        cx={station.cx}
+        cy={station.cy}
+      />
+      <Label
+        key={station.id}
+        label={station.label}
+        transform={station.transform}
+      />
+    </>
   ));
 
   return (

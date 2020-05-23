@@ -6,8 +6,6 @@ export function Station({
   cx,
   cy,
   id,
-  label,
-  transform,
   startStation,
   destinationStation,
   connectedSelectStation,
@@ -29,9 +27,6 @@ export function Station({
         cy={cy}
         r='8.5'
       />
-      <text transform={transform} fontFamily="'TrebuchetMS'" fontSize='14'>
-        {label}
-      </text>
     </>
   );
 }
