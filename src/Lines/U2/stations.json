@@ -1,177 +1,176 @@
 [
-	{
-		"id": "14",
-		"cx": "324.9335",
-		"cy": "859.1725",
-		"name": "Ruhleben"
-	},
-	{
-		"id": "15",
-		"cx": "360.289",
-		"cy": "894.528",
-		"name": "Olympia-stadion"
-	},
-	{
-		"id": "16",
-		"cx": "395.645",
-		"cy": "929.884",
-		"name": "Neu-Westend"
-	},
-	{
-		"id": "17",
-		"cx": "445.918",
-		"cy": "965.239",
-		"name": "Theodor-Heuss-Platz"
-	},
-	{
-		"id": "18",
-		"cx": "536.533",
-		"cy": "965.239",
-		"name": "Kaiserdamm"
-	},
-	{
-		"id": "19",
-		"cx": "617.105",
-		"cy": "965.239",
-		"name": "Sophie-Charlotte-Platz"
-	},
-	{
-		"id": "20",
-		"cx": "691.474",
-		"cy": "965.239",
-		"name": " Bismarckstraße"
-	},
-	{
-		"id": "21",
-		"cx": "750.918",
-		"cy": "965.239",
-		"name": "Deutsche Oper"
-	},
-	{
-		"id": "22",
-		"cx": "808.61",
-		"cy": "990.431",
-		"name": "Ernst-Reuter-Platz"
-	},
-	{
-		"id": "23",
-		"cx": "875.5",
-		"cy": "1058.5002",
-		"name": "Zoologischer Garten"
-	},
-	{
-		"id": "24",
-		"cx": "1012.495",
-		"cy": "1169.516",
-		"name": "Wittenbergplatz"
-	},
-	{
-		"id": "25",
-		"cx": "1097.695",
-		"cy": "1169.516",
-		"name": "Nollendorfplatz"
-	},
-	{
-		"id": "26",
-		"cx": "1190",
-		"cy": "1169.516",
-		"name": "Bülowstraße"
-	},
-	{
-		"id": "27",
-		"cx": "1264.695",
-		"cy": "1143.516",
-		"name": " Gleisdreieck"
-	},
-	{
-		"id": "28",
-		"cx": "1308.72",
-		"cy": "1033.5",
-		"name": "Mendelssohn-Bartholdy-Park"
-	},
-	{
-		"id": "29",
-		"cx": "1348.721",
-		"cy": "1017.5",
-		"name": "Potsdamer Platz"
-	},
-	{
-		"id": "30",
-		"cx": "1443.721",
-		"cy": "1018.5",
-		"name": "Mohrenstraße"
-	},
-	{
-		"id": "31",
-		"cx": "1536.498",
-		"cy": "1018.5",
-		"name": "Stadtmitte"
-	},
-	{
-		"id": "32",
-		"cx": "1591.498",
-		"cy": "1018.5",
-		"name": "Hausvogteiplatz"
-	},
-	{
-		"id": "33",
-		"cx": "1651.498",
-		"cy": "1018.5",
-		"name": "Spittelmarkt"
-	},
-	{
-		"id": "34",
-		"cx": "1678.075",
-		"cy": "1009.146",
-		"name": "Märkisches Museum"
-	},
-	{
-		"id": "35",
-		"cx": "1720.502",
-		"cy": "966.719",
-		"name": "Klosterstraße"
-	},
-	{
-		"id": "36",
-		"cx": "1728.824",
-		"cy": "818.5",
-		"name": "Alexanderplatz"
-	},
-	{
-		"id": "37",
-		"cx": "1728.824",
-		"cy": "723.5",
-		"name": "Rosa-Luxemburg-Platz"
-	},
-	{
-		"id": "38",
-		"cx": "1728.824",
-		"cy": "668.5",
-		"name": "Senefeldplatz"
-	},
-	{
-		"id": "39",
-		"cx": "1728.824",
-		"cy": "613.5",
-		"name": "Eberswalder Straße"
-	},
-	{
-		"id": "40",
-		"cx": "1728.824",
-		"cy": "559",
-		"name": "Schönhauser Allee"
-	},
-	{
-		"id": "41",
-		"cx": "1728.824",
-		"cy": "433.5",
-		"name": "Vinetastraße"
-	},
-	{
-		"id": "42",
-		"cx": "1728.824",
-		"cy": "278.344",
-		"name": "Pankow"
-	}
+  {
+    "id": "14",
+    "cx": "324.9335",
+    "cy": "859.1725",
+    "name": "Ruhleben"
+  },
+  {
+    "id": "15",
+    "cx": "360.289",
+    "cy": "894.528",
+    "name": "Olympia-stadion"
+  },
+  {
+    "id": "16",
+    "cx": "395.645",
+    "cy": "929.884",
+    "name": "Neu-Westend"
+  },
+  {
+    "id": "17",
+    "cx": "445.918",
+    "cy": "965.239",
+    "name": "Theodor-Heuss-Platz"
+  },
+  {
+    "id": "18",
+    "cx": "536.533",
+    "cy": "965.239",
+    "name": "Kaiserdamm"
+  },
+  {
+    "id": "19",
+    "cx": "617.105",
+    "cy": "965.239",
+    "name": "Sophie-Charlotte-Platz"
+  },
+  {
+    "id": "20",
+    "cx": "691.474",
+    "cy": "965.239",
+    "name": "Bismarckstraße"
+  },
+  {
+    "id": "21",
+    "cx": "750.918",
+    "cy": "965.239",
+    "name": "Deutsche Oper"
+  },
+  {
+    "id": "22",
+    "cx": "808.61",
+    "cy": "990.431",
+    "name": "Ernst-Reuter-Platz"
+  },
+  {
+    "id": "23",
+    "cx": "875.5",
+    "cy": "1058.5002",
+    "name": "Zoologischer Garten"
+  },
+  {
+    "id": "24",
+    "cx": "1012.495",
+    "cy": "1169.516",
+    "name": "Wittenbergplatz"
+  },
+  {
+    "id": "25",
+    "cx": "1097.695",
+    "cy": "1169.516",
+    "name": "Nollendorfplatz"
+  },
+  {
+    "id": "26",
+    "cx": "1190",
+    "cy": "1169.516",
+    "name": "Bülowstraße"
+  },
+  {
+    "id": "27",
+    "cx": "1264.695",
+    "cy": "1143.516",
+    "name": "Gleisdreieck"
+  },
+  {
+    "id": "28",
+    "cx": "1308.72",
+    "cy": "1033.5",
+    "name": "Mendelssohn-Bartholdy-Park"
+  },
+  {
+    "id": "29",
+    "cx": "1348.721",
+    "cy": "1017.5",
+    "name": "Potsdamer Platz"
+  },
+  {
+    "id": "30",
+    "cx": "1443.721",
+    "cy": "1018.5",
+    "name": "Mohrenstraße"
+  },
+  {
+    "id": "31",
+    "cx": "1536.498",
+    "cy": "1018.5",
+    "name": "Stadtmitte"
+  },
+  {
+    "id": "32",
+    "cx": "1591.498",
+    "cy": "1018.5",
+    "name": "Hausvogteiplatz"
+  },
+  {
+    "id": "33",
+    "cx": "1651.498",
+    "cy": "1018.5",
+    "name": "Spittelmarkt"
+  },
+  {
+    "id": "34",
+    "cx": "1678.075",
+    "cy": "1009.146",
+    "name": "Märkisches Museum"
+  },
+  {
+    "id": "35",
+    "cx": "1720.502",
+    "cy": "966.719",
+    "name": "Klosterstraße"
+  },
+  {
+    "id": "36",
+    "cx": "1728.824",
+    "cy": "818.5",
+    "name": "Alexanderplatz"
+  },
+  {
+    "id": "37",
+    "cx": "1728.824",
+    "cy": "723.5",
+    "name": "Rosa-Luxemburg-Platz"
+  },
+  {
+    "id": "38",
+    "cx": "1728.824",
+    "cy": "668.5",
+    "name": "Senefeldplatz"
+  },
+  {
+    "id": "39",
+    "cx": "1728.824",
+    "cy": "613.5",
+    "name": "Eberswalder Straße"
+  },
+  {
+    "id": "40",
+    "cx": "1728.824",
+    "cy": "559",
+    "name": "Schönhauser Allee"
+  },
+  {
+    "id": "41",
+    "cx": "1728.824",
+    "cy": "433.5",
+    "name": "Vinetastraße"
+  },
+  {
+    "id": "42",
+    "cx": "1728.824",
+    "cy": "278.344",
+    "name": "Pankow"
+  }
 ]
-

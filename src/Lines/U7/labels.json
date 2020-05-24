@@ -1,156 +1,144 @@
 [
-	{
-		"transform": "matrix(1 0 0 1 79.2715 645.9475)",
-		"label": "Rathaus Spandau"
-	},
-	{
-		"transform": "matrix(0.7071 -0.7071 0.7071 0.7071 223.4346 563.5637)",
-		"label": "Altstadt Spandau"
-	},
-	{
-		"transform": "matrix(0.7071 -0.7071 0.7071 0.7071 273.4346 563.5637)",
-		"label": "Zitadelle"
-	},
-	{
-		"transform": "matrix(0.7071 -0.7071 0.7071 0.7071 324.9814 563.5637)",
-		"label": "Haselhorst"
-	},
-	{
-		"transform": "matrix(0.7071 -0.7071 0.7071 0.7071 373.4355 563.5637)",
-		"label": "Paulsternstraße"
-	},
-	{
-		"transform": "matrix(0.7071 -0.7071 0.7071 0.7071 423.4365 559.0022)",
-		"label": "Rohrdamm"
-	},
-	{
-		"transform": "matrix(0.7071 -0.7071 0.7071 0.7071 473.4355 559.0022)",
-		"label": "Siemensdamm"
-	},
-	{
-		"transform": "matrix(0.7071 -0.7071 0.7071 0.7071 523.4355 559.0022)",
-		"label": "Halemweg"
-	},
-	{
-		"transform": "matrix(0.7071 -0.7071 0.7071 0.7071 573.4365 559.0022)",
-		"label": "Jakob-Kaiser-Platz"
-	},
-	{
-		"transform": "matrix(1 0 0 1 643 618.7229)",
-		"label": "Jungfernheide"
-	},
-	{
-		"transform": "matrix(1 0 0 1 713.0186 758.4661)",
-		"label": "Mierendorffplatz"
-	},
-	{
-		"transform": "matrix(1 0 0 1 713.0186 869.7795)",
-		"label": "Richard-Wagner-Platz"
-	},
-	{
-		"transform": "matrix(1 0 0 1 702.5 985.1272)",
-		"label": "Bismarkstraße"
-	},
-	{
-		"transform": "matrix(1 0 0 1 618.085 1047.0002)",
-		"label": "Wilmerdorfer Straße"
-	},
-	{
-		"transform": "matrix(1 0 0 1 603.4082 1178.0159)",
-		"label": "Adenauerplatz"
-	},
-	{
-		"transform": "matrix(1 0 0 1 622.3076 1290.2971)",
-		"label": "Konstanzer Straße"
-	},
-	{
-		"transform": "matrix(1 0 0 1 638.7266 1342.0002)",
-		"label": "Fehrbelliner Platz"
-	},
-	{
-		"transform": "matrix(1 0 0 1 793.9229 1373.0002)",
-		"label": "Blissestraße"
-	},
-	{
-		"transform": "matrix(1 0 0 1 863.1948 1332.0159)",
-		"label": "Berliner Straße"
-	},
-	{
-		"transform": "matrix(1 0 0 1 956.6177 1360.0002)",
-		"label": "Bayerischer Platz"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1072.4663 1373.0002)",
-		"label": "Eisenacher Straße"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1160.6538 1314.7737)",
-		"label": "Kleistpark"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1246.9775 1227.0002)",
-		"label": "Yorckstraße"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1396.042 1180.6663)",
-		"label": "Möckernbrücke"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1562 1222.0002)",
-		"label": "Mehringdamm"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1566.999 1230.5002)",
-		"label": "Gneisenaustraße"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1666.9365 1287.5881)",
-		"label": "Südstern"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1786.667 1242.6663)",
-		"label": "Hermannplatz"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1906 1286.1331)",
-		"label": "Rathaus Neukölln"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1936 1350.0002)",
-		"label": "Karl-Marx-Straße"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1938.5693 1454.5159)",
-		"label": "Neukölln"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1936 1498.0022)",
-		"label": "Grenzallee"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1940 1549.0002)",
-		"label": "Blaschkoallee"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1940 1603.0315)",
-		"label": "Parachimer Allee"
-	},
-	{ "transform": "matrix(1 0 0 1 1940 1650.0022)", "label": "Britz-Süd" },
-	{
-		"transform": "matrix(1 0 0 1 1940 1697.0002)",
-		"label": "Johannisthaler Chausee"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1961 1740.0002)",
-		"label": "Lipschitzallee"
-	},
-	{
-		"transform": "matrix(1 0 0 1 1996.7266 1779.0002)",
-		"label": "Wutzkyallee"
-	},
-	{
-		"transform": "matrix(1 0 0 1 2027.5117 1808.053)",
-		"label": "Zwickauer Damm"
-	},
-	{ "transform": "matrix(1 0 0 1 1972.4072 1864.6213)", "label": "Rudow" }
+  {
+    "transform": "matrix(1 0 0 1 79.2715 645.9475)",
+    "label": "Rathaus Spandau"
+  },
+  {
+    "transform": "matrix(0.7071 -0.7071 0.7071 0.7071 223.4346 563.5637)",
+    "label": "Altstadt Spandau"
+  },
+  {
+    "transform": "matrix(0.7071 -0.7071 0.7071 0.7071 273.4346 563.5637)",
+    "label": "Zitadelle"
+  },
+  {
+    "transform": "matrix(0.7071 -0.7071 0.7071 0.7071 324.9814 563.5637)",
+    "label": "Haselhorst"
+  },
+  {
+    "transform": "matrix(0.7071 -0.7071 0.7071 0.7071 373.4355 563.5637)",
+    "label": "Paulsternstraße"
+  },
+  {
+    "transform": "matrix(0.7071 -0.7071 0.7071 0.7071 423.4365 559.0022)",
+    "label": "Rohrdamm"
+  },
+  {
+    "transform": "matrix(0.7071 -0.7071 0.7071 0.7071 473.4355 559.0022)",
+    "label": "Siemensdamm"
+  },
+  {
+    "transform": "matrix(0.7071 -0.7071 0.7071 0.7071 523.4355 559.0022)",
+    "label": "Halemweg"
+  },
+  {
+    "transform": "matrix(0.7071 -0.7071 0.7071 0.7071 573.4365 559.0022)",
+    "label": "Jakob-Kaiser-Platz"
+  },
+  {
+    "transform": "matrix(1 0 0 1 643 618.7229)",
+    "label": "Jungfernheide"
+  },
+  {
+    "transform": "matrix(1 0 0 1 713.0186 758.4661)",
+    "label": "Mierendorffplatz"
+  },
+  {
+    "transform": "matrix(1 0 0 1 713.0186 869.7795)",
+    "label": "Richard-Wagner-Platz"
+  },
+  {
+    "transform": "matrix(1 0 0 1 702.5 985.1272)",
+    "label": "Bismarckstraße"
+  },
+  {
+    "transform": "matrix(1 0 0 1 618.085 1047.0002)",
+    "label": "Wilmerdorfer Straße"
+  },
+  {
+    "transform": "matrix(1 0 0 1 603.4082 1178.0159)",
+    "label": "Adenauerplatz"
+  },
+  {
+    "transform": "matrix(1 0 0 1 622.3076 1290.2971)",
+    "label": "Konstanzer Straße"
+  },
+  {
+    "transform": "matrix(1 0 0 1 638.7266 1342.0002)",
+    "label": "Fehrbelliner Platz"
+  },
+  {
+    "transform": "matrix(1 0 0 1 793.9229 1373.0002)",
+    "label": "Blissestraße"
+  },
+  {
+    "transform": "matrix(1 0 0 1 863.1948 1332.0159)",
+    "label": "Berliner Straße"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1072.4663 1373.0002)",
+    "label": "Eisenacher Straße"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1160.6538 1314.7737)",
+    "label": "Kleistpark"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1246.9775 1227.0002)",
+    "label": "Yorckstraße"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1566.999 1230.5002)",
+    "label": "Gneisenaustraße"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1666.9365 1287.5881)",
+    "label": "Südstern"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1786.667 1242.6663)",
+    "label": "Hermannplatz"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1906 1286.1331)",
+    "label": "Rathaus Neukölln"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1936 1350.0002)",
+    "label": "Karl-Marx-Straße"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1938.5693 1454.5159)",
+    "label": "Neukölln"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1936 1498.0022)",
+    "label": "Grenzallee"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1940 1549.0002)",
+    "label": "Blaschkoallee"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1940 1603.0315)",
+    "label": "Parachimer Allee"
+  },
+  { "transform": "matrix(1 0 0 1 1940 1650.0022)", "label": "Britz-Süd" },
+  {
+    "transform": "matrix(1 0 0 1 1940 1697.0002)",
+    "label": "Johannisthaler Chausee"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1961 1740.0002)",
+    "label": "Lipschitzallee"
+  },
+  {
+    "transform": "matrix(1 0 0 1 1996.7266 1779.0002)",
+    "label": "Wutzkyallee"
+  },
+  {
+    "transform": "matrix(1 0 0 1 2027.5117 1808.053)",
+    "label": "Zwickauer Damm"
+  },
+  { "transform": "matrix(1 0 0 1 1972.4072 1864.6213)", "label": "Rudow" }
 ]

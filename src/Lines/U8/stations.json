@@ -1,141 +1,146 @@
 [
-	{
-		"id": "161",
-		"cx": "1183.896",
-		"cy": "80.655",
-		"name": "Wittenau"
-	},
-	{
-		"id": "162",
-		"cx": "1095.313",
-		"cy": "81.103",
-		"name": "Rathaus Reinickendorf"
-	},
-	{
-		"id": "163",
-		"cx": "1082.896",
-		"cy": "124.44",
-		"name": "Karl-Bonhoeffer-Nerveklinik"
-	},
-	{
-		"id": "164",
-		"cx": "1100.617",
-		"cy": "167.942",
-		"name": "Lindauer Allee"
-	},
-	{
-		"id": "165",
-		"cx": "1135.973",
-		"cy": "203.297",
-		"name": "Paracelsus-Bad"
-	},
-	{
-		"id": "166",
-		"cx": "1171.327",
-		"cy": "238.653",
-		"name": "Residenzstraße"
-	},
-	{
-		"id": "167",
-		"cx": "1206.684",
-		"cy": "274.008",
-		"name": "Franz-Neuman-Platz"
-	},
-	{
-		"id": "168",
-		"cx": "1241.5",
-		"cy": "310",
-		"name": "Osloer Straße"
-	},
-	{
-		"id": "169",
-		"cx": "1363.396",
-		"cy": "430.602",
-		"name": "Pankstraße"
-	},
-	{
-		"id": "170",
-		"cx": "1506.496",
-		"cy": "572.061",
-		"name": "Gesundbrunnen"
-	},
-	{
-		"id": "171",
-		"cx": "1546.104",
-		"cy": "611.668",
-		"name": "Voltastraße"
-	},
-	{
-		"id": "172",
-		"cx": "1585.711",
-		"cy": "651.276",
-		"name": "Bernauer Straße"
-	},
-	{
-		"id": "173",
-		"cx": "1625.318",
-		"cy": "690.883",
-		"name": "Rosenthaler Platz"
-	},
-	{
-		"id": "174",
-		"cx": "1664.926",
-		"cy": "730.49",
-		"name": "Weinmeisterstraße"
-	},
-	{
-		"id": "175",
-		"cx": "1728.824",
-		"cy": "795.5",
-		"name": "Alexanderplatz"
-	},
-	{
-		"id": "176",
-		"cx": "1775.104",
-		"cy": "882",
-		"name": "Jannowitzbrücke"
-	},
-	{
-		"id": "177",
-		"cx": "1775.104",
-		"cy": "1003.516",
-		"name": "Heinrich-Heine-Straße"
-	},
-	{
-		"id": "178",
-		"cx": "1775.104",
-		"cy": "1073.516",
-		"name": "Moritzplatz"
-	},
-	{
-		"id": "179",
-		"cx": "1775.104",
-		"cy": "1143.516",
-		"name": "Kottbusser Tor"
-	},
-	{
-		"id": "180",
-		"cx": "1775.119",
-		"cy": "1198",
-		"name": "Schönleinstraße"
-	},
-	{
-		"id": "181",
-		"cx": "1775.119",
-		"cy": "1313",
-		"name": "Boddinstraße"
-	},
-	{
-		"id": "182",
-		"cx": "1775.119",
-		"cy": "1378",
-		"name": "Leinestraße"
-	},
-	{
-		"id": "183",
-		"cx": "1775.74",
-		"cy": "1447.043",
-		"name": "Hermannstraße"
-	}
+  {
+    "id": "161",
+    "cx": "1183.896",
+    "cy": "80.655",
+    "name": "Wittenau"
+  },
+  {
+    "id": "162",
+    "cx": "1095.313",
+    "cy": "81.103",
+    "name": "Rathaus Reinickendorf"
+  },
+  {
+    "id": "163",
+    "cx": "1082.896",
+    "cy": "124.44",
+    "name": "Karl-Bonhoeffer-Nerveklinik"
+  },
+  {
+    "id": "164",
+    "cx": "1100.617",
+    "cy": "167.942",
+    "name": "Lindauer Allee"
+  },
+  {
+    "id": "165",
+    "cx": "1135.973",
+    "cy": "203.297",
+    "name": "Paracelsus-Bad"
+  },
+  {
+    "id": "166",
+    "cx": "1171.327",
+    "cy": "238.653",
+    "name": "Residenzstraße"
+  },
+  {
+    "id": "167",
+    "cx": "1206.684",
+    "cy": "274.008",
+    "name": "Franz-Neuman-Platz"
+  },
+  {
+    "id": "168",
+    "cx": "1241.5",
+    "cy": "310",
+    "name": "Osloer Straße"
+  },
+  {
+    "id": "169",
+    "cx": "1363.396",
+    "cy": "430.602",
+    "name": "Pankstraße"
+  },
+  {
+    "id": "170",
+    "cx": "1506.496",
+    "cy": "572.061",
+    "name": "Gesundbrunnen"
+  },
+  {
+    "id": "171",
+    "cx": "1546.104",
+    "cy": "611.668",
+    "name": "Voltastraße"
+  },
+  {
+    "id": "172",
+    "cx": "1585.711",
+    "cy": "651.276",
+    "name": "Bernauer Straße"
+  },
+  {
+    "id": "173",
+    "cx": "1625.318",
+    "cy": "690.883",
+    "name": "Rosenthaler Platz"
+  },
+  {
+    "id": "174",
+    "cx": "1664.926",
+    "cy": "730.49",
+    "name": "Weinmeisterstraße"
+  },
+  {
+    "id": "175",
+    "cx": "1728.824",
+    "cy": "795.5",
+    "name": "Alexanderplatz"
+  },
+  {
+    "id": "176",
+    "cx": "1775.104",
+    "cy": "882",
+    "name": "Jannowitzbrücke"
+  },
+  {
+    "id": "177",
+    "cx": "1775.104",
+    "cy": "1003.516",
+    "name": "Heinrich-Heine-Straße"
+  },
+  {
+    "id": "178",
+    "cx": "1775.104",
+    "cy": "1073.516",
+    "name": "Moritzplatz"
+  },
+  {
+    "id": "179",
+    "cx": "1775.104",
+    "cy": "1143.516",
+    "name": "Kottbusser Tor"
+  },
+  {
+    "id": "180",
+    "cx": "1775.119",
+    "cy": "1198",
+    "name": "Schönleinstraße"
+  },
+  {
+    "id": "1831",
+    "cx": "1775.104",
+    "cy": "1254.016",
+    "name": "Hermannplatz"
+  },
+  {
+    "id": "181",
+    "cx": "1775.119",
+    "cy": "1313",
+    "name": "Boddinstraße"
+  },
+  {
+    "id": "182",
+    "cx": "1775.119",
+    "cy": "1378",
+    "name": "Leinestraße"
+  },
+  {
+    "id": "183",
+    "cx": "1775.74",
+    "cy": "1447.043",
+    "name": "Hermannstraße"
+  }
 ]
-

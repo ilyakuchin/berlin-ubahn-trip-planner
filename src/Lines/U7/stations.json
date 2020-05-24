@@ -1,243 +1,242 @@
 [
-	{
-		"id": "121",
-		"cx": "208.387",
-		"cy": "640.948",
-		"name": "Rathaus Spandau"
-	},
-	{
-		"id": "122",
-		"cx": "223.387",
-		"cy": "590.948",
-		"name": "Altstadt Spandau"
-	},
-	{
-		"id": "123",
-		"cx": "273.387",
-		"cy": "590.948",
-		"name": "Zitadelle"
-	},
-	{
-		"id": "124",
-		"cx": "323.387",
-		"cy": "590.948",
-		"name": "Haselhorst"
-	},
-	{
-		"id": "125",
-		"cx": "373.387",
-		"cy": "590.948",
-		"name": "Paulsternstraße"
-	},
-	{
-		"id": "126",
-		"cx": "423.387",
-		"cy": "590.948",
-		"name": "Rohrdamm"
-	},
-	{
-		"id": "127",
-		"cx": "473.387",
-		"cy": "590.948",
-		"name": "Siemensdamm"
-	},
-	{
-		"id": "128",
-		"cx": "523.387",
-		"cy": "590.948",
-		"name": "Halemweg"
-	},
-	{
-		"id": "129",
-		"cx": "573.387",
-		"cy": "590.948",
-		"name": "Jakob-Kaiser-Platz"
-	},
-	{
-		"id": "130",
-		"cx": "622.667",
-		"cy": "625.303",
-		"name": "Jungfernheide"
-	},
-	{
-		"id": "131",
-		"cx": "692",
-		"cy": "753.5",
-		"name": "Mierendorffplatz"
-	},
-	{
-		"id": "132",
-		"cx": "692",
-		"cy": "867.644",
-		"name": "Richard-Wagner-Platz"
-	},
-	{
-		"id": "133",
-		"cx": "691.474",
-		"cy": "965.239",
-		"name": "Bismarkstraße"
-	},
-	{
-		"id": "134",
-		"cx": "691.632",
-		"cy": "1060.4",
-		"name": "Wilmerdorfer Straße"
-	},
-	{
-		"id": "135",
-		"cx": "691.474",
-		"cy": "1175.332",
-		"name": "Adenauerplatz"
-	},
-	{
-		"id": "136",
-		"cx": "713.02",
-		"cy": "1276.981",
-		"name": "Konstanzer Straße"
-	},
-	{
-		"id": "137",
-		"cx": "769",
-		"cy": "1332.188",
-		"name": "Fehrbelliner Platz"
-	},
-	{
-		"id": "138",
-		"cx": "813.914",
-		"cy": "1340.516",
-		"name": "Blissestraße"
-	},
-	{
-		"id": "139",
-		"cx": "854.695",
-		"cy": "1340.688",
-		"name": "Berliner Straße"
-	},
-	{
-		"id": "140",
-		"cx": "1037.695",
-		"cy": "1340.516",
-		"name": "Bayerischer Platz"
-	},
-	{
-		"id": "141",
-		"cx": "1106.195",
-		"cy": "1340.688",
-		"name": "Eisenacher Straße"
-	},
-	{
-		"id": "142",
-		"cx": "1190",
-		"cy": "1340.688",
-		"name": "Kleistpark"
-	},
-	{
-		"id": "143",
-		"cx": "1334.146",
-		"cy": "1235.803",
-		"name": "Yorckstraße"
-	},
-	{
-		"id": "144",
-		"cx": "1424.542",
-		"cy": "1164.516",
-		"name": "Möckernbrücke"
-	},
-	{
-		"id": "145",
-		"cx": "1537.104",
-		"cy": "1222",
-		"name": "Mehringdamm"
-	},
-	{
-		"id": "146",
-		"cx": "1619",
-		"cy": "1254.016",
-		"name": "Gneisenaustraße"
-	},
-	{
-		"id": "147",
-		"cx": "1694",
-		"cy": "1254.016",
-		"name": "Südstern"
-	},
-	{
-		"id": "148",
-		"cx": "1775.104",
-		"cy": "1254.016",
-		"name": "Hermannplatz"
-	},
-	{
-		"id": "149",
-		"cx": "1881.422",
-		"cy": "1283.575",
-		"name": "Rathaus Neukölln"
-	},
-	{
-		"id": "150",
-		"cx": "1912.104",
-		"cy": "1355.688",
-		"name": "Karl-Marx-Straße"
-	},
-	{
-		"id": "151",
-		"cx": "1912.104",
-		"cy": "1450.819",
-		"name": "Neukölln"
-	},
-	{
-		"id": "152",
-		"cx": "1912.104",
-		"cy": "1497.031",
-		"name": "Grenzallee"
-	},
-	{
-		"id": "153",
-		"cx": "1912.104",
-		"cy": "1547.031",
-		"name": "Blaschkoallee"
-	},
-	{
-		"id": "154",
-		"cx": "1912.104",
-		"cy": "1597.031",
-		"name": "Parachimer Allee"
-	},
-	{
-		"id": "155",
-		"cx": "1912.104",
-		"cy": "1647.031",
-		"name": "Britz-Süd"
-	},
-	{
-		"id": "156",
-		"cx": "1912.104",
-		"cy": "1697.031",
-		"name": "Johannisthaler Chausee"
-	},
-	{
-		"id": "157",
-		"cx": "1937.052",
-		"cy": "1747.948",
-		"name": "Lipschitzallee"
-	},
-	{
-		"id": "158",
-		"cx": "1972.407",
-		"cy": "1783.304",
-		"name": "Wutzkyallee"
-	},
-	{
-		"id": "159",
-		"cx": "2007.763",
-		"cy": "1818.656",
-		"name": "Zwickauer Damm"
-	},
-	{
-		"id": "160",
-		"cx": "2043.1185",
-		"cy": "1854.012",
-		"name": "Rudow"
-	}
+  {
+    "id": "121",
+    "cx": "208.387",
+    "cy": "640.948",
+    "name": "Rathaus Spandau"
+  },
+  {
+    "id": "122",
+    "cx": "223.387",
+    "cy": "590.948",
+    "name": "Altstadt Spandau"
+  },
+  {
+    "id": "123",
+    "cx": "273.387",
+    "cy": "590.948",
+    "name": "Zitadelle"
+  },
+  {
+    "id": "124",
+    "cx": "323.387",
+    "cy": "590.948",
+    "name": "Haselhorst"
+  },
+  {
+    "id": "125",
+    "cx": "373.387",
+    "cy": "590.948",
+    "name": "Paulsternstraße"
+  },
+  {
+    "id": "126",
+    "cx": "423.387",
+    "cy": "590.948",
+    "name": "Rohrdamm"
+  },
+  {
+    "id": "127",
+    "cx": "473.387",
+    "cy": "590.948",
+    "name": "Siemensdamm"
+  },
+  {
+    "id": "128",
+    "cx": "523.387",
+    "cy": "590.948",
+    "name": "Halemweg"
+  },
+  {
+    "id": "129",
+    "cx": "573.387",
+    "cy": "590.948",
+    "name": "Jakob-Kaiser-Platz"
+  },
+  {
+    "id": "130",
+    "cx": "622.667",
+    "cy": "625.303",
+    "name": "Jungfernheide"
+  },
+  {
+    "id": "131",
+    "cx": "692",
+    "cy": "753.5",
+    "name": "Mierendorffplatz"
+  },
+  {
+    "id": "132",
+    "cx": "692",
+    "cy": "867.644",
+    "name": "Richard-Wagner-Platz"
+  },
+  {
+    "id": "133",
+    "cx": "691.474",
+    "cy": "965.239",
+    "name": "Bismarckstraße"
+  },
+  {
+    "id": "134",
+    "cx": "691.632",
+    "cy": "1060.4",
+    "name": "Wilmerdorfer Straße"
+  },
+  {
+    "id": "135",
+    "cx": "691.474",
+    "cy": "1175.332",
+    "name": "Adenauerplatz"
+  },
+  {
+    "id": "136",
+    "cx": "713.02",
+    "cy": "1276.981",
+    "name": "Konstanzer Straße"
+  },
+  {
+    "id": "137",
+    "cx": "769",
+    "cy": "1332.188",
+    "name": "Fehrbelliner Platz"
+  },
+  {
+    "id": "138",
+    "cx": "813.914",
+    "cy": "1340.516",
+    "name": "Blissestraße"
+  },
+  {
+    "id": "139",
+    "cx": "854.695",
+    "cy": "1340.688",
+    "name": "Berliner Straße"
+  },
+  {
+    "id": "140",
+    "cx": "1037.695",
+    "cy": "1340.516",
+    "name": "Bayerischer Platz"
+  },
+  {
+    "id": "141",
+    "cx": "1106.195",
+    "cy": "1340.688",
+    "name": "Eisenacher Straße"
+  },
+  {
+    "id": "142",
+    "cx": "1190",
+    "cy": "1340.688",
+    "name": "Kleistpark"
+  },
+  {
+    "id": "143",
+    "cx": "1334.146",
+    "cy": "1235.803",
+    "name": "Yorckstraße"
+  },
+  {
+    "id": "144",
+    "cx": "1424.542",
+    "cy": "1164.516",
+    "name": "Möckernbrücke"
+  },
+  {
+    "id": "145",
+    "cx": "1537.104",
+    "cy": "1222",
+    "name": "Mehringdamm"
+  },
+  {
+    "id": "146",
+    "cx": "1619",
+    "cy": "1254.016",
+    "name": "Gneisenaustraße"
+  },
+  {
+    "id": "147",
+    "cx": "1694",
+    "cy": "1254.016",
+    "name": "Südstern"
+  },
+  {
+    "id": "148",
+    "cx": "1775.104",
+    "cy": "1254.016",
+    "name": "Hermannplatz"
+  },
+  {
+    "id": "149",
+    "cx": "1881.422",
+    "cy": "1283.575",
+    "name": "Rathaus Neukölln"
+  },
+  {
+    "id": "150",
+    "cx": "1912.104",
+    "cy": "1355.688",
+    "name": "Karl-Marx-Straße"
+  },
+  {
+    "id": "151",
+    "cx": "1912.104",
+    "cy": "1450.819",
+    "name": "Neukölln"
+  },
+  {
+    "id": "152",
+    "cx": "1912.104",
+    "cy": "1497.031",
+    "name": "Grenzallee"
+  },
+  {
+    "id": "153",
+    "cx": "1912.104",
+    "cy": "1547.031",
+    "name": "Blaschkoallee"
+  },
+  {
+    "id": "154",
+    "cx": "1912.104",
+    "cy": "1597.031",
+    "name": "Parachimer Allee"
+  },
+  {
+    "id": "155",
+    "cx": "1912.104",
+    "cy": "1647.031",
+    "name": "Britz-Süd"
+  },
+  {
+    "id": "156",
+    "cx": "1912.104",
+    "cy": "1697.031",
+    "name": "Johannisthaler Chausee"
+  },
+  {
+    "id": "157",
+    "cx": "1937.052",
+    "cy": "1747.948",
+    "name": "Lipschitzallee"
+  },
+  {
+    "id": "158",
+    "cx": "1972.407",
+    "cy": "1783.304",
+    "name": "Wutzkyallee"
+  },
+  {
+    "id": "159",
+    "cx": "2007.763",
+    "cy": "1818.656",
+    "name": "Zwickauer Damm"
+  },
+  {
+    "id": "160",
+    "cx": "2043.1185",
+    "cy": "1854.012",
+    "name": "Rudow"
+  }
 ]
-
