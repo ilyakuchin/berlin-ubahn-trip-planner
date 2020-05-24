@@ -21,6 +21,16 @@ const u7Connections = require('../../Lines/U7/connections.json');
 const u8Connections = require('../../Lines/U8/connections.json');
 const u9Connections = require('../../Lines/U9/connections.json');
 
+const u1Labels = require('../../Lines/U1/labels.json');
+const u2Labels = require('../../Lines/U2/labels.json');
+const u3Labels = require('../../Lines/U3/labels.json');
+const u4Labels = require('../../Lines/U4/labels.json');
+const u5Labels = require('../../Lines/U5/labels.json');
+const u6Labels = require('../../Lines/U6/labels.json');
+const u7Labels = require('../../Lines/U7/labels.json');
+const u8Labels = require('../../Lines/U8/labels.json');
+const u9Labels = require('../../Lines/U9/labels.json');
+
 const interchanges = require('../../Lines/interchangeStations.json');
 
 export default function metroMap(
@@ -48,6 +58,17 @@ export default function metroMap(
       ...u7Connections,
       ...u8Connections,
       ...u9Connections,
+    ],
+    labels: [
+      ...u1Labels,
+      ...u2Labels,
+      ...u3Labels,
+      ...u4Labels,
+      ...u5Labels,
+      ...u6Labels,
+      ...u7Labels,
+      ...u8Labels,
+      ...u9Labels,
     ],
     graph: buildGraph(
       [

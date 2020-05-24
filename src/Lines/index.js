@@ -4,7 +4,7 @@ import Connection from '../Connection';
 import { connect } from 'react-redux';
 import Label from '../Label';
 
-export function Lines({ connections, stations, route }) {
+export function Lines({ connections, stations, labels, route }) {
   const drawnConnections = [...connections].map((connection) => (
     <Connection
       stroke={connection.color}
@@ -27,11 +27,12 @@ export function Lines({ connections, stations, route }) {
         cx={station.cx}
         cy={station.cy}
       />
-      <Label
-        key={station.id}
-        label={station.label}
-        transform={station.transform}
-      />
+    </>
+  ));
+
+  const drawnLabels = [...labels].map((label) => (
+    <>
+      <Label label={label.label} transform={label.transform} />
     </>
   ));
 
@@ -39,6 +40,7 @@ export function Lines({ connections, stations, route }) {
     <>
       {drawnConnections}
       {drawnStations}
+      {drawnLabels}
     </>
   );
 }
@@ -47,6 +49,7 @@ const mapStateToProps = (state) => {
   return {
     stations: state.metroMap.stations,
     connections: state.metroMap.connections,
+    labels: state.metroMap.labels,
     route: state.metroMap.route,
   };
 };

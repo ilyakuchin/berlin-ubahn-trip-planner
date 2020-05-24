@@ -1,0 +1,22 @@
+[
+	{
+		"transform": "matrix(1 0 0 1 1074.2065 1206.6663)",
+		"label": "Nollendorfplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1059.6045 1269.0159)",
+		"label": "Viktoria-Luise-Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 956.6177 1360.0002)",
+		"label": "Bayerischer Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 967.2363 1405.9983)",
+		"label": "Rathaus Schöneberg"
+	},
+	{
+		"transform": "matrix(1 0 0 1 998.8394 1469.0002)",
+		"label": "Innsbrucker Platz"
+	}
+]

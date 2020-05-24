@@ -3,126 +3,109 @@
 		"id": "184",
 		"cx": "854.695",
 		"cy": "1733.486",
-		"transform": "matrix(1 0 0 1 725.1299 1735.1877)",
-		"label": "Rathaus Steglitz"
+		"name": "Rathaus Steglitz"
 	},
 	{
 		"id": "185",
 		"cx": "854.695",
 		"cy": "1657.031",
-		"transform": "matrix(1 0 0 1 750.0947 1661.0002)",
-		"label": "Schloßstraße"
+		"name": "Schloßstraße"
 	},
 	{
 		"id": "186",
 		"cx": "854.695",
 		"cy": "1587.031",
-		"transform": "matrix(1 0 0 1 679.2813 1593.0002)",
-		"label": "Walther-Schreiber-Platz"
+		"name": "Walther-Schreiber-Platz"
 	},
 	{
 		"id": "187",
 		"cx": "854.695",
 		"cy": "1517.031",
-		"transform": "matrix(1 0 0 1 680.915 1522.2893)",
-		"label": "Friedrich-Wilhelm-Platz"
+		"name": "Friedrich-Wilhelm-Platz"
 	},
 	{
 		"id": "188",
 		"cx": "854.695",
 		"cy": "1447.031",
-		"transform": "matrix(1 0 0 1 758.5581 1455.5315)",
-		"label": "Bundesplatz"
+		"name": "Bundesplatz"
 	},
 	{
 		"id": "189",
 		"cx": "854.695",
 		"cy": "1340.688",
-		"transform": "matrix(1 0 0 1 863.1948 1332.0159)",
-		"label": "Berliner Straße"
+		"name": "Berliner Straße"
 	},
 	{
 		"id": "190",
 		"cx": "854.695",
 		"cy": "1290.516",
-		"transform": "matrix(1 0 0 1 877 1294.0002)",
-		"label": "Güntzelstraße"
+		"name": "Güntzelstraße"
 	},
 	{
 		"id": "191",
 		"cx": "854.695",
 		"cy": "1249.016",
-		"transform": "matrix(1 0 0 1 869.6948 1254.0159)",
-		"label": "Spichernstraße"
+		"name": "Spichernstraße"
 	},
 	{
 		"id": "192",
 		"cx": "854.695",
 		"cy": "1143.516",
-		"transform": "matrix(1 0 0 1 863.1948 1160.0002)",
-		"label": "Kurfürstendamm"
+		"name": "Kurfürstendamm"
 	},
 	{
 		"id": "193",
 		"cx": "875.5",
 		"cy": "1058.5002",
-		"transform": "matrix(1 0 0 1 900.5 1055.5002)",
-		"label": "Zoologischer Garten"
+		"name": "Zoologischer Garten"
 	},
 	{
 		"id": "194",
 		"cx": "984.25",
 		"cy": "948.961",
-		"transform": "matrix(1 0 0 1 1008 970.0002)",
-		"label": "Hansaplatz"
+		"name": "Hansaplatz"
 	},
 	{
 		"id": "195",
 		"cx": "1004.953",
 		"cy": "767.554",
-		"transform": "matrix(1 0 0 1 900.8604 767.554)",
-		"label": "Turmstraße"
+		"name": "Turmstraße"
 	},
 	{
 		"id": "196",
 		"cx": "1004.953",
 		"cy": "667.554",
-		"transform": "matrix(1 0 0 1 893.9971 672.0002)",
-		"label": "Birkenstraße"
+		"name": "Birkenstraße"
 	},
 	{
 		"id": "197",
 		"cx": "1004.453",
 		"cy": "572.061",
-		"transform": "matrix(1 0 0 1 905.7529 581.1604)",
-		"label": "Westhafen"
+		"name": "Westhafen"
 	},
 	{
 		"id": "198",
 		"cx": "1064.612",
 		"cy": "487.156",
-		"transform": "matrix(1 0 0 1 943.9429 476.553)",
-		"label": "Amrumer Straße"
+		"name": "Amrumer Straße"
 	},
 	{
 		"id": "199",
 		"cx": "1141.5",
 		"cy": "411.5",
-		"transform": "matrix(1 0 0 1 1160.7207 420.0002)",
-		"label": "Leopoldplatz"
+		"name": "Leopoldplatz"
 	},
 	{
 		"id": "200",
 		"cx": "1193.386",
 		"cy": "358.386",
-		"transform": "matrix(1 0 0 1 1123.0952 339.7688)",
-		"label": "Nauener Platz"
+		"name": "Nauener Platz"
 	},
 	{
 		"id": "201",
 		"cx": "1241.5",
 		"cy": "310",
-		"transform": "matrix(1 0 0 1 1258.8701 311.0002)",
-		"label": "Osloer Straße"
+		"name": "Osloer Straße"
 	}
 ]
+

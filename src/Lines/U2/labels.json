@@ -1,0 +1,109 @@
+[
+	{ "transform": "matrix(1 0 0 1 343.5 853.5002)", "label": "Ruhleben" },
+	{
+		"transform": "matrix(1 0 0 1 293.3066 919.2766)",
+		"label": "Olympia-stadion"
+	},
+	{ "transform": "matrix(1 0 0 1 413 919.2766)", "label": "Neu-Westend" },
+	{
+		"transform": "matrix(1 0 0 1 417.5078 994.5002)",
+		"label": "Theodor-Heuss-Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 494.9844 944.0002)",
+		"label": "Kaiserdamm"
+	},
+	{
+		"transform": "matrix(1 0 0 1 593.8735 914.5002)",
+		"label": "Sophie-Charlotte-Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 702.5 985.1272)",
+		"label": " Bismarckstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 720.1563 919.2766)",
+		"label": "Deutsche Oper"
+	},
+	{
+		"transform": "matrix(1 0 0 1 826 979.8245)",
+		"label": "Ernst-Reuter-Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 900.5 1055.5002)",
+		"label": "Zoologischer Garten"
+	},
+	{
+		"transform": "matrix(1 0 0 1 975.0186 1199.4084)",
+		"label": "Wittenbergplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1074.2065 1199.4084)",
+		"label": "Nollendorfplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1151.229 1199.4084)",
+		"label": "Bülowstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1269 1163.0159)",
+		"label": " Gleisdreieck"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1198.9316 1036.5002)",
+		"label": "Mendelssohn-Bartholdy-Park"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1273.8301 994.5002)",
+		"label": "Potsdamer Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1419.1162 981.4182)",
+		"label": "Mohrenstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1460.6572 1036.5002)",
+		"label": "Stadtmitte"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1548.0566 1047.0002)",
+		"label": "Hausvogteiplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1640.7344 1047.0002)",
+		"label": "Spittelmarkt"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1596.666 990.4309)",
+		"label": "Märkisches Museum"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1619.7041 959.5667)",
+		"label": "Klosterstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1743.8242 799.2307)",
+		"label": "Alexanderplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1752 726.0002)",
+		"label": "Rosa-Luxemburg-Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1752 668.5002)",
+		"label": "Senefeldplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1752 620.0002)",
+		"label": "Eberswalder Straße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1752 563.5608)",
+		"label": "Schönhauser Allee"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1752 433.5002)",
+		"label": "Vinetastraße"
+	},
+	{ "transform": "matrix(1 0 0 1 1752 287.0002)", "label": "Pankow" }
+]

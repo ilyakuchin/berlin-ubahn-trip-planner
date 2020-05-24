@@ -1,0 +1,54 @@
+[
+	{
+		"transform": "matrix(1 0 0 1 738.2876 1106.0159)",
+		"label": "Uhlandstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 863.1948 1160.0002)",
+		"label": "Kurfürstendamm"
+	},
+	{
+		"transform": "matrix(1 0 0 1 975.0186 1106.0159)",
+		"label": "Wittenbergplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1074.2065 1175.3323)",
+		"label": "Nollendorfplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1154.4702 1106.0159)",
+		"label": "Kurfürstenstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1269 1163.0159)",
+		"label": " Gleisdreieck"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1396.042 1180.6663)",
+		"label": "Möckernbrücke"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1547.5 1160.0002)",
+		"label": "Hallesches Tor"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1605.2412 1122.0002)",
+		"label": "Prinzenstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1720.1963 1122.0002)",
+		"label": "Kottbusser Tor"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1797.1963 1175.3323)",
+		"label": "Görlitzer Bahnhof"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1913.624 1175.3323)",
+		"label": "Schlesisches Tor"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1989.6387 1051.9006)",
+		"label": "Warschauer Straße"
+	}
+]

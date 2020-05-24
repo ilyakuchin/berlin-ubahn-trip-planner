@@ -1,0 +1,98 @@
+[
+	{
+		"transform": "matrix(1 0 0 1 299.9839 1719.0002)",
+		"label": "Krumme Lanke"
+	},
+	{
+		"transform": "matrix(1 0 0 1 311.3921 1678.6194)",
+		"label": "Onkel Toms Hütte"
+	},
+	{
+		"transform": "matrix(1 0 0 1 339.9141 1640.0002)",
+		"label": "Oskar-Helene-Heim"
+	},
+	{
+		"transform": "matrix(1 0 0 1 396.5195 1603.0315)",
+		"label": "Freie Universität (Thielplatz)"
+	},
+	{
+		"transform": "matrix(1 0 0 1 418.7012 1569.9397)",
+		"label": "Dahlem-Dorf"
+	},
+	{
+		"transform": "matrix(1 0 0 1 446.2441 1539.887)",
+		"label": "Podbielskallee"
+	},
+	{
+		"transform": "matrix(1 0 0 1 464.4893 1504.5334)",
+		"label": "Breitenbachplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 488.9531 1469.0315)",
+		"label": "Rüdesheimer Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 531.4951 1440.9417)",
+		"label": "Heidelberger Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 638.7266 1342.0002)",
+		"label": "Fehrbelliner Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 683.6406 1300.111)",
+		"label": "Hohenzollernplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 869.6948 1254.0159)",
+		"label": "Spichernstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 933.123 1204.7112)",
+		"label": "Augsburger Straße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 975.0186 1180.0159)",
+		"label": "Wittenbergplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1074.206 1180.0159)",
+		"label": "Nollendorfplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1154.4702 1180.0159)",
+		"label": "Kurfürstenstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1269 1180.0159)",
+		"label": "Gleisdreieck"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1396.042 1180.0159)",
+		"label": "Möckernbrücke"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1547.5 1180.0159)",
+		"label": "Hallesches Tor"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1605.2412 1180.0159)",
+		"label": "Prinzenstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1720.1963 1180.0159)",
+		"label": "Kottbusser Tor"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1797.1963 1180.0159)",
+		"label": "Görlitzer Bahnhof"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1913.624 1180.0159)",
+		"label": "Schlesisches Tor"
+	},
+	{
+		"transform": "matrix(1 0 0 1 2009.6387 1090.7995)",
+		"label": "Warschauer Straße"
+	}
+]

@@ -1,0 +1,71 @@
+[
+	{
+		"transform": "matrix(1 0 0 1 725.1299 1735.1877)",
+		"label": "Rathaus Steglitz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 750.0947 1661.0002)",
+		"label": "Schloßstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 679.2813 1593.0002)",
+		"label": "Walther-Schreiber-Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 680.915 1522.2893)",
+		"label": "Friedrich-Wilhelm-Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 758.5581 1455.5315)",
+		"label": "Bundesplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 863.1948 1332.0159)",
+		"label": "Berliner Straße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 877 1294.0002)",
+		"label": "Güntzelstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 869.6948 1254.0159)",
+		"label": "Spichernstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 863.1948 1160.0002)",
+		"label": "Kurfürstendamm"
+	},
+	{
+		"transform": "matrix(1 0 0 1 900.5 1055.5002)",
+		"label": "Zoologischer Garten"
+	},
+	{ "transform": "matrix(1 0 0 1 1008 970.0002)", "label": "Hansaplatz" },
+	{
+		"transform": "matrix(1 0 0 1 900.8604 767.554)",
+		"label": "Turmstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 893.9971 672.0002)",
+		"label": "Birkenstraße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 905.7529 581.1604)",
+		"label": "Westhafen"
+	},
+	{
+		"transform": "matrix(1 0 0 1 943.9429 476.553)",
+		"label": "Amrumer Straße"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1160.7207 420.0002)",
+		"label": "Leopoldplatz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1123.0952 339.7688)",
+		"label": "Nauener Platz"
+	},
+	{
+		"transform": "matrix(1 0 0 1 1258.8701 311.0002)",
+		"label": "Osloer Straße"
+	}
+]
