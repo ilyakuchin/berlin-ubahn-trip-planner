@@ -3,7 +3,12 @@
 
 Interactive map of Berlin U-Bahn
 
-Try the app [here](https://berlin-ubahn-trip-planner.herokuapp.com/) (Click two stations to build a route.)
+Try the app [here](https://berlin-ubahn-trip-planner.herokuapp.com/) 
+
+### Instructions
+* Click two stations to build a route
+* Hold mouse button to move the map
+* Scroll to zoom the map
 
 ![](berlin_ubahn_trip_planner_demo.gif)
 
@@ -11,7 +16,7 @@ Try the app [here](https://berlin-ubahn-trip-planner.herokuapp.com/) (Click two 
 Remixed [Berlin Underground](https://commons.wikimedia.org/wiki/File:Berlin_Underground.svg) map by Mahogany115 (CC-BY-SA 4.0) is used in this app.
 
 
-# Build and start
+### Build and start
 * `git clone https://github.com/ilyakuchin/berlin-ubahn-trip-planner.git`
 * `cd berlin-ubahn-trip-planner`
 * `npm install` OR `yarn`
