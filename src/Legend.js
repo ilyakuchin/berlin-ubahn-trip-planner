@@ -190,7 +190,7 @@ export default function Legend() {
         y='421.0002'
         text-anchor='middle'
       >
-        Click two stations to build a route
+        Select departure station and destination
       </text>
       <text
         fontFamily="'TrebuchetMS'"
@@ -199,7 +199,7 @@ export default function Legend() {
         y='441.0002'
         text-anchor='middle'
       >
-        Hold mouse button to move the map
+        station with a click to build a route
       </text>
       <text
         fontFamily="'TrebuchetMS'"
@@ -208,13 +208,22 @@ export default function Legend() {
         y='461.0002'
         text-anchor='middle'
       >
+        Hold mouse button to move the map
+      </text>
+      <text
+        fontFamily="'TrebuchetMS'"
+        fontSize='22'
+        x='2498.5'
+        y='481.0002'
+        text-anchor='middle'
+      >
         Scroll to zoom the map
       </text>
       <text
         fontFamily="'TrebuchetMS'"
         fontSize='18'
         x='2504.5'
-        y='501.0002'
+        y='521.0002'
         text-anchor='middle'
       >
         App By Ilya Kuchin (GPL-3.0)
@@ -224,7 +233,7 @@ export default function Legend() {
           fontFamily="'TrebuchetMS'"
           fontSize='18'
           x='2504.5'
-          y='521.0002'
+          y='541.0002'
           text-anchor='middle'
         >
           GitHub
