@@ -13,7 +13,7 @@ export default function Map() {
   let Viewer = null;
 
   useEffect(() => {
-    Viewer.fitSelection(600, 500, 750, 750);
+    Viewer.fitSelection(600, 0, 2000, 1200);
   }, [Viewer]);
 
   const svg = (

@@ -4,14 +4,14 @@ export default function Legend() {
   return (
     <>
       <rect
-        x='2319.881'
+        x='2269.881'
         y='65.655'
         fill='none'
         stroke='#000000'
         strokeWidth='2'
         strokeMiterlimit='10'
-        width='351.119'
-        height='464.346'
+        width='451.119'
+        height='544.346'
       />
       <text
         transform='matrix(1 0 0 1 2454.7891 94.6213)'
@@ -175,19 +175,56 @@ export default function Legend() {
       </text>
       <text
         fontFamily="'TrebuchetMS'"
+        fontSize='22'
+        font-weight='bold'
+        x='2498.5'
+        y='401.0002'
+        text-anchor='middle'
+      >
+        Instructions:
+      </text>
+      <text
+        fontFamily="'TrebuchetMS'"
+        fontSize='22'
+        x='2498.5'
+        y='421.0002'
+        text-anchor='middle'
+      >
+        Click two stations to build a route
+      </text>
+      <text
+        fontFamily="'TrebuchetMS'"
+        fontSize='22'
+        x='2498.5'
+        y='441.0002'
+        text-anchor='middle'
+      >
+        Hold mouse button to move the map
+      </text>
+      <text
+        fontFamily="'TrebuchetMS'"
+        fontSize='22'
+        x='2498.5'
+        y='461.0002'
+        text-anchor='middle'
+      >
+        Scroll to zoom the map
+      </text>
+      <text
+        fontFamily="'TrebuchetMS'"
         fontSize='18'
         x='2504.5'
-        y='401.0002'
+        y='501.0002'
         text-anchor='middle'
       >
         App By Ilya Kuchin (GPL-3.0)
       </text>
-      <a href='https://github.com/ilyakuchin'>
+      <a href='https://github.com/ilyakuchin/berlin-ubahn-trip-planner'>
         <text
           fontFamily="'TrebuchetMS'"
           fontSize='18'
           x='2504.5'
-          y='421.0002'
+          y='521.0002'
           text-anchor='middle'
         >
           GitHub
@@ -198,7 +235,7 @@ export default function Legend() {
         fontFamily="'TrebuchetMS'"
         fontSize='18'
         x='2504.5'
-        y='461.0002'
+        y='561.0002'
         text-anchor='middle'
       >
         Based On The Map By Mahogany115
@@ -207,7 +244,7 @@ export default function Legend() {
         fontFamily="'TrebuchetMS'"
         fontSize='18'
         x='2504.5'
-        y='481.0002'
+        y='581.0002'
         text-anchor='middle'
       >
         (CC-BY-SA 4.0)
@@ -217,7 +254,7 @@ export default function Legend() {
           fontFamily="'TrebuchetMS'"
           fontSize='18'
           x='2504.5'
-          y='501.0002'
+          y='601.0002'
           text-anchor='middle'
         >
           Wikimedia
