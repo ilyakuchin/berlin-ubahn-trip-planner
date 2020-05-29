@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+a:link,
+a:visited {
+  cursor: pointer;
+}
+
+a text {
+  fill: blue; /* Even for text, SVG uses fill over color */
+  text-decoration: underline;
+}
+
+a:hover,
+a:active {
+  outline: dotted 1px blue;
+}
