@@ -6,7 +6,7 @@ Interactive map of Berlin U-Bahn
 Try the app [here](https://berlin-ubahn-trip-planner.herokuapp.com/) 
 
 ### Instructions
-* Click two stations to build a route
+* Select departure station and destination station with a click to build a route
 * Hold mouse button to move the map
 * Scroll to zoom the map
 
