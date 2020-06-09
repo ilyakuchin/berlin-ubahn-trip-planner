@@ -1,4 +1,10 @@
 import React from 'react';
+import {
+  fontFamily,
+  legendFontSize,
+  instructionsFontSize,
+  creditsFontSize,
+} from './TextSettings';
 
 export default function Legend() {
   return (
@@ -15,8 +21,8 @@ export default function Legend() {
       />
       <text
         transform='matrix(1 0 0 1 2454.7891 94.6213)'
-        fontFamily="'TrebuchetMS'"
-        fontSize='24'
+        fontFamily={fontFamily}
+        fontSize={legendFontSize}
       >
         Legend
       </text>
@@ -32,8 +38,8 @@ export default function Legend() {
       />
       <text
         transform='matrix(1 0 0 1 2594.5 121.0002)'
-        fontFamily="'TrebuchetMS'"
-        fontSize='24'
+        fontFamily={fontFamily}
+        fontSize={legendFontSize}
       >
         U1
       </text>
@@ -49,8 +55,8 @@ export default function Legend() {
       />
       <text
         transform='matrix(1 0 0 1 2594.5 151.0002)'
-        fontFamily="'TrebuchetMS'"
-        fontSize='24'
+        fontFamily={fontFamily}
+        fontSize={legendFontSize}
       >
         U2
       </text>
@@ -66,8 +72,8 @@ export default function Legend() {
       />
       <text
         transform='matrix(1 0 0 1 2594.5 181.0002)'
-        fontFamily="'TrebuchetMS'"
-        fontSize='24'
+        fontFamily={fontFamily}
+        fontSize={legendFontSize}
       >
         U3
       </text>
@@ -83,8 +89,8 @@ export default function Legend() {
       />
       <text
         transform='matrix(1 0 0 1 2594.5 211.0002)'
-        fontFamily="'TrebuchetMS'"
-        fontSize='24'
+        fontFamily={fontFamily}
+        fontSize={legendFontSize}
       >
         U4
       </text>
@@ -100,8 +106,8 @@ export default function Legend() {
       />
       <text
         transform='matrix(1 0 0 1 2574.5 241.0002)'
-        fontFamily="'TrebuchetMS'"
-        fontSize='24'
+        fontFamily={fontFamily}
+        fontSize={legendFontSize}
       >
         U5/U55
       </text>
@@ -117,8 +123,8 @@ export default function Legend() {
       />
       <text
         transform='matrix(1 0 0 1 2594.5 271.0002)'
-        fontFamily="'TrebuchetMS'"
-        fontSize='24'
+        fontFamily={fontFamily}
+        fontSize={legendFontSize}
       >
         U6
       </text>
@@ -134,8 +140,8 @@ export default function Legend() {
       />
       <text
         transform='matrix(1 0 0 1 2594.5 301.0002)'
-        fontFamily="'TrebuchetMS'"
-        fontSize='24'
+        fontFamily={fontFamily}
+        fontSize={legendFontSize}
       >
         U7
       </text>
@@ -151,8 +157,8 @@ export default function Legend() {
       />
       <text
         transform='matrix(1 0 0 1 2594.5 331.0002)'
-        fontFamily="'TrebuchetMS'"
-        fontSize='24'
+        fontFamily={fontFamily}
+        fontSize={legendFontSize}
       >
         U8
       </text>
@@ -168,13 +174,13 @@ export default function Legend() {
       />
       <text
         transform='matrix(1 0 0 1 2594.5 361.0002)'
-        fontFamily="'TrebuchetMS'"
-        fontSize='24'
+        fontFamily={fontFamily}
+        fontSize={legendFontSize}
       >
         U9
       </text>
       <text
-        fontFamily="'TrebuchetMS'"
+        fontFamily={fontFamily}
         fontSize='22'
         font-weight='bold'
         x='2498.5'
@@ -184,8 +190,8 @@ export default function Legend() {
         Instructions:
       </text>
       <text
-        fontFamily="'TrebuchetMS'"
-        fontSize='22'
+        fontFamily={fontFamily}
+        fontSize={instructionsFontSize}
         x='2498.5'
         y='421.0002'
         text-anchor='middle'
@@ -193,8 +199,8 @@ export default function Legend() {
         Select departure station and destination
       </text>
       <text
-        fontFamily="'TrebuchetMS'"
-        fontSize='22'
+        fontFamily={fontFamily}
+        fontSize={instructionsFontSize}
         x='2498.5'
         y='441.0002'
         text-anchor='middle'
@@ -202,8 +208,8 @@ export default function Legend() {
         station with a click to build a route
       </text>
       <text
-        fontFamily="'TrebuchetMS'"
-        fontSize='22'
+        fontFamily={fontFamily}
+        fontSize={instructionsFontSize}
         x='2498.5'
         y='461.0002'
         text-anchor='middle'
@@ -211,8 +217,8 @@ export default function Legend() {
         Hold mouse button to move the map
       </text>
       <text
-        fontFamily="'TrebuchetMS'"
-        fontSize='22'
+        fontFamily={fontFamily}
+        fontSize={instructionsFontSize}
         x='2498.5'
         y='481.0002'
         text-anchor='middle'
@@ -220,8 +226,8 @@ export default function Legend() {
         Scroll to zoom the map
       </text>
       <text
-        fontFamily="'TrebuchetMS'"
-        fontSize='18'
+        fontFamily={fontFamily}
+        fontSize={creditsFontSize}
         x='2504.5'
         y='521.0002'
         text-anchor='middle'
@@ -230,8 +236,8 @@ export default function Legend() {
       </text>
       <a href='https://github.com/ilyakuchin/berlin-ubahn-trip-planner'>
         <text
-          fontFamily="'TrebuchetMS'"
-          fontSize='18'
+          fontFamily={fontFamily}
+          fontSize={creditsFontSize}
           x='2504.5'
           y='541.0002'
           text-anchor='middle'
@@ -241,8 +247,8 @@ export default function Legend() {
       </a>
 
       <text
-        fontFamily="'TrebuchetMS'"
-        fontSize='18'
+        fontFamily={fontFamily}
+        fontSize={creditsFontSize}
         x='2504.5'
         y='561.0002'
         text-anchor='middle'
@@ -250,8 +256,8 @@ export default function Legend() {
         Based On The Map By Mahogany115
       </text>
       <text
-        fontFamily="'TrebuchetMS'"
-        fontSize='18'
+        fontFamily={fontFamily}
+        fontSize={creditsFontSize}
         x='2504.5'
         y='581.0002'
         text-anchor='middle'
@@ -260,8 +266,8 @@ export default function Legend() {
       </text>
       <a href='https://commons.wikimedia.org/wiki/File:Berlin_Underground.svg'>
         <text
-          fontFamily="'TrebuchetMS'"
-          fontSize='18'
+          fontFamily={fontFamily}
+          fontSize={creditsFontSize}
           x='2504.5'
           y='601.0002'
           text-anchor='middle'
