@@ -1,4 +1,4 @@
-export const fontFamily = "'TrebuchetMS'";
+export const fontFamily = "'Helvetica'";
 export const stationsFontSize = '14';
 export const legendFontSize = '24';
 export const instructionsFontSize = '22';
